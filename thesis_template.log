@@ -1,0 +1,933 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 08:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis_template.tex
+(./thesis_template.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./ODUthesis.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen126
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(./thesis_template.aux
+
+LaTeX Warning: Label `eq:twalkEq' multiply defined.
+
+)
+\openout1 = `thesis_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen127
+\scratchbox=\box30
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen128
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \celsius on input line 37.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 37.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 37.
+Package gensymb Info: Using \Omega for \ohm on input line 37.
+
+Package gensymb Warning: Not defining \micro.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
+
+] [3
+
+] [4
+
+
+] (./thesis_template.toc [5
+
+
+])
+\tf@toc=\write3
+\openout3 = `thesis_template.toc'.
+
+ [6] (./thesis_template.lot)
+\tf@lot=\write4
+\openout4 = `thesis_template.lot'.
+
+ [7
+
+
+]
+(./thesis_template.lof
+Overfull \hbox (0.39163pt too wide) detected at line 2
+\OT1/cmr/m/n/12 4.1.1. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 3
+\OT1/cmr/m/n/12 4.2.1. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 4
+\OT1/cmr/m/n/12 4.2.2. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 5
+\OT1/cmr/m/n/12 4.2.3. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 6
+\OT1/cmr/m/n/12 4.2.4. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 7
+\OT1/cmr/m/n/12 4.2.5. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 8
+\OT1/cmr/m/n/12 4.2.6. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 9
+\OT1/cmr/m/n/12 4.3.1. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 10
+\OT1/cmr/m/n/12 4.4.1. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 11
+\OT1/cmr/m/n/12 4.4.2. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 12
+\OT1/cmr/m/n/12 4.4.3. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 13
+\OT1/cmr/m/n/12 4.4.4. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 14
+\OT1/cmr/m/n/12 4.4.5. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 15
+\OT1/cmr/m/n/12 4.4.6. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 16
+\OT1/cmr/m/n/12 4.4.7. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 17
+\OT1/cmr/m/n/12 4.4.8. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 18
+\OT1/cmr/m/n/12 4.4.9. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 19
+\OT1/cmr/m/n/12 4.4.10. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 20
+\OT1/cmr/m/n/12 5.2.1. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 21
+\OT1/cmr/m/n/12 5.2.2. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 22
+\OT1/cmr/m/n/12 5.2.3. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 23
+\OT1/cmr/m/n/12 5.2.4. 
+ []
+
+[8
+
+
+]
+Overfull \hbox (0.39163pt too wide) detected at line 24
+\OT1/cmr/m/n/12 5.2.5. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 25
+\OT1/cmr/m/n/12 5.2.6. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 26
+\OT1/cmr/m/n/12 5.2.7. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 27
+\OT1/cmr/m/n/12 5.2.8. 
+ []
+
+
+Overfull \hbox (0.39163pt too wide) detected at line 28
+\OT1/cmr/m/n/12 5.2.9. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 29
+\OT1/cmr/m/n/12 5.2.10. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 30
+\OT1/cmr/m/n/12 5.2.11. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 31
+\OT1/cmr/m/n/12 5.2.12. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 32
+\OT1/cmr/m/n/12 5.2.13. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 33
+\OT1/cmr/m/n/12 5.2.14. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 34
+\OT1/cmr/m/n/12 5.2.15. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 35
+\OT1/cmr/m/n/12 5.2.16. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 36
+\OT1/cmr/m/n/12 5.2.17. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 37
+\OT1/cmr/m/n/12 5.2.18. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 38
+\OT1/cmr/m/n/12 5.2.19. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 39
+\OT1/cmr/m/n/12 5.2.20. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 40
+\OT1/cmr/m/n/12 5.2.21. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 41
+\OT1/cmr/m/n/12 5.2.22. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 42
+\OT1/cmr/m/n/12 5.2.23. 
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `thesis_template.lof'.
+
+ [9]
+CHAPTER 1
+[1
+
+
+] [2]
+CHAPTER 2
+[3
+
+]
+CHAPTER 3
+[4
+
+]
+CHAPTER 4
+<pics/experiment/cebafLabel.png, id=53, 586.3506pt x 500.5902pt>
+File: pics/experiment/cebafLabel.png Graphic file (type png)
+
+<use pics/experiment/cebafLabel.png>
+Package pdftex.def Info: pics/experiment/cebafLabel.png used on input line 116.
+
+(pdftex.def)             Requested size: 352.31624pt x 300.78418pt.
+ [5
+
+] [6 <./pics/experiment/cebafLabel.png>] <pics/experiment/hallB.png, id=62, 405
+.6756pt x 239.9364pt>
+File: pics/experiment/hallB.png Graphic file (type png)
+
+<use pics/experiment/hallB.png>
+Package pdftex.def Info: pics/experiment/hallB.png used on input line 131.
+(pdftex.def)             Requested size: 281.85585pt x 166.70953pt.
+
+<pics/experiment/hpsBeamline.png, id=63, 918.3108pt x 258.2448pt>
+File: pics/experiment/hpsBeamline.png Graphic file (type png)
+
+<use pics/experiment/hpsBeamline.png>
+Package pdftex.def Info: pics/experiment/hpsBeamline.png used on input line 140
+.
+(pdftex.def)             Requested size: 469.75499pt x 132.10503pt.
+ [7 <./pics/experiment/hallB.png>]
+<pics/experiment/bfield.png, id=68, 608.0316pt x 387.3672pt>
+File: pics/experiment/bfield.png Graphic file (type png)
+
+<use pics/experiment/bfield.png>
+Package pdftex.def Info: pics/experiment/bfield.png used on input line 149.
+(pdftex.def)             Requested size: 469.75499pt x 299.28441pt.
+ [8 <./pics/experiment/hpsBeamline.png>]
+<pics/experiment/feetrajectory.png, id=74, 582.0144pt x 381.5856pt>
+File: pics/experiment/feetrajectory.png Graphic file (type png)
+
+<use pics/experiment/feetrajectory.png>
+Package pdftex.def Info: pics/experiment/feetrajectory.png used on input line 1
+58.
+(pdftex.def)             Requested size: 469.75499pt x 307.98799pt.
+ [9 <./pics/experiment/bfield.png>]
+<pics/experiment/beamlineGemc.png, id=79, 580.569pt x 377.7312pt>
+File: pics/experiment/beamlineGemc.png Graphic file (type png)
+
+<use pics/experiment/beamlineGemc.png>
+Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 16
+7.
+(pdftex.def)             Requested size: 375.80542pt x 244.50795pt.
+ [10 <./pics/experiment/feetrajectory.png>] [11 <./pics/experiment/beamlineGemc
+.png>]
+<pics/experiment/harpScan.png, id=89, 781.92125pt x 772.8875pt>
+File: pics/experiment/harpScan.png Graphic file (type png)
+
+<use pics/experiment/harpScan.png>
+Package pdftex.def Info: pics/experiment/harpScan.png used on input line 180.
+(pdftex.def)             Requested size: 469.75499pt x 464.32574pt.
+ [12] [13 <./pics/experiment/harpScan.png>]
+<pics/experiment/svt.png, id=97, 733.74126pt x 392.46625pt>
+File: pics/experiment/svt.png Graphic file (type png)
+
+<use pics/experiment/svt.png>
+Package pdftex.def Info: pics/experiment/svt.png used on input line 201.
+(pdftex.def)             Requested size: 469.75499pt x 251.26735pt.
+ [14] [15 <./pics/experiment/svt.png>]
+<pics/experiment/ecalface.png, id=105, 675.4836pt x 291.9708pt>
+File: pics/experiment/ecalface.png Graphic file (type png)
+
+<use pics/experiment/ecalface.png>
+Package pdftex.def Info: pics/experiment/ecalface.png used on input line 219.
+(pdftex.def)             Requested size: 399.2946pt x 172.59094pt.
+ [16 <./pics/experiment/ecalface.png>]
+<pics/experiment/crystal.png, id=111, 603.2136pt x 309.7974pt>
+File: pics/experiment/crystal.png Graphic file (type png)
+
+<use pics/experiment/crystal.png>
+Package pdftex.def Info: pics/experiment/crystal.png used on input line 228.
+(pdftex.def)             Requested size: 399.2946pt x 205.0767pt.
+
+<pics/experiment/ecalAssembly1.png, id=112, 315.579pt x 421.0932pt>
+File: pics/experiment/ecalAssembly1.png Graphic file (type png)
+
+<use pics/experiment/ecalAssembly1.png>
+Package pdftex.def Info: pics/experiment/ecalAssembly1.png used on input line 2
+39.
+(pdftex.def)             Requested size: 234.87749pt x 313.40318pt.
+ [17 <./pics/experiment/crystal.png>]
+[18 <./pics/experiment/ecalAssembly1.png>]
+<pics/experiment/ledSignal.png, id=121, 329.0694pt x 405.1938pt>
+File: pics/experiment/ledSignal.png Graphic file (type png)
+
+<use pics/experiment/ledSignal.png>
+Package pdftex.def Info: pics/experiment/ledSignal.png used on input line 263.
+(pdftex.def)             Requested size: 234.87749pt x 289.21675pt.
+ [19]
+<pics/experiment/ledCompare.png, id=125, 530.9436pt x 542.025pt>
+File: pics/experiment/ledCompare.png Graphic file (type png)
+
+<use pics/experiment/ledCompare.png>
+Package pdftex.def Info: pics/experiment/ledCompare.png used on input line 272.
+
+(pdftex.def)             Requested size: 234.87749pt x 239.77368pt.
+ [20 <./pics/experiment/ledSignal.png>]
+<pics/experiment/apd.png, id=130, 172.9662pt x 70.8246pt>
+File: pics/experiment/apd.png Graphic file (type png)
+
+<use pics/experiment/apd.png>
+Package pdftex.def Info: pics/experiment/apd.png used on input line 285.
+(pdftex.def)             Requested size: 187.89912pt x 76.94437pt.
+ [21 <./pics/experiment/ledCompare.png>]
+<pics/experiment/apdtests.png, id=135, 598.3956pt x 224.5188pt>
+File: pics/experiment/apdtests.png Graphic file (type png)
+
+<use pics/experiment/apdtests.png>
+Package pdftex.def Info: pics/experiment/apdtests.png used on input line 297.
+(pdftex.def)             Requested size: 328.82706pt x 123.3795pt.
+
+<pics/experiment/apdcurrent.png, id=136, 517.935pt x 424.4658pt>
+File: pics/experiment/apdcurrent.png Graphic file (type png)
+
+<use pics/experiment/apdcurrent.png>
+Package pdftex.def Info: pics/experiment/apdcurrent.png used on input line 306.
+
+(pdftex.def)             Requested size: 187.89912pt x 153.99281pt.
+ [22 <./pics/experiment/apd.png> <./pics/experiment/apdtests.png>]
+<pics/experiment/apdIvG.png, id=143, 430.7292pt x 344.9688pt>
+File: pics/experiment/apdIvG.png Graphic file (type png)
+
+<use pics/experiment/apdIvG.png>
+Package pdftex.def Info: pics/experiment/apdIvG.png used on input line 322.
+(pdftex.def)             Requested size: 187.89912pt x 150.48657pt.
+ [23 <./pics/experiment/apdcurrent.png> <./pics/experiment/apdIvG.png>]
+<pics/experiment/apdTV.png, id=149, 445.1832pt x 344.9688pt>
+File: pics/experiment/apdTV.png Graphic file (type png)
+
+<use pics/experiment/apdTV.png>
+Package pdftex.def Info: pics/experiment/apdTV.png used on input line 332.
+(pdftex.def)             Requested size: 187.89912pt x 145.60178pt.
+ [24 <./pics/experiment/apdTV.png>] [25]
+[26] [27]
+CHAPTER 5
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--421
+
+ []
+
+[28
+
+] [29]
+<pics/performance/energycorrection.pdf, id=170, 569.12625pt x 426.59375pt>
+File: pics/performance/energycorrection.pdf Graphic file (type pdf)
+
+<use pics/performance/energycorrection.pdf>
+Package pdftex.def Info: pics/performance/energycorrection.pdf used on input li
+ne 441.
+(pdftex.def)             Requested size: 352.31624pt x 264.09482pt.
+ [30 <./pics/performance/energycorrection.pdf, page is rotated 90 degrees>]
+<pics/performance/sfparEdgeFit.png, id=217, 854.7132pt x 309.3156pt>
+File: pics/performance/sfparEdgeFit.png Graphic file (type png)
+
+<use pics/performance/sfparEdgeFit.png>
+Package pdftex.def Info: pics/performance/sfparEdgeFit.png used on input line 4
+57.
+(pdftex.def)             Requested size: 469.75499pt x 170.0061pt.
+ [31 <./pics/performance/sfparEdgeFit.png>] <pics/performance/sfparEdge_ep.png,
+ id=222, 756.8275pt x 274.02374pt>
+File: pics/performance/sfparEdge_ep.png Graphic file (type png)
+
+<use pics/performance/sfparEdge_ep.png>
+Package pdftex.def Info: pics/performance/sfparEdge_ep.png used on input line 4
+86.
+(pdftex.def)             Requested size: 469.75499pt x 170.0853pt.
+
+<pics/performance/sfparEdge_p.png, id=223, 766.865pt x 271.0125pt>
+File: pics/performance/sfparEdge_p.png Graphic file (type png)
+
+<use pics/performance/sfparEdge_p.png>
+Package pdftex.def Info: pics/performance/sfparEdge_p.png used on input line 49
+4.
+(pdftex.def)             Requested size: 469.75499pt x 166.01624pt.
+ [32 <./pics/performance/sfparEdge_ep.png>] <pics/performance/eResFitMC.png, id
+=230, 665.48625pt x 394.47375pt>
+File: pics/performance/eResFitMC.png Graphic file (type png)
+
+<use pics/performance/eResFitMC.png>
+Package pdftex.def Info: pics/performance/eResFitMC.png used on input line 508.
+
+(pdftex.def)             Requested size: 281.85585pt x 167.07428pt.
+ [33 <./pics/performance/sfparEdge_p.png> <./pics/performance/eResFitMC.png>] [
+34]
+<pics/performance/xposn1gev.png, id=240, 709.65125pt x 709.65125pt>
+File: pics/performance/xposn1gev.png Graphic file (type png)
+
+<use pics/performance/xposn1gev.png>
+Package pdftex.def Info: pics/performance/xposn1gev.png used on input line 547.
+
+(pdftex.def)             Requested size: 328.82706pt x 328.83661pt.
+
+<pics/performance/xposcorrPar.png, id=241, 1144.275pt x 468.75125pt>
+File: pics/performance/xposcorrPar.png Graphic file (type png)
+
+<use pics/performance/xposcorrPar.png>
+Package pdftex.def Info: pics/performance/xposcorrPar.png used on input line 56
+3.
+(pdftex.def)             Requested size: 469.75499pt x 192.43243pt.
+ [35 <./pics/performance/xposn1gev.png>]
+[36 <./pics/performance/xposcorrPar.png>]
+<pics/performance/corrPosnsFits.png, id=250, 1181.41376pt x 657.45625pt>
+File: pics/performance/corrPosnsFits.png Graphic file (type png)
+
+<use pics/performance/corrPosnsFits.png>
+Package pdftex.def Info: pics/performance/corrPosnsFits.png used on input line 
+603.
+(pdftex.def)             Requested size: 469.75499pt x 261.41286pt.
+
+<pics/performance/emPosnResn.png, id=251, 768.8725pt x 892.33376pt>
+File: pics/performance/emPosnResn.png Graphic file (type png)
+
+<use pics/performance/emPosnResn.png>
+Package pdftex.def Info: pics/performance/emPosnResn.png used on input line 612
+.
+(pdftex.def)             Requested size: 469.75499pt x 545.19423pt.
+ [37 <./pics/performance/corrPosnsFits.png>] [38 <./pics/performance/emPosnResn
+.png>]
+<pics/performance/cosmicschematic.png, id=260, 229.60782pt x 200.24812pt>
+File: pics/performance/cosmicschematic.png Graphic file (type png)
+
+<use pics/performance/cosmicschematic.png>
+Package pdftex.def Info: pics/performance/cosmicschematic.png used on input lin
+e 656.
+(pdftex.def)             Requested size: 234.87749pt x 204.85538pt.
+ [39]
+<pics/performance/cosmicEdep.png, id=264, 803.0pt x 602.25pt>
+File: pics/performance/cosmicEdep.png Graphic file (type png)
+
+<use pics/performance/cosmicEdep.png>
+Package pdftex.def Info: pics/performance/cosmicEdep.png used on input line 665
+.
+(pdftex.def)             Requested size: 375.80542pt x 281.86288pt.
+ [40 <./pics/performance/cosmicschematic.png>] <pics/performance/cosmicSignal.p
+ng, id=269, 803.0pt x 602.25pt>
+File: pics/performance/cosmicSignal.png Graphic file (type png)
+
+<use pics/performance/cosmicSignal.png>
+Package pdftex.def Info: pics/performance/cosmicSignal.png used on input line 6
+76.
+(pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
+ [41 <./pics/performance/cosmicEdep.png>]
+<pics/performance/cosmicFitExample2015.pdf, id=273, 569.12625pt x 426.59375pt>
+File: pics/performance/cosmicFitExample2015.pdf Graphic file (type pdf)
+
+<use pics/performance/cosmicFitExample2015.pdf>
+Package pdftex.def Info: pics/performance/cosmicFitExample2015.pdf used on inpu
+t line 685.
+(pdftex.def)             Requested size: 375.80542pt x 281.70245pt.
+ [42 <./pics/performance/cosmicSignal.png>] <pics/performance/cosmicGains2015.p
+ng, id=277, 803.0pt x 602.25pt>
+File: pics/performance/cosmicGains2015.png Graphic file (type png)
+
+<use pics/performance/cosmicGains2015.png>
+Package pdftex.def Info: pics/performance/cosmicGains2015.png used on input lin
+e 701.
+(pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
+ [43 <./pics/performance/cosmicFitExample2015.pdf, page is rotated 90 degrees>]
+
+<pics/performance/cosmicGainsMay15.pdf, id=324, 569.12625pt x 426.59375pt>
+File: pics/performance/cosmicGainsMay15.pdf Graphic file (type pdf)
+
+<use pics/performance/cosmicGainsMay15.pdf>
+Package pdftex.def Info: pics/performance/cosmicGainsMay15.pdf used on input li
+ne 709.
+(pdftex.def)             Requested size: 328.82706pt x 246.4872pt.
+ [44 <./pics/performance/cosmicGains2015.png> <./pics/performance/cosmicGainsMa
+y15.pdf, page is rotated 90 degrees>] <pics/performance/mode1fit.png, id=371, 4
+90.9542pt x 441.8106pt>
+File: pics/performance/mode1fit.png Graphic file (type png)
+
+<use pics/performance/mode1fit.png>
+Package pdftex.def Info: pics/performance/mode1fit.png used on input line 732.
+(pdftex.def)             Requested size: 234.87749pt x 211.3723pt.
+ [45] [46 <./pics/performance/mode1fit.png>]
+
+LaTeX Warning: Reference `eq:feeiter' on page 47 undefined on input line 751.
+
+<pics/performance/feePeakFid.png, id=380, 1172.38pt x 541.02126pt>
+File: pics/performance/feePeakFid.png Graphic file (type png)
+
+<use pics/performance/feePeakFid.png>
+Package pdftex.def Info: pics/performance/feePeakFid.png used on input line 762
+.
+(pdftex.def)             Requested size: 422.77661pt x 195.0977pt.
+
+
+LaTeX Warning: Reference `Figure:FeeFidPeak' on page 47 undefined on input line
+ 767.
+
+[47 <./pics/performance/feePeakFid.png>]
+<pics/performance/rfFits.png, id=385, 579.16376pt x 385.44pt>
+File: pics/performance/rfFits.png Graphic file (type png)
+
+<use pics/performance/rfFits.png>
+Package pdftex.def Info: pics/performance/rfFits.png used on input line 797.
+(pdftex.def)             Requested size: 328.82706pt x 218.83852pt.
+ [48]
+<pics/performance/rfRes.png, id=389, 501.875pt x 346.29375pt>
+File: pics/performance/rfRes.png Graphic file (type png)
+
+<use pics/performance/rfRes.png>
+Package pdftex.def Info: pics/performance/rfRes.png used on input line 808.
+(pdftex.def)             Requested size: 328.82706pt x 226.90068pt.
+ [49 <./pics/performance/rfFits.png>]
+<pics/performance/beamStructure.png, id=394, 930.47626pt x 689.57625pt>
+File: pics/performance/beamStructure.png Graphic file (type png)
+
+<use pics/performance/beamStructure.png>
+Package pdftex.def Info: pics/performance/beamStructure.png used on input line 
+825.
+(pdftex.def)             Requested size: 328.82706pt x 243.6912pt.
+ [50 <./pics/performance/rfRes.png>]
+<pics/performance/2clusteroffset.png, id=400, 653.44125pt x 243.91125pt>
+File: pics/performance/2clusteroffset.png Graphic file (type png)
+
+<use pics/performance/2clusteroffset.png>
+Package pdftex.def Info: pics/performance/2clusteroffset.png used on input line
+ 837.
+(pdftex.def)             Requested size: 422.77661pt x 157.81096pt.
+ [51 <./pics/performance/beamStructure.png>] <pics/performance/twalk2016.png, i
+d=405, 820.06375pt x 640.3925pt>
+File: pics/performance/twalk2016.png Graphic file (type png)
+
+<use pics/performance/twalk2016.png>
+Package pdftex.def Info: pics/performance/twalk2016.png used on input line 847.
+
+(pdftex.def)             Requested size: 422.77661pt x 330.15271pt.
+ [52 <./pics/performance/2clusteroffset.png>] <pics/performance/timeRes2016.png
+, id=411, 823.075pt x 585.18625pt>
+File: pics/performance/timeRes2016.png Graphic file (type png)
+
+<use pics/performance/timeRes2016.png>
+Package pdftex.def Info: pics/performance/timeRes2016.png used on input line 86
+3.
+(pdftex.def)             Requested size: 422.77661pt x 300.58405pt.
+ [53 <./pics/performance/twalk2016.png>]
+<pics/performance/2clusterTres.png, id=417, 808.01875pt x 613.29124pt>
+File: pics/performance/2clusterTres.png Graphic file (type png)
+
+<use pics/performance/2clusterTres.png>
+Package pdftex.def Info: pics/performance/2clusterTres.png used on input line 8
+79.
+(pdftex.def)             Requested size: 422.77661pt x 320.88782pt.
+ [54 <./pics/performance/timeRes2016.png>] [55 <./pics/performance/2clusterTres
+.png>]
+CHAPTER 6
+[56
+
+]
+CHAPTER 7
+[57
+
+]
+CHAPTER 8
+[58
+
+] [59
+
+]
+APPENDIX A
+[60
+
+] [61
+
+] (./thesis_template.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2657 strings out of 493014
+ 40000 string characters out of 6133351
+ 104765 words of memory out of 5000000
+ 6113 multiletter control sequences out of 15000+600000
+ 9868 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,15n,23p,1774b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis_template.pdf (70 pages, 8636167 bytes).
+PDF statistics:
+ 494 PDF objects out of 1000 (max. 8388607)
+ 253 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+

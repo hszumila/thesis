@@ -1,0 +1,43 @@
+\noindent Figure\hfill Page\par 
+\contentsline {figure}{\numberline {4.1.1.}{\ignorespaces CEBAF accelerator}}{6}
+\contentsline {figure}{\numberline {4.2.1.}{\ignorespaces HPS location in Hall B}}{7}
+\contentsline {figure}{\numberline {4.2.2.}{\ignorespaces HPS beamline}}{8}
+\contentsline {figure}{\numberline {4.2.3.}{\ignorespaces HPS magnetic fields}}{9}
+\contentsline {figure}{\numberline {4.2.4.}{\ignorespaces Charged particle trajectory in HPS beamline}}{10}
+\contentsline {figure}{\numberline {4.2.5.}{\ignorespaces HPS beamline simulation in GEMC}}{11}
+\contentsline {figure}{\numberline {4.2.6.}{\ignorespaces Harp scan showing the beam profile during May 2015 running. This particular harp scan is in the Hall B logbook, entry 3341231. The beamline profile in this scan is 122$\mu $m wide in $x$ by 23$\mu $m in $y$.}}{13}
+\contentsline {figure}{\numberline {4.3.1.}{\ignorespaces Rendering of the HPS SVT}}{15}
+\contentsline {figure}{\numberline {4.4.1.}{\ignorespaces Drawing of the Ecal assembly face}}{16}
+\contentsline {figure}{\numberline {4.4.2.}{\ignorespaces Single Ecal module}}{17}
+\contentsline {figure}{\numberline {4.4.3.}{\ignorespaces Photograph of Ecal crystals during assembly}}{18}
+\contentsline {figure}{\numberline {4.4.4.}{\ignorespaces LED signal in Ecal FADC}}{20}
+\contentsline {figure}{\numberline {4.4.5.}{\ignorespaces Results of a single LED run}}{21}
+\contentsline {figure}{\numberline {4.4.6.}{\ignorespaces Hamamatsu S8664-3189 large area APDs}}{22}
+\contentsline {figure}{\numberline {4.4.7.}{\ignorespaces Testing assembly for large area APDs}}{22}
+\contentsline {figure}{\numberline {4.4.8.}{\ignorespaces APD current draw versus voltage with LED on and off}}{23}
+\contentsline {figure}{\numberline {4.4.9.}{\ignorespaces APD measured dark current as a function of gain}}{23}
+\contentsline {figure}{\numberline {4.4.10.}{\ignorespaces APD fixed gain in terms of voltage and temperature}}{24}
+\contentsline {figure}{\numberline {5.2.1.}{\ignorespaces Ecal energy shower correction functions from simulation}}{30}
+\contentsline {figure}{\numberline {5.2.2.}{\ignorespaces Ecal energy shower parameters for electrons relative to the inside beam gap edge}}{31}
+\contentsline {figure}{\numberline {5.2.3.}{\ignorespaces Ecal energy shower parameters for positrons relative to the inside beam gap edge}}{32}
+\contentsline {figure}{\numberline {5.2.4.}{\ignorespaces Ecal energy shower parameters for photons relative to the inside beam gap edge}}{33}
+\contentsline {figure}{\numberline {5.2.5.}{\ignorespaces Ecal energy resolution fitted from simulation}}{33}
+\contentsline {figure}{\numberline {5.2.6.}{\ignorespaces Horizontal position correction for 1\nobreakspace {}GeV electrons}}{35}
+\contentsline {figure}{\numberline {5.2.7.}{\ignorespaces Horizontal position correction dependence for electrons}}{36}
+\contentsline {figure}{\numberline {5.2.8.}{\ignorespaces Position resolution for 1\nobreakspace {}GeV electrons.}}{37}
+\contentsline {figure}{\numberline {5.2.9.}{\ignorespaces Energy-dependent position resolution for electrons.}}{38}
+\contentsline {figure}{\numberline {5.2.10.}{\ignorespaces Setup for Ecal cosmic ray calibration}}{40}
+\contentsline {figure}{\numberline {5.2.11.}{\ignorespaces Simulation of energy deposited per Ecal module from cosmic rays}}{41}
+\contentsline {figure}{\numberline {5.2.12.}{\ignorespaces Real cosmic ray signal in raw FADC waveform passing vertically through Ecal}}{42}
+\contentsline {figure}{\numberline {5.2.13.}{\ignorespaces Integrated cosmic signal in Ecal fitted for calibration}}{43}
+\contentsline {figure}{\numberline {5.2.14.}{\ignorespaces Resulting 2015 gain calibration in the Ecal using cosmic ray muons shown by Ecal module position}}{44}
+\contentsline {figure}{\numberline {5.2.15.}{\ignorespaces Distribution of the resulting 2015 gains in the Ecal using cosmic ray muons}}{44}
+\contentsline {figure}{\numberline {5.2.16.}{\ignorespaces Pulse-fitting to Mode-1 Ecal data}}{46}
+\contentsline {figure}{\numberline {5.2.17.}{\ignorespaces Reconstructed elastic peak in the Ecal for 2015 and 2016 running}}{47}
+\contentsline {figure}{\numberline {5.2.18.}{\ignorespaces Fitted, raw waveform of the RF signal in HPS}}{49}
+\contentsline {figure}{\numberline {5.2.19.}{\ignorespaces FADC intrinsic time resolution}}{50}
+\contentsline {figure}{\numberline {5.2.20.}{\ignorespaces Time difference between Ecal hits and RF time}}{51}
+\contentsline {figure}{\numberline {5.2.21.}{\ignorespaces Time difference between two clusters after fine offset time correction}}{52}
+\contentsline {figure}{\numberline {5.2.22.}{\ignorespaces Time walk correction for the 2016 Ecal data}}{53}
+\contentsline {figure}{\numberline {5.2.23.}{\ignorespaces Time resolution of the Ecal for the 2016 run }}{54}
+\contentsline {figure}{\numberline {5.2.24.}{\ignorespaces Time resolution for the time difference between two clusters}}{55}

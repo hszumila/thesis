@@ -1,0 +1,60 @@
+\hfill Page\par 
+\contentsline {chapter}{\uppercase {List of Tables}}{vii}
+\contentsline {chapter}{\uppercase {List of Figures}}{viii}
+\vspace *{12pt}
+\noindent Chapter
+
+\contentsline {chapter}{\numberline {1.}\uppercase {Introduction}}{1}
+\contentsline {chapter}{\numberline {2.}\uppercase {Motivation}}{3}
+\contentsline {section}{\numberline {2.1}\uppercase {Theory of Heavy Photons}}{3}
+\contentsline {section}{\numberline {2.2}\uppercase {Heavy Photons and Dark Matter}}{3}
+\contentsline {section}{\numberline {2.3}\uppercase {Existing Limits on Heavy Photons}}{3}
+\contentsline {chapter}{\numberline {3.}\uppercase {How to Search for a Heavy Photon}}{4}
+\contentsline {section}{\numberline {3.1}\uppercase {Bump Hunt}}{4}
+\contentsline {section}{\numberline {3.2}\uppercase {Detached Vertex Signal}}{4}
+\contentsline {section}{\numberline {3.3}\uppercase {Trident Background}}{4}
+\contentsline {subsection}{\numberline {3.3.1}\uppercase {Beithe-Heitler}}{4}
+\contentsline {subsection}{\numberline {3.3.2}\uppercase {Radiative}}{4}
+\contentsline {section}{\numberline {3.4}\uppercase {Wide Angle Bremsstrahlung}}{4}
+\contentsline {section}{\numberline {3.5}\uppercase {Beam Halo}}{4}
+\contentsline {section}{\numberline {3.6}\uppercase {High z background??}}{4}
+\contentsline {chapter}{\numberline {4.}\uppercase {Heavy Photon Search Experiment}}{5}
+\contentsline {section}{\numberline {4.1}\uppercase {CEBAF}}{5}
+\contentsline {section}{\numberline {4.2}\uppercase {Beamline}}{6}
+\contentsline {subsection}{\numberline {4.2.1}\uppercase {Target}}{13}
+\contentsline {subsection}{\numberline {4.2.2}\uppercase {Collimator}}{14}
+\contentsline {section}{\numberline {4.3}\uppercase {Silicon Vertex Tracker}}{14}
+\contentsline {section}{\numberline {4.4}\uppercase {Electromagnetic Calorimeter}}{16}
+\contentsline {subsection}{\numberline {4.4.1}\uppercase {Light Monitoring System}}{18}
+\contentsline {subsection}{\numberline {4.4.2}\uppercase {Avalanche Photodiodes}}{21}
+\contentsline {section}{\numberline {4.5}\uppercase {Trigger}}{24}
+\contentsline {chapter}{\numberline {5.}\uppercase {Detector Calibration and Performance}}{28}
+\contentsline {section}{\numberline {5.1}\uppercase {Silicon Vertex Tracker Performance}}{28}
+\contentsline {subsection}{\numberline {5.1.1}\uppercase {Three particle event efficiencies}}{28}
+\contentsline {section}{\numberline {5.2}\uppercase {Electromagnetic Calorimeter Calibration}}{28}
+\contentsline {subsection}{\numberline {5.2.1}\uppercase {Simulations}}{28}
+\contentsline {subsubsection}{Energy reconstruction}{29}
+\contentsline {subsubsection}{Energy resolution}{33}
+\contentsline {subsubsection}{Position reconstruction}{34}
+\contentsline {subsubsection}{Position resolution}{37}
+\contentsline {subsection}{\numberline {5.2.2}\uppercase {Ecal calibration using cosmic ray energy}}{39}
+\contentsline {subsection}{\numberline {5.2.3}\uppercase {Ecal Hit Pulse Fitting}}{45}
+\contentsline {subsection}{\numberline {5.2.4}\uppercase {Calibration using elastically-scattered electrons}}{46}
+\contentsline {subsection}{\numberline {5.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects }}{48}
+\contentsline {subsection}{\numberline {5.2.6}\uppercase {Energy resolution in data}}{48}
+\contentsline {subsection}{\numberline {5.2.7}\uppercase {Timing calibration and performance}}{48}
+\contentsline {chapter}{\numberline {6.}\uppercase {Event Selection}}{56}
+\contentsline {section}{\numberline {6.1}\uppercase {Combining Ecal and SVT measurements}}{56}
+\contentsline {section}{\numberline {6.2}\uppercase {Data with Silicon Vertex Tracker at 0.5 mm from the beam}}{56}
+\contentsline {section}{\numberline {6.3}\uppercase {Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}}{56}
+\contentsline {section}{\numberline {6.4}\uppercase {High Z Backgrounds}}{56}
+\contentsline {chapter}{\numberline {7.}\uppercase {Vertex Search Results}}{57}
+\contentsline {chapter}{\numberline {8.}\uppercase {Conclusion}}{58}
+\vspace *{12pt}
+\contentsline {chapter}{BIBLIOGRAPHY}{59}
+\vspace *{12pt}
+\noindent APPENDICES
+
+\contentsline {section}{\numberline {A.}\uppercase {}}{60}
+\vspace *{12pt}
+\contentsline {chapter}{VITA}{61}
