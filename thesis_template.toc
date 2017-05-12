@@ -40,21 +40,21 @@
 \contentsline {subsection}{\numberline {5.2.2}\uppercase {Ecal calibration using cosmic ray energy}}{39}
 \contentsline {subsection}{\numberline {5.2.3}\uppercase {Ecal Hit Pulse Fitting}}{45}
 \contentsline {subsection}{\numberline {5.2.4}\uppercase {Calibration using elastically-scattered electrons}}{46}
-\contentsline {subsection}{\numberline {5.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects }}{48}
-\contentsline {subsection}{\numberline {5.2.6}\uppercase {Energy resolution in data}}{48}
-\contentsline {subsection}{\numberline {5.2.7}\uppercase {Timing calibration and performance}}{48}
-\contentsline {chapter}{\numberline {6.}\uppercase {Event Selection}}{56}
-\contentsline {section}{\numberline {6.1}\uppercase {Combining Ecal and SVT measurements}}{56}
-\contentsline {section}{\numberline {6.2}\uppercase {Data with Silicon Vertex Tracker at 0.5 mm from the beam}}{56}
-\contentsline {section}{\numberline {6.3}\uppercase {Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}}{56}
-\contentsline {section}{\numberline {6.4}\uppercase {High Z Backgrounds}}{56}
-\contentsline {chapter}{\numberline {7.}\uppercase {Vertex Search Results}}{57}
-\contentsline {chapter}{\numberline {8.}\uppercase {Conclusion}}{58}
+\contentsline {subsection}{\numberline {5.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects}}{48}
+\contentsline {subsection}{\numberline {5.2.6}\uppercase {Energy resolution in data}}{49}
+\contentsline {subsection}{\numberline {5.2.7}\uppercase {Timing calibration and performance}}{51}
+\contentsline {chapter}{\numberline {6.}\uppercase {Event Selection}}{60}
+\contentsline {section}{\numberline {6.1}\uppercase {Combining Ecal and SVT measurements}}{60}
+\contentsline {section}{\numberline {6.2}\uppercase {Data with Silicon Vertex Tracker at 0.5 mm from the beam}}{60}
+\contentsline {section}{\numberline {6.3}\uppercase {Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}}{60}
+\contentsline {section}{\numberline {6.4}\uppercase {High Z Backgrounds}}{60}
+\contentsline {chapter}{\numberline {7.}\uppercase {Vertex Search Results}}{61}
+\contentsline {chapter}{\numberline {8.}\uppercase {Conclusion}}{62}
 \vspace *{12pt}
-\contentsline {chapter}{BIBLIOGRAPHY}{59}
+\contentsline {chapter}{BIBLIOGRAPHY}{63}
 \vspace *{12pt}
 \noindent APPENDICES
 
-\contentsline {section}{\numberline {A.}\uppercase {}}{60}
+\contentsline {section}{\numberline {A.}\uppercase {}}{64}
 \vspace *{12pt}
-\contentsline {chapter}{VITA}{61}
+\contentsline {chapter}{VITA}{65}

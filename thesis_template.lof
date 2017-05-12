@@ -34,10 +34,12 @@
 \contentsline {figure}{\numberline {5.2.15.}{\ignorespaces Distribution of the resulting 2015 gains in the Ecal using cosmic ray muons}}{44}
 \contentsline {figure}{\numberline {5.2.16.}{\ignorespaces Pulse-fitting to Mode-1 Ecal data}}{46}
 \contentsline {figure}{\numberline {5.2.17.}{\ignorespaces Reconstructed elastic peak in the Ecal for 2015 and 2016 running}}{47}
-\contentsline {figure}{\numberline {5.2.18.}{\ignorespaces Fitted, raw waveform of the RF signal in HPS}}{49}
-\contentsline {figure}{\numberline {5.2.19.}{\ignorespaces FADC intrinsic time resolution}}{50}
-\contentsline {figure}{\numberline {5.2.20.}{\ignorespaces Time difference between Ecal hits and RF time}}{51}
-\contentsline {figure}{\numberline {5.2.21.}{\ignorespaces Time difference between two clusters after fine offset time correction}}{52}
-\contentsline {figure}{\numberline {5.2.22.}{\ignorespaces Time walk correction for the 2016 Ecal data}}{53}
-\contentsline {figure}{\numberline {5.2.23.}{\ignorespaces Time resolution of the Ecal for the 2016 run }}{54}
-\contentsline {figure}{\numberline {5.2.24.}{\ignorespaces Time resolution for the time difference between two clusters}}{55}
+\contentsline {figure}{\numberline {5.2.18.}{\ignorespaces Energy resolution of the Ecal found in data}}{50}
+\contentsline {figure}{\numberline {5.2.19.}{\ignorespaces Fitted, raw waveform of the RF signal in HPS}}{52}
+\contentsline {figure}{\numberline {5.2.20.}{\ignorespaces FADC intrinsic time resolution}}{53}
+\contentsline {figure}{\numberline {5.2.21.}{\ignorespaces Time difference between Ecal hits and RF time}}{54}
+\contentsline {figure}{\numberline {5.2.22.}{\ignorespaces Time difference between two clusters after fine offset time correction}}{55}
+\contentsline {figure}{\numberline {5.2.23.}{\ignorespaces Hit times in a cluster versus the hit energy}}{56}
+\contentsline {figure}{\numberline {5.2.24.}{\ignorespaces Time walk correction for the 2016 Ecal data}}{57}
+\contentsline {figure}{\numberline {5.2.25.}{\ignorespaces Time resolution of the Ecal for the 2016 run }}{58}
+\contentsline {figure}{\numberline {5.2.26.}{\ignorespaces Time resolution for the time difference between two clusters}}{59}

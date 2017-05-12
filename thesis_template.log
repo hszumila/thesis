@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 08:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  11 MAY 2017 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,13 +506,28 @@ Overfull \hbox (6.26657pt too wide) detected at line 42
 \OT1/cmr/m/n/12 5.2.23. 
  []
 
+
+Overfull \hbox (6.26657pt too wide) detected at line 43
+\OT1/cmr/m/n/12 5.2.24. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 44
+\OT1/cmr/m/n/12 5.2.25. 
+ []
+
+
+Overfull \hbox (6.26657pt too wide) detected at line 45
+\OT1/cmr/m/n/12 5.2.26. 
+ []
+
 )
 \tf@lof=\write5
 \openout5 = `thesis_template.lof'.
 
  [9]
 CHAPTER 1
-[1
+(./texFiles/Intro/intro.tex) [1
 
 
 ] [2]
@@ -525,52 +540,52 @@ CHAPTER 3
 
 ]
 CHAPTER 4
+(./texFiles/Experiment/cebaf.tex
 <pics/experiment/cebafLabel.png, id=53, 586.3506pt x 500.5902pt>
 File: pics/experiment/cebafLabel.png Graphic file (type png)
 
 <use pics/experiment/cebafLabel.png>
-Package pdftex.def Info: pics/experiment/cebafLabel.png used on input line 116.
-
+Package pdftex.def Info: pics/experiment/cebafLabel.png used on input line 5.
 (pdftex.def)             Requested size: 352.31624pt x 300.78418pt.
  [5
 
-] [6 <./pics/experiment/cebafLabel.png>] <pics/experiment/hallB.png, id=62, 405
-.6756pt x 239.9364pt>
+]) [6 <./pics/experiment/cebafLabel.png>] (./texFiles/Experiment/beamline.tex
+<pics/experiment/hallB.png, id=62, 405.6756pt x 239.9364pt>
 File: pics/experiment/hallB.png Graphic file (type png)
 
 <use pics/experiment/hallB.png>
-Package pdftex.def Info: pics/experiment/hallB.png used on input line 131.
+Package pdftex.def Info: pics/experiment/hallB.png used on input line 5.
 (pdftex.def)             Requested size: 281.85585pt x 166.70953pt.
 
 <pics/experiment/hpsBeamline.png, id=63, 918.3108pt x 258.2448pt>
 File: pics/experiment/hpsBeamline.png Graphic file (type png)
 
 <use pics/experiment/hpsBeamline.png>
-Package pdftex.def Info: pics/experiment/hpsBeamline.png used on input line 140
-.
+Package pdftex.def Info: pics/experiment/hpsBeamline.png used on input line 14.
+
 (pdftex.def)             Requested size: 469.75499pt x 132.10503pt.
  [7 <./pics/experiment/hallB.png>]
 <pics/experiment/bfield.png, id=68, 608.0316pt x 387.3672pt>
 File: pics/experiment/bfield.png Graphic file (type png)
 
 <use pics/experiment/bfield.png>
-Package pdftex.def Info: pics/experiment/bfield.png used on input line 149.
+Package pdftex.def Info: pics/experiment/bfield.png used on input line 23.
 (pdftex.def)             Requested size: 469.75499pt x 299.28441pt.
  [8 <./pics/experiment/hpsBeamline.png>]
 <pics/experiment/feetrajectory.png, id=74, 582.0144pt x 381.5856pt>
 File: pics/experiment/feetrajectory.png Graphic file (type png)
 
 <use pics/experiment/feetrajectory.png>
-Package pdftex.def Info: pics/experiment/feetrajectory.png used on input line 1
-58.
+Package pdftex.def Info: pics/experiment/feetrajectory.png used on input line 3
+2.
 (pdftex.def)             Requested size: 469.75499pt x 307.98799pt.
  [9 <./pics/experiment/bfield.png>]
 <pics/experiment/beamlineGemc.png, id=79, 580.569pt x 377.7312pt>
 File: pics/experiment/beamlineGemc.png Graphic file (type png)
 
 <use pics/experiment/beamlineGemc.png>
-Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 16
-7.
+Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 41
+.
 (pdftex.def)             Requested size: 375.80542pt x 244.50795pt.
  [10 <./pics/experiment/feetrajectory.png>] [11 <./pics/experiment/beamlineGemc
 .png>]
@@ -578,28 +593,30 @@ Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 16
 File: pics/experiment/harpScan.png Graphic file (type png)
 
 <use pics/experiment/harpScan.png>
-Package pdftex.def Info: pics/experiment/harpScan.png used on input line 180.
+Package pdftex.def Info: pics/experiment/harpScan.png used on input line 54.
 (pdftex.def)             Requested size: 469.75499pt x 464.32574pt.
- [12] [13 <./pics/experiment/harpScan.png>]
+ [12] [13 <./pics/experiment/harpScan.png>])
+(./texFiles/Experiment/SVT.tex
 <pics/experiment/svt.png, id=97, 733.74126pt x 392.46625pt>
 File: pics/experiment/svt.png Graphic file (type png)
 
 <use pics/experiment/svt.png>
-Package pdftex.def Info: pics/experiment/svt.png used on input line 201.
+Package pdftex.def Info: pics/experiment/svt.png used on input line 5.
 (pdftex.def)             Requested size: 469.75499pt x 251.26735pt.
- [14] [15 <./pics/experiment/svt.png>]
+ [14]) [15 <./pics/experiment/svt.png>]
+(./texFiles/Experiment/Ecal.tex
 <pics/experiment/ecalface.png, id=105, 675.4836pt x 291.9708pt>
 File: pics/experiment/ecalface.png Graphic file (type png)
 
 <use pics/experiment/ecalface.png>
-Package pdftex.def Info: pics/experiment/ecalface.png used on input line 219.
+Package pdftex.def Info: pics/experiment/ecalface.png used on input line 7.
 (pdftex.def)             Requested size: 399.2946pt x 172.59094pt.
  [16 <./pics/experiment/ecalface.png>]
 <pics/experiment/crystal.png, id=111, 603.2136pt x 309.7974pt>
 File: pics/experiment/crystal.png Graphic file (type png)
 
 <use pics/experiment/crystal.png>
-Package pdftex.def Info: pics/experiment/crystal.png used on input line 228.
+Package pdftex.def Info: pics/experiment/crystal.png used on input line 16.
 (pdftex.def)             Requested size: 399.2946pt x 205.0767pt.
 
 <pics/experiment/ecalAssembly1.png, id=112, 315.579pt x 421.0932pt>
@@ -607,65 +624,64 @@ File: pics/experiment/ecalAssembly1.png Graphic file (type png)
 
 <use pics/experiment/ecalAssembly1.png>
 Package pdftex.def Info: pics/experiment/ecalAssembly1.png used on input line 2
-39.
+7.
 (pdftex.def)             Requested size: 234.87749pt x 313.40318pt.
- [17 <./pics/experiment/crystal.png>]
-[18 <./pics/experiment/ecalAssembly1.png>]
+ [17 <./pics/experiment/crystal.png>])
+[18 <./pics/experiment/ecalAssembly1.png>] (./texFiles/Experiment/LMS.tex
 <pics/experiment/ledSignal.png, id=121, 329.0694pt x 405.1938pt>
 File: pics/experiment/ledSignal.png Graphic file (type png)
 
 <use pics/experiment/ledSignal.png>
-Package pdftex.def Info: pics/experiment/ledSignal.png used on input line 263.
+Package pdftex.def Info: pics/experiment/ledSignal.png used on input line 14.
 (pdftex.def)             Requested size: 234.87749pt x 289.21675pt.
  [19]
 <pics/experiment/ledCompare.png, id=125, 530.9436pt x 542.025pt>
 File: pics/experiment/ledCompare.png Graphic file (type png)
 
 <use pics/experiment/ledCompare.png>
-Package pdftex.def Info: pics/experiment/ledCompare.png used on input line 272.
-
+Package pdftex.def Info: pics/experiment/ledCompare.png used on input line 23.
 (pdftex.def)             Requested size: 234.87749pt x 239.77368pt.
- [20 <./pics/experiment/ledSignal.png>]
+ [20 <./pics/experiment/ledSignal.png>])
+(./texFiles/Experiment/APD.tex
 <pics/experiment/apd.png, id=130, 172.9662pt x 70.8246pt>
 File: pics/experiment/apd.png Graphic file (type png)
 
 <use pics/experiment/apd.png>
-Package pdftex.def Info: pics/experiment/apd.png used on input line 285.
+Package pdftex.def Info: pics/experiment/apd.png used on input line 5.
 (pdftex.def)             Requested size: 187.89912pt x 76.94437pt.
  [21 <./pics/experiment/ledCompare.png>]
 <pics/experiment/apdtests.png, id=135, 598.3956pt x 224.5188pt>
 File: pics/experiment/apdtests.png Graphic file (type png)
 
 <use pics/experiment/apdtests.png>
-Package pdftex.def Info: pics/experiment/apdtests.png used on input line 297.
+Package pdftex.def Info: pics/experiment/apdtests.png used on input line 17.
 (pdftex.def)             Requested size: 328.82706pt x 123.3795pt.
 
 <pics/experiment/apdcurrent.png, id=136, 517.935pt x 424.4658pt>
 File: pics/experiment/apdcurrent.png Graphic file (type png)
 
 <use pics/experiment/apdcurrent.png>
-Package pdftex.def Info: pics/experiment/apdcurrent.png used on input line 306.
-
+Package pdftex.def Info: pics/experiment/apdcurrent.png used on input line 26.
 (pdftex.def)             Requested size: 187.89912pt x 153.99281pt.
  [22 <./pics/experiment/apd.png> <./pics/experiment/apdtests.png>]
 <pics/experiment/apdIvG.png, id=143, 430.7292pt x 344.9688pt>
 File: pics/experiment/apdIvG.png Graphic file (type png)
 
 <use pics/experiment/apdIvG.png>
-Package pdftex.def Info: pics/experiment/apdIvG.png used on input line 322.
+Package pdftex.def Info: pics/experiment/apdIvG.png used on input line 42.
 (pdftex.def)             Requested size: 187.89912pt x 150.48657pt.
  [23 <./pics/experiment/apdcurrent.png> <./pics/experiment/apdIvG.png>]
 <pics/experiment/apdTV.png, id=149, 445.1832pt x 344.9688pt>
 File: pics/experiment/apdTV.png Graphic file (type png)
 
 <use pics/experiment/apdTV.png>
-Package pdftex.def Info: pics/experiment/apdTV.png used on input line 332.
+Package pdftex.def Info: pics/experiment/apdTV.png used on input line 52.
 (pdftex.def)             Requested size: 187.89912pt x 145.60178pt.
- [24 <./pics/experiment/apdTV.png>] [25]
-[26] [27]
+) (./texFiles/Experiment/trigger.tex [24 <./pics/experiment/apdTV.png>] [25] [2
+6]) [27]
 CHAPTER 5
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--421
+(./texFiles/DetectorPerformance/Ecal/Simulations.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
@@ -677,7 +693,7 @@ File: pics/performance/energycorrection.pdf Graphic file (type pdf)
 
 <use pics/performance/energycorrection.pdf>
 Package pdftex.def Info: pics/performance/energycorrection.pdf used on input li
-ne 441.
+ne 24.
 (pdftex.def)             Requested size: 352.31624pt x 264.09482pt.
  [30 <./pics/performance/energycorrection.pdf, page is rotated 90 degrees>]
 <pics/performance/sfparEdgeFit.png, id=217, 854.7132pt x 309.3156pt>
@@ -685,31 +701,30 @@ File: pics/performance/sfparEdgeFit.png Graphic file (type png)
 
 <use pics/performance/sfparEdgeFit.png>
 Package pdftex.def Info: pics/performance/sfparEdgeFit.png used on input line 4
-57.
+0.
 (pdftex.def)             Requested size: 469.75499pt x 170.0061pt.
  [31 <./pics/performance/sfparEdgeFit.png>] <pics/performance/sfparEdge_ep.png,
  id=222, 756.8275pt x 274.02374pt>
 File: pics/performance/sfparEdge_ep.png Graphic file (type png)
 
 <use pics/performance/sfparEdge_ep.png>
-Package pdftex.def Info: pics/performance/sfparEdge_ep.png used on input line 4
-86.
+Package pdftex.def Info: pics/performance/sfparEdge_ep.png used on input line 6
+9.
 (pdftex.def)             Requested size: 469.75499pt x 170.0853pt.
 
 <pics/performance/sfparEdge_p.png, id=223, 766.865pt x 271.0125pt>
 File: pics/performance/sfparEdge_p.png Graphic file (type png)
 
 <use pics/performance/sfparEdge_p.png>
-Package pdftex.def Info: pics/performance/sfparEdge_p.png used on input line 49
-4.
+Package pdftex.def Info: pics/performance/sfparEdge_p.png used on input line 77
+.
 (pdftex.def)             Requested size: 469.75499pt x 166.01624pt.
  [32 <./pics/performance/sfparEdge_ep.png>] <pics/performance/eResFitMC.png, id
 =230, 665.48625pt x 394.47375pt>
 File: pics/performance/eResFitMC.png Graphic file (type png)
 
 <use pics/performance/eResFitMC.png>
-Package pdftex.def Info: pics/performance/eResFitMC.png used on input line 508.
-
+Package pdftex.def Info: pics/performance/eResFitMC.png used on input line 91.
 (pdftex.def)             Requested size: 281.85585pt x 167.07428pt.
  [33 <./pics/performance/sfparEdge_p.png> <./pics/performance/eResFitMC.png>] [
 34]
@@ -717,7 +732,7 @@ Package pdftex.def Info: pics/performance/eResFitMC.png used on input line 508.
 File: pics/performance/xposn1gev.png Graphic file (type png)
 
 <use pics/performance/xposn1gev.png>
-Package pdftex.def Info: pics/performance/xposn1gev.png used on input line 547.
+Package pdftex.def Info: pics/performance/xposn1gev.png used on input line 130.
 
 (pdftex.def)             Requested size: 328.82706pt x 328.83661pt.
 
@@ -725,8 +740,8 @@ Package pdftex.def Info: pics/performance/xposn1gev.png used on input line 547.
 File: pics/performance/xposcorrPar.png Graphic file (type png)
 
 <use pics/performance/xposcorrPar.png>
-Package pdftex.def Info: pics/performance/xposcorrPar.png used on input line 56
-3.
+Package pdftex.def Info: pics/performance/xposcorrPar.png used on input line 14
+6.
 (pdftex.def)             Requested size: 469.75499pt x 192.43243pt.
  [35 <./pics/performance/xposn1gev.png>]
 [36 <./pics/performance/xposcorrPar.png>]
@@ -735,40 +750,41 @@ File: pics/performance/corrPosnsFits.png Graphic file (type png)
 
 <use pics/performance/corrPosnsFits.png>
 Package pdftex.def Info: pics/performance/corrPosnsFits.png used on input line 
-603.
+186.
 (pdftex.def)             Requested size: 469.75499pt x 261.41286pt.
 
 <pics/performance/emPosnResn.png, id=251, 768.8725pt x 892.33376pt>
 File: pics/performance/emPosnResn.png Graphic file (type png)
 
 <use pics/performance/emPosnResn.png>
-Package pdftex.def Info: pics/performance/emPosnResn.png used on input line 612
+Package pdftex.def Info: pics/performance/emPosnResn.png used on input line 195
 .
 (pdftex.def)             Requested size: 469.75499pt x 545.19423pt.
  [37 <./pics/performance/corrPosnsFits.png>] [38 <./pics/performance/emPosnResn
-.png>]
+.png>])
+(./texFiles/DetectorPerformance/Ecal/Cosmics.tex
 <pics/performance/cosmicschematic.png, id=260, 229.60782pt x 200.24812pt>
 File: pics/performance/cosmicschematic.png Graphic file (type png)
 
 <use pics/performance/cosmicschematic.png>
 Package pdftex.def Info: pics/performance/cosmicschematic.png used on input lin
-e 656.
+e 9.
 (pdftex.def)             Requested size: 234.87749pt x 204.85538pt.
  [39]
 <pics/performance/cosmicEdep.png, id=264, 803.0pt x 602.25pt>
 File: pics/performance/cosmicEdep.png Graphic file (type png)
 
 <use pics/performance/cosmicEdep.png>
-Package pdftex.def Info: pics/performance/cosmicEdep.png used on input line 665
-.
+Package pdftex.def Info: pics/performance/cosmicEdep.png used on input line 18.
+
 (pdftex.def)             Requested size: 375.80542pt x 281.86288pt.
  [40 <./pics/performance/cosmicschematic.png>] <pics/performance/cosmicSignal.p
 ng, id=269, 803.0pt x 602.25pt>
 File: pics/performance/cosmicSignal.png Graphic file (type png)
 
 <use pics/performance/cosmicSignal.png>
-Package pdftex.def Info: pics/performance/cosmicSignal.png used on input line 6
-76.
+Package pdftex.def Info: pics/performance/cosmicSignal.png used on input line 2
+9.
 (pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
  [41 <./pics/performance/cosmicEdep.png>]
 <pics/performance/cosmicFitExample2015.pdf, id=273, 569.12625pt x 426.59375pt>
@@ -776,7 +792,7 @@ File: pics/performance/cosmicFitExample2015.pdf Graphic file (type pdf)
 
 <use pics/performance/cosmicFitExample2015.pdf>
 Package pdftex.def Info: pics/performance/cosmicFitExample2015.pdf used on inpu
-t line 685.
+t line 38.
 (pdftex.def)             Requested size: 375.80542pt x 281.70245pt.
  [42 <./pics/performance/cosmicSignal.png>] <pics/performance/cosmicGains2015.p
 ng, id=277, 803.0pt x 602.25pt>
@@ -784,7 +800,7 @@ File: pics/performance/cosmicGains2015.png Graphic file (type png)
 
 <use pics/performance/cosmicGains2015.png>
 Package pdftex.def Info: pics/performance/cosmicGains2015.png used on input lin
-e 701.
+e 54.
 (pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
  [43 <./pics/performance/cosmicFitExample2015.pdf, page is rotated 90 degrees>]
 
@@ -793,123 +809,131 @@ File: pics/performance/cosmicGainsMay15.pdf Graphic file (type pdf)
 
 <use pics/performance/cosmicGainsMay15.pdf>
 Package pdftex.def Info: pics/performance/cosmicGainsMay15.pdf used on input li
-ne 709.
+ne 62.
 (pdftex.def)             Requested size: 328.82706pt x 246.4872pt.
- [44 <./pics/performance/cosmicGains2015.png> <./pics/performance/cosmicGainsMa
-y15.pdf, page is rotated 90 degrees>] <pics/performance/mode1fit.png, id=371, 4
-90.9542pt x 441.8106pt>
+) [44 <./pics/performance/cosmicGains2015.png> <./pics/performance/cosmicGainsM
+ay15.pdf, page is rotated 90 degrees>] (./texFiles/DetectorPerformance/Ecal/Pul
+seFitting.tex
+<pics/performance/mode1fit.png, id=371, 490.9542pt x 441.8106pt>
 File: pics/performance/mode1fit.png Graphic file (type png)
 
 <use pics/performance/mode1fit.png>
-Package pdftex.def Info: pics/performance/mode1fit.png used on input line 732.
+Package pdftex.def Info: pics/performance/mode1fit.png used on input line 14.
 (pdftex.def)             Requested size: 234.87749pt x 211.3723pt.
- [45] [46 <./pics/performance/mode1fit.png>]
-
-LaTeX Warning: Reference `eq:feeiter' on page 47 undefined on input line 751.
-
-<pics/performance/feePeakFid.png, id=380, 1172.38pt x 541.02126pt>
+ [45])
+(./texFiles/DetectorPerformance/Ecal/FEE.tex [46 <./pics/performance/mode1fit.p
+ng>] <pics/performance/feePeakFid.png, id=380, 1172.38pt x 541.02126pt>
 File: pics/performance/feePeakFid.png Graphic file (type png)
 
 <use pics/performance/feePeakFid.png>
-Package pdftex.def Info: pics/performance/feePeakFid.png used on input line 762
-.
+Package pdftex.def Info: pics/performance/feePeakFid.png used on input line 13.
+
 (pdftex.def)             Requested size: 422.77661pt x 195.0977pt.
+ [47 <./pics/performance/feePeakFid.png>]) (./texFiles/DetectorPerformance/Ecal
+/WAB.tex [48])
+(./texFiles/DetectorPerformance/Ecal/Eres.tex [49]
+<pics/performance/eResData.png, id=392, 896.34875pt x 668.4975pt>
+File: pics/performance/eResData.png Graphic file (type png)
 
-
-LaTeX Warning: Reference `Figure:FeeFidPeak' on page 47 undefined on input line
- 767.
-
-[47 <./pics/performance/feePeakFid.png>]
-<pics/performance/rfFits.png, id=385, 579.16376pt x 385.44pt>
+<use pics/performance/eResData.png>
+Package pdftex.def Info: pics/performance/eResData.png used on input line 14.
+(pdftex.def)             Requested size: 422.77661pt x 315.30571pt.
+) [50 <./pics/performance/eResData.png>]
+(./texFiles/DetectorPerformance/Ecal/timing.tex
+<pics/performance/rfFits.png, id=397, 579.16376pt x 385.44pt>
 File: pics/performance/rfFits.png Graphic file (type png)
 
 <use pics/performance/rfFits.png>
-Package pdftex.def Info: pics/performance/rfFits.png used on input line 797.
+Package pdftex.def Info: pics/performance/rfFits.png used on input line 12.
 (pdftex.def)             Requested size: 328.82706pt x 218.83852pt.
- [48]
-<pics/performance/rfRes.png, id=389, 501.875pt x 346.29375pt>
+ [51]
+<pics/performance/rfRes.png, id=401, 501.875pt x 346.29375pt>
 File: pics/performance/rfRes.png Graphic file (type png)
 
 <use pics/performance/rfRes.png>
-Package pdftex.def Info: pics/performance/rfRes.png used on input line 808.
+Package pdftex.def Info: pics/performance/rfRes.png used on input line 23.
 (pdftex.def)             Requested size: 328.82706pt x 226.90068pt.
- [49 <./pics/performance/rfFits.png>]
-<pics/performance/beamStructure.png, id=394, 930.47626pt x 689.57625pt>
+ [52 <./pics/performance/rfFits.png>]
+<pics/performance/beamStructure.png, id=407, 930.47626pt x 689.57625pt>
 File: pics/performance/beamStructure.png Graphic file (type png)
 
 <use pics/performance/beamStructure.png>
 Package pdftex.def Info: pics/performance/beamStructure.png used on input line 
-825.
+40.
 (pdftex.def)             Requested size: 328.82706pt x 243.6912pt.
- [50 <./pics/performance/rfRes.png>]
-<pics/performance/2clusteroffset.png, id=400, 653.44125pt x 243.91125pt>
+ [53 <./pics/performance/rfRes.png>]
+<pics/performance/2clusteroffset.png, id=413, 653.44125pt x 243.91125pt>
 File: pics/performance/2clusteroffset.png Graphic file (type png)
 
 <use pics/performance/2clusteroffset.png>
 Package pdftex.def Info: pics/performance/2clusteroffset.png used on input line
- 837.
+ 52.
 (pdftex.def)             Requested size: 422.77661pt x 157.81096pt.
- [51 <./pics/performance/beamStructure.png>] <pics/performance/twalk2016.png, i
-d=405, 820.06375pt x 640.3925pt>
+ [54 <./pics/performance/beamStructure.png>]
+<pics/performance/hittimeincluster.png, id=418, 588.1975pt x 386.44376pt>
+File: pics/performance/hittimeincluster.png Graphic file (type png)
+
+<use pics/performance/hittimeincluster.png>
+Package pdftex.def Info: pics/performance/hittimeincluster.png used on input li
+ne 62.
+(pdftex.def)             Requested size: 422.77661pt x 277.76166pt.
+ [55 <./pics/performance/2clusteroffset.png>] <pics/performance/twalk2016.png, 
+id=423, 820.06375pt x 640.3925pt>
 File: pics/performance/twalk2016.png Graphic file (type png)
 
 <use pics/performance/twalk2016.png>
-Package pdftex.def Info: pics/performance/twalk2016.png used on input line 847.
-
+Package pdftex.def Info: pics/performance/twalk2016.png used on input line 71.
 (pdftex.def)             Requested size: 422.77661pt x 330.15271pt.
- [52 <./pics/performance/2clusteroffset.png>] <pics/performance/timeRes2016.png
-, id=411, 823.075pt x 585.18625pt>
+ [56 <./pics/performance/hittimeincluster.png>] <pics/performance/timeRes2016.p
+ng, id=428, 823.075pt x 585.18625pt>
 File: pics/performance/timeRes2016.png Graphic file (type png)
 
 <use pics/performance/timeRes2016.png>
-Package pdftex.def Info: pics/performance/timeRes2016.png used on input line 86
-3.
+Package pdftex.def Info: pics/performance/timeRes2016.png used on input line 87
+.
 (pdftex.def)             Requested size: 422.77661pt x 300.58405pt.
- [53 <./pics/performance/twalk2016.png>]
-<pics/performance/2clusterTres.png, id=417, 808.01875pt x 613.29124pt>
+ [57 <./pics/performance/twalk2016.png>]
+<pics/performance/2clusterTres.png, id=433, 808.01875pt x 613.29124pt>
 File: pics/performance/2clusterTres.png Graphic file (type png)
 
 <use pics/performance/2clusterTres.png>
-Package pdftex.def Info: pics/performance/2clusterTres.png used on input line 8
-79.
+Package pdftex.def Info: pics/performance/2clusterTres.png used on input line 1
+03.
 (pdftex.def)             Requested size: 422.77661pt x 320.88782pt.
- [54 <./pics/performance/timeRes2016.png>] [55 <./pics/performance/2clusterTres
-.png>]
+ [58 <./pics/performance/timeRes2016.png>]) [59 <./pics/performance/2clusterTre
+s.png>]
 CHAPTER 6
-[56
+[60
 
 ]
 CHAPTER 7
-[57
+[61
 
 ]
 CHAPTER 8
-[58
+[62
 
-] [59
+] [63
 
 ]
 APPENDIX A
-[60
+[64
 
-] [61
+] [65
 
 ] (./thesis_template.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2657 strings out of 493014
- 40000 string characters out of 6133351
- 104765 words of memory out of 5000000
- 6113 multiletter control sequences out of 15000+600000
+ 2722 strings out of 493014
+ 41702 string characters out of 6133351
+ 105891 words of memory out of 5000000
+ 6128 multiletter control sequences out of 15000+600000
  9868 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,15n,23p,1774b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,15n,23p,1808b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -924,10 +948,10 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis_template.pdf (70 pages, 8636167 bytes).
+Output written on thesis_template.pdf (74 pages, 9211829 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
+ 512 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
