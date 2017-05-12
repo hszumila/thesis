@@ -1,0 +1,78 @@
+\BOOKMARK [0][-]{chapter*.2}{List of Tables}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [0][-]{chapter.2}{Motivation}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Theory of Heavy Photons}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Heavy Photons and Dark Matter}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Existing Limits on Heavy Photons}{chapter.2}% 7
+\BOOKMARK [0][-]{chapter.3}{How to Search for a Heavy Photon}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Bump Hunt}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Detached Vertex Signal}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{Trident Background}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.3.1}{Beithe-Heitler}{section.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.2}{Radiative}{section.3.3}% 13
+\BOOKMARK [1][-]{section.3.4}{Wide Angle Bremsstrahlung}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.5}{Beam Halo}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.6}{High z background??}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Heavy Photon Search Experiment}{}% 17
+\BOOKMARK [1][-]{section.4.1}{CEBAF}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Beamline}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Silicon Vertex Tracker}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Electromagnetic Calorimeter}{chapter.4}% 21
+\BOOKMARK [2][-]{subsection.4.4.1}{Light Monitoring System}{section.4.4}% 22
+\BOOKMARK [2][-]{subsection.4.4.2}{Avalanche Photodiodes}{section.4.4}% 23
+\BOOKMARK [1][-]{section.4.5}{Trigger}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Detector Calibration and Performance}{}% 25
+\BOOKMARK [1][-]{section.5.1}{Silicon Vertex Tracker Performance}{chapter.5}% 26
+\BOOKMARK [2][-]{subsection.5.1.1}{M\370ller mass}{section.5.1}% 27
+\BOOKMARK [1][-]{section.5.2}{Electromagnetic Calorimeter Calibration}{chapter.5}% 28
+\BOOKMARK [2][-]{subsection.5.2.1}{Simulations}{section.5.2}% 29
+\BOOKMARK [2][-]{subsection.5.2.2}{Ecal calibration using cosmic ray energy}{section.5.2}% 30
+\BOOKMARK [2][-]{subsection.5.2.3}{Ecal Hit Pulse Fitting}{section.5.2}% 31
+\BOOKMARK [2][-]{subsection.5.2.4}{Calibration using elastically-scattered electrons}{section.5.2}% 32
+\BOOKMARK [2][-]{subsection.5.2.5}{Wide angle bremsstrahlung for studies of edge effects}{section.5.2}% 33
+\BOOKMARK [2][-]{subsection.5.2.6}{Energy resolution in data}{section.5.2}% 34
+\BOOKMARK [2][-]{subsection.5.2.7}{Timing calibration and performance}{section.5.2}% 35
+\BOOKMARK [0][-]{chapter.6}{Event Selection}{}% 36
+\BOOKMARK [1][-]{subsection.6.0.1}{Radiative fraction}{chapter.6}% 37
+\BOOKMARK [1][-]{section.6.1}{Data with Silicon Vertex Tracker at 0.5 mm from the beam}{chapter.6}% 38
+\BOOKMARK [2][-]{subsection.6.1.1}{L1L1}{section.6.1}% 39
+\BOOKMARK [3][-]{section*.5}{Cuts}{subsection.6.1.1}% 40
+\BOOKMARK [3][-]{section*.6}{Vertex reconstruction efficiency, vtx}{subsection.6.1.1}% 41
+\BOOKMARK [3][-]{section*.7}{Mass resolution}{subsection.6.1.1}% 42
+\BOOKMARK [3][-]{section*.8}{Accidentals}{subsection.6.1.1}% 43
+\BOOKMARK [3][-]{section*.9}{Projected reach}{subsection.6.1.1}% 44
+\BOOKMARK [2][-]{subsection.6.1.2}{L1L2}{section.6.1}% 45
+\BOOKMARK [3][-]{section*.10}{Cuts}{subsection.6.1.2}% 46
+\BOOKMARK [3][-]{section*.11}{Vertex reconstruction efficiency, vtx}{subsection.6.1.2}% 47
+\BOOKMARK [3][-]{section*.12}{Mass resolution}{subsection.6.1.2}% 48
+\BOOKMARK [3][-]{section*.13}{Accidentals}{subsection.6.1.2}% 49
+\BOOKMARK [3][-]{section*.14}{Projected reach}{subsection.6.1.2}% 50
+\BOOKMARK [2][-]{subsection.6.1.3}{L2L2}{section.6.1}% 51
+\BOOKMARK [3][-]{section*.15}{Cuts}{subsection.6.1.3}% 52
+\BOOKMARK [3][-]{section*.16}{Vertex reconstruction efficiency, vtx}{subsection.6.1.3}% 53
+\BOOKMARK [3][-]{section*.17}{Mass resolution}{subsection.6.1.3}% 54
+\BOOKMARK [3][-]{section*.18}{Accidentals}{subsection.6.1.3}% 55
+\BOOKMARK [3][-]{section*.19}{Projected reach}{subsection.6.1.3}% 56
+\BOOKMARK [1][-]{section.6.2}{Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}{chapter.6}% 57
+\BOOKMARK [2][-]{subsection.6.2.1}{L1L1}{section.6.2}% 58
+\BOOKMARK [3][-]{section*.20}{Cuts}{subsection.6.2.1}% 59
+\BOOKMARK [3][-]{section*.21}{Vertex reconstruction efficiency, vtx}{subsection.6.2.1}% 60
+\BOOKMARK [3][-]{section*.22}{Accidentals}{subsection.6.2.1}% 61
+\BOOKMARK [3][-]{section*.23}{Projected reach}{subsection.6.2.1}% 62
+\BOOKMARK [2][-]{subsection.6.2.2}{L1L2}{section.6.2}% 63
+\BOOKMARK [3][-]{section*.24}{Cuts}{subsection.6.2.2}% 64
+\BOOKMARK [3][-]{section*.25}{Vertex reconstruction efficiency, vtx}{subsection.6.2.2}% 65
+\BOOKMARK [3][-]{section*.26}{Accidentals}{subsection.6.2.2}% 66
+\BOOKMARK [3][-]{section*.27}{Projected reach}{subsection.6.2.2}% 67
+\BOOKMARK [2][-]{subsection.6.2.3}{L2L2}{section.6.2}% 68
+\BOOKMARK [3][-]{section*.28}{Cuts}{subsection.6.2.3}% 69
+\BOOKMARK [3][-]{section*.29}{Vertex reconstruction efficiency, vtx}{subsection.6.2.3}% 70
+\BOOKMARK [3][-]{section*.30}{Accidentals}{subsection.6.2.3}% 71
+\BOOKMARK [3][-]{section*.31}{Projected reach}{subsection.6.2.3}% 72
+\BOOKMARK [1][-]{section.6.3}{Combined reach projections}{chapter.6}% 73
+\BOOKMARK [0][-]{chapter.7}{Vertex Search Results}{}% 74
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 75
+\BOOKMARK [0][-]{chapter*.32}{BIBLIOGRAPHY}{}% 76
+\BOOKMARK [1][-]{appendix.A}{}{chapter*.32}% 77
+\BOOKMARK [0][-]{appendix*.33}{VITA}{}% 78

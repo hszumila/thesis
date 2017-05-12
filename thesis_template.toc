@@ -1,14 +1,15 @@
 \hfill Page\par 
-\contentsline {chapter}{\uppercase {List of Tables}}{vii}
-\contentsline {chapter}{\uppercase {List of Figures}}{viii}
+\contentsline {chapter}{\uppercase {List of Tables}}{viii}
+\contentsline {chapter}{\uppercase {List of Figures}}{ix}
 \vspace *{12pt}
 \noindent Chapter
 
 \contentsline {chapter}{\numberline {1.}\uppercase {Introduction}}{1}
 \contentsline {chapter}{\numberline {2.}\uppercase {Motivation}}{3}
 \contentsline {section}{\numberline {2.1}\uppercase {Theory of Heavy Photons}}{3}
-\contentsline {section}{\numberline {2.2}\uppercase {Heavy Photons and Dark Matter}}{3}
-\contentsline {section}{\numberline {2.3}\uppercase {Existing Limits on Heavy Photons}}{3}
+\contentsline {section}{\numberline {2.2}\uppercase {Signature}}{3}
+\contentsline {section}{\numberline {2.3}\uppercase {Heavy Photons and Dark Matter}}{3}
+\contentsline {section}{\numberline {2.4}\uppercase {Existing Limits on Heavy Photons}}{3}
 \contentsline {chapter}{\numberline {3.}\uppercase {How to Search for a Heavy Photon}}{4}
 \contentsline {section}{\numberline {3.1}\uppercase {Bump Hunt}}{4}
 \contentsline {section}{\numberline {3.2}\uppercase {Detached Vertex Signal}}{4}
@@ -30,31 +31,68 @@
 \contentsline {section}{\numberline {4.5}\uppercase {Trigger}}{24}
 \contentsline {chapter}{\numberline {5.}\uppercase {Detector Calibration and Performance}}{28}
 \contentsline {section}{\numberline {5.1}\uppercase {Silicon Vertex Tracker Performance}}{28}
-\contentsline {subsection}{\numberline {5.1.1}\uppercase {Three particle event efficiencies}}{28}
+\contentsline {subsection}{\numberline {5.1.1}\uppercase {M\o ller mass}}{28}
+\contentsline {subsection}{\numberline {5.1.2}\uppercase {Momentum resolution}}{28}
+\contentsline {subsection}{\numberline {5.1.3}\uppercase {Tracking efficiency}}{28}
 \contentsline {section}{\numberline {5.2}\uppercase {Electromagnetic Calorimeter Calibration}}{28}
-\contentsline {subsection}{\numberline {5.2.1}\uppercase {Simulations}}{28}
+\contentsline {subsection}{\numberline {5.2.1}\uppercase {Simulations}}{29}
 \contentsline {subsubsection}{Energy reconstruction}{29}
 \contentsline {subsubsection}{Energy resolution}{33}
 \contentsline {subsubsection}{Position reconstruction}{34}
 \contentsline {subsubsection}{Position resolution}{37}
-\contentsline {subsection}{\numberline {5.2.2}\uppercase {Ecal calibration using cosmic ray energy}}{39}
-\contentsline {subsection}{\numberline {5.2.3}\uppercase {Ecal Hit Pulse Fitting}}{45}
-\contentsline {subsection}{\numberline {5.2.4}\uppercase {Calibration using elastically-scattered electrons}}{46}
-\contentsline {subsection}{\numberline {5.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects}}{48}
-\contentsline {subsection}{\numberline {5.2.6}\uppercase {Energy resolution in data}}{49}
-\contentsline {subsection}{\numberline {5.2.7}\uppercase {Timing calibration and performance}}{51}
-\contentsline {chapter}{\numberline {6.}\uppercase {Event Selection}}{60}
-\contentsline {section}{\numberline {6.1}\uppercase {Combining Ecal and SVT measurements}}{60}
-\contentsline {section}{\numberline {6.2}\uppercase {Data with Silicon Vertex Tracker at 0.5 mm from the beam}}{60}
-\contentsline {section}{\numberline {6.3}\uppercase {Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}}{60}
-\contentsline {section}{\numberline {6.4}\uppercase {High Z Backgrounds}}{60}
-\contentsline {chapter}{\numberline {7.}\uppercase {Vertex Search Results}}{61}
-\contentsline {chapter}{\numberline {8.}\uppercase {Conclusion}}{62}
+\contentsline {subsection}{\numberline {5.2.2}\uppercase {Ecal calibration using cosmic ray energy}}{40}
+\contentsline {subsection}{\numberline {5.2.3}\uppercase {Ecal Hit Pulse Fitting}}{46}
+\contentsline {subsection}{\numberline {5.2.4}\uppercase {Calibration using elastically-scattered electrons}}{47}
+\contentsline {subsection}{\numberline {5.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects}}{49}
+\contentsline {subsection}{\numberline {5.2.6}\uppercase {Energy resolution in data}}{50}
+\contentsline {subsection}{\numberline {5.2.7}\uppercase {Timing calibration and performance}}{52}
+\contentsline {chapter}{\numberline {6.}\uppercase {Searching for displaced vertices}}{61}
+\contentsline {section}{\numberline {6.1}\uppercase {Monte Carlo simulation}}{61}
+\contentsline {subsection}{\numberline {6.1.1}\uppercase {Radiative fraction}}{61}
+\contentsline {subsection}{\numberline {6.1.2}\uppercase {Vertex reconstruction efficiencies}}{62}
+\contentsline {section}{\numberline {6.2}\uppercase {SVT at 0.5 mm from the beam}}{63}
+\contentsline {subsection}{\numberline {6.2.1}\uppercase {L1L1}}{63}
+\contentsline {subsubsection}{Cuts}{63}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{79}
+\contentsline {subsubsection}{Mass resolution}{84}
+\contentsline {subsubsection}{Accidentals}{88}
+\contentsline {subsubsection}{Projected reach}{90}
+\contentsline {subsection}{\numberline {6.2.2}\uppercase {L1L2}}{91}
+\contentsline {subsubsection}{Cuts}{92}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{96}
+\contentsline {subsubsection}{Mass resolution}{98}
+\contentsline {subsubsection}{Accidentals}{100}
+\contentsline {subsubsection}{Projected reach}{101}
+\contentsline {subsection}{\numberline {6.2.3}\uppercase {L2L2}}{104}
+\contentsline {subsubsection}{Cuts}{104}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{105}
+\contentsline {subsubsection}{Mass resolution}{107}
+\contentsline {subsubsection}{Accidentals}{108}
+\contentsline {subsubsection}{Projected reach}{108}
+\contentsline {section}{\numberline {6.3}\uppercase {SVT at 1.5 mm from the beam}}{109}
+\contentsline {subsection}{\numberline {6.3.1}\uppercase {L1L1}}{109}
+\contentsline {subsubsection}{Cuts}{110}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{110}
+\contentsline {subsubsection}{Accidentals}{114}
+\contentsline {subsubsection}{Projected reach}{114}
+\contentsline {subsection}{\numberline {6.3.2}\uppercase {L1L2}}{116}
+\contentsline {subsubsection}{Cuts}{116}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{117}
+\contentsline {subsubsection}{Accidentals}{119}
+\contentsline {subsubsection}{Projected reach}{119}
+\contentsline {subsection}{\numberline {6.3.3}\uppercase {L2L2}}{120}
+\contentsline {subsubsection}{Cuts}{120}
+\contentsline {subsubsection}{Vertex reconstruction efficiency, $\epsilon _{vtx}$}{121}
+\contentsline {subsubsection}{Accidentals}{122}
+\contentsline {subsubsection}{Projected reach}{122}
+\contentsline {section}{\numberline {6.4}\uppercase {Combined reach projections}}{124}
+\contentsline {chapter}{\numberline {7.}\uppercase {Vertex Search Results}}{128}
+\contentsline {chapter}{\numberline {8.}\uppercase {Conclusion}}{129}
 \vspace *{12pt}
-\contentsline {chapter}{BIBLIOGRAPHY}{63}
+\contentsline {chapter}{BIBLIOGRAPHY}{130}
 \vspace *{12pt}
 \noindent APPENDICES
 
-\contentsline {section}{\numberline {A.}\uppercase {}}{64}
+\contentsline {section}{\numberline {A.}\uppercase {}}{131}
 \vspace *{12pt}
-\contentsline {chapter}{VITA}{65}
+\contentsline {chapter}{VITA}{132}

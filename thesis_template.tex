@@ -36,15 +36,15 @@
 
 \begin{document}
 
-\title{Search for Heavy Photons with Detached Vertices in the 2015 Engineering Run Data of the Heavy Photon Search Experiment}
+\title{Search for Heavy Photons with Detached Vertices in the 2015 Engineering Run of the Heavy Photon Search Experiment}
 
 \author{Holly Szumila-Vance}
 \principaladviser{Lawrence Weinstein}
+\member{John Adam}
+\member{Wally Van Orden}
 \member{Stepan Stepanyan}  %This command produces a signature line for the specified member on the
 \member{Lepsha Vuskovic}  %title page. Use on instance of this command for each member of the
                    %committee other than the advisor up to a total of 5 members.
-\member{Wally Van Orden}
-\member{John Adam}
 
 \degrees{B.S. May 2008, Embry-Riddle Aeronautical University \\ B.S. May 2009, Embry-Riddle Aeronautical University \\ M.S. May 2014, Old Dominion University}
 
@@ -87,12 +87,13 @@
 \input{texFiles/Intro/intro.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Motivation} %Sunday
+\chapter{Motivation} 
 \section{Theory of Heavy Photons}
 \section{Heavy Photons and Dark Matter}
+\section{Signature}
 \section{Existing Limits on Heavy Photons}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{How to Search for a Heavy Photon}%Monday, Tuesday
+\chapter{How to Search for a Heavy Photon}
 \section{Bump Hunt}
 \section{Detached Vertex Signal}
 \section{Trident Background}
@@ -107,31 +108,24 @@ The Heavy Photon Search (HPS) experiment detector setup consists of a Silicon Ve
 The HPS experimental setup is located in the downstream alcove of Hall B at Jefferson National Accelerator Facility. The Continuous Electron Beam Accelerator Facility (CEBAF) produces an electron beam which passes through Hall B to the alcove where the beam interacts with the HPS target housed inside the pair spectrometer magnet with the SVT. This interaction yields particle pairs and beam scattered electrons which pass through the six layers of the SVT before depositing their energy in the Ecal for event readout.
 
 \section{CEBAF}
-
 \input{texFiles/Experiment/cebaf.tex}
 
 \section{Beamline}
-
 \input{texFiles/Experiment/beamline.tex}
 
 \section{Silicon Vertex Tracker}
-
 \input{texFiles/Experiment/SVT.tex}
 
 \section{Electromagnetic Calorimeter}
-
 \input{texFiles/Experiment/Ecal.tex}
 
 \subsection{Light Monitoring System}
-
 \input{texFiles/Experiment/LMS.tex}
 
 \subsection{Avalanche Photodiodes}
-
 \input{texFiles/Experiment/APD.tex}
 
 \section{Trigger}
-
 \input{texFiles/Experiment/trigger.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -141,53 +135,74 @@ The first detector to be commissioned was the Ecal during preliminary running wi
 
 \section{Silicon Vertex Tracker Performance}
 
+The SVT momentum calibration is primarily guided by the accuracy of the alignment in the magnetic field. Tracks on both top and bottom for elastically-scattered electrons should peak at the same beam energy at the same resolution. The Billoir vertexing algorithm is the method by which two tracks are re-fit to create a vertex. The invariant mass is reconstructed from the vertex of the two tracks. 
+
+
+\input{texFiles/DetectorPerformance/SVT/svt.tex}
+
 (Include discussion on layer efficiency, 3 prong tracking efficiencies, moller mass, and fee peak.)
 
-\subsection{Three particle event efficiencies}
 
-\section{Electromagnetic Calorimeter Calibration}
+\section{Electromagnetic Calorimeter}
 
 The Ecal was calibrated both in energy and time. The first calibration performed, before receiving beam, was the cosmic ray energy calibration. A full timing calibration of the Ecal was also performed using the accelerator RF signal. A final calibration using physics events from elastically-scattered beam energy electrons and events from wide angle bremsstrahlung yielded the full calibration of the Ecal for all energies and characterized the energy resolution. 
 
 \subsection{Simulations}
-
 \input{texFiles/DetectorPerformance/Ecal/Simulations.tex}
 
 \subsection{Ecal calibration using cosmic ray energy}
-
 \input{texFiles/DetectorPerformance/Ecal/Cosmics.tex}
 
-
-\subsection{Ecal Hit Pulse Fitting}
-
+\subsection{Ecal signal pulse fitting}
 \input{texFiles/DetectorPerformance/Ecal/PulseFitting.tex}
 
-
 \subsection{Calibration using elastically-scattered electrons}
-
 \input{texFiles/DetectorPerformance/Ecal/FEE.tex}
 
-
 \subsection{Wide angle bremsstrahlung for studies of edge effects}
-
 \input{texFiles/DetectorPerformance/Ecal/WAB.tex}
 
-
 \subsection{Energy resolution in data}
-
 \input{texFiles/DetectorPerformance/Ecal/Eres.tex}
-
 
 \subsection{Timing calibration and performance}
 \input{texFiles/DetectorPerformance/Ecal/timing.tex}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Event Selection}
-\section{Combining Ecal and SVT measurements}
-\section{Data with Silicon Vertex Tracker at 0.5 mm from the beam}
-\section{Data set with the Silicon Vertex Tracker at 1.5 mm from the beam}
-\section{High Z Backgrounds}
+\chapter{Searching for displaced vertices}
+
+\section{Datasets}
+
+\section{Monte Carlo simulation}
+\subsection{Radiative fraction}
+\input{texFiles/eventSelection/radFrac.tex}
+
+\subsection{Vertex reconstruction efficiencies, $\epsilon_{vtx}$}
+\subsection{Mass resolution}
+
+
+
+\input{texFiles/eventSelection/summary.tex}
+
+%\section{Combining Ecal and SVT measurements}
+
+\section{SVT at 0.5 mm from the beam}
+The following section consists of three different datasets used to measure a combined 0.5~mm reach. The 0.5~mm data was recorded during stable beam times when the SVT bias voltage was on, and the SVT layer 1 was positioned at $\pm$0.5~mm from the beam. 
+
+%\input{texFiles/eventSelection/Nominal/L1L1.tex}
+%\input{texFiles/eventSelection/Nominal/L1L2.tex}
+%\input{texFiles/eventSelection/Nominal/L2L2.tex}
+
+\section{SVT at 1.5 mm from the beam}
+
+The 1.5~mm datasets consist of the data that was taken over approximately 0.5~beam days with the first layer of the SVT at 1.5~mm from the beam. Because this run was the engineering run, the beam position and stability had to the be fully understood before moving the SVT in to its nominal position at 0.5~mm from the beam.  
+
+%\input{texFiles/eventSelection/Open/L1L1.tex}
+%\input{texFiles/eventSelection/Open/L1L2.tex}
+%\input{texFiles/eventSelection/Open/L2L2.tex}
+
+%\input{texFiles/eventSelection/reachProjections.tex}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Vertex Search Results}
@@ -210,26 +225,28 @@ The Ecal was calibrated both in energy and time. The first calibration performed
                                      %contents
 \addcontentsline{toc}{chapter}{BIBLIOGRAPHY}  %This command adds and entry for the
                                               %bibliography in the table of contents
+                                              
+                                              
+\bibitem{Balossino} I.~Balossino et al,{\it The HPS electromagnetic calorimeter} Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment 854 · October 2016    
 
-\bibitem{brownjackson-ref}  G.~E.~Brown and A.~D.~Jackson, {\it The
-Nucleon--Nucleon Interaction} (North--Holland, Amsterdam, 1976).
+\bibitem{Takashi}N.~Baltzell et al.,{\it The Heavy Photon Search beamline and its performance} Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment 859 · December 2016                                          
 
-\bibitem{Garcon} H. Szumila-Vance and M. Garcon, {\it HPS/ECal simulations: energy and
+\bibitem{Garcon} H.~Szumila-Vance and M. Garcon, {\it HPS/ECal simulations: energy and
 position reconstruction for electrons, positrons and photons}, HPS-Note 2014-001.
 
 \bibitem{kazimi} R.~Kazimi, {\it Simultaneous Four-Hall Operation for 12~GeV CEBAF} In Proceedings, 4th International Particle Accelerator Conference (IPAC 2013), page WEPFI085,2013.
 
 \bibitem{Batarin} V.A.~Batarin et al., {\it Correlation of beam electron and LED signal losses under irradiation and long-term recovery of lead tungstate crystals} Nucl. Instrum. Meth. A 550 (2005) 543-550.
 
-\bibitem{Celentano} A. Celentano et al., {\it Design and realization of a facility for the characterization of Silicon Avalanche PhotoDiodes}, JINST 9 (2014) T09002, arXiv:1504.01589.
+\bibitem{Celentano} A.~Celentano et al., {\it Design and realization of a facility for the characterization of Silicon Avalanche PhotoDiodes}, JINST 9 (2014) T09002, arXiv:1504.01589.
 
 \bibitem{Battaglieri} CLAS12 Collaboration, {\it CLAS12 Forward Tagger (FT) Technical Design Report}, CLAS12, (2012), https://www.ge.infn.it/~batta/jlab/ft-tdr.2.0.pdf
 
 \bibitem{Olive} K.A.Olive et al.[Particle Data Group Collaboration], Chin. Phys. C 38, 090001 (2014).
 
-\bibitem{Charles} A. Celentano and G. Charles, HPS-NOTE 2014-002.
+\bibitem{Charles} A.~Celentano and G. Charles, HPS-NOTE 2014-002.
 
-\bibitem{Baltzell} N. Baltzell ECal Pulse Fitting, HPS-NOTE 2015-010.
+\bibitem{Baltzell} N.~Baltzell ECal Pulse Fitting, HPS-NOTE 2015-010.
 
 \bibitem{panda} PANDA EMC-TDR, October 2008.
 
