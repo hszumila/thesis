@@ -1,13 +1,5 @@
-The primary physics trigger looks for two cluster events and recorded a high yield of WAB particles composed of a final state electron and photon. The spectrum of cluster energies in the 2015 dataset shows an excess of WAB events occurring along the black diagonal line where the energy sum of the two particles is approximately equal to the uncorrected beam energy.  
-
-%\begin{figure}[H]
- % \centering
-    %  \includegraphics[width=0.9\textwidth]{pics/performance/cosmicComp.png}
- % \caption[Gain comparison between cosmic and elastic calibration]{A comparison between the gains from he cosmic and elastic calibration is shown. Any overall systematic shift would need to be applied to crystals outside of the elastic calibration acceptance. }
-%  \label{Figure:cosmicComp}
-%\end{figure}
-
-Initial studies after the calibration using elastic electrons showed that the energy sum of two particles in exclusive events having mid-range energies was lower than the reconstructed elastic energy, indicating that the shower loss corrections in the mid-range beam energy required further study. WAB events were used to refine the shower loss corrections for mid-range energy particles. WAB events are identified by have track-matched clusters and no track matching a photon cluster. The reconstructed energy sum of of the two particles must be equivalent the beam energy as shown in Equation~\eqref{eq:wabBeam}.
+The primary physics trigger looks for two cluster events and recorded a high yield of WAB particles composed of a final state electron and photon. The spectrum of cluster energies in the Engineering Run dataset shows an excess of WAB events occurring where the energy sum of the two particles is approximately equal to the uncorrected beam energy.  \\
+\indent Initial studies after the calibration using elastic electrons showed that the energy sum of two particles in WAB events having mid-range energies was lower than the reconstructed elastic energy, indicating that the shower loss corrections in the mid-range beam energy required further investigation. WAB events were used to refine the shower loss corrections for mid-range energy particles. WAB events are identified by have track-matched clusters and no track matching a photon cluster. The reconstructed energy sum of of the two particles must be equivalent the beam energy as shown in Equation~\eqref{eq:wabBeam}.~\cite{CalibNote}
 
 \begin{equation}
 	\label{eq:wabBeam}
@@ -28,4 +20,4 @@ In maintaining the relationships shown in Equations~\eqref{eq:wabBeam} and \eqre
 	\chi^2 =\sum_{i} \dfrac{(E_{beam}-E_i)^2}{\sigma_{e-}^2(E_{e-})+\sigma_{\gamma}^2(E_{\gamma})}	
 \end{equation}
 
-For each event, the energy sum of the two corrected clusters, $E_i$, is calculated as described by Equation~\eqref{eq:wabBeamChi}.The end result is a small correction to the shower loss correction functions that ranges from less than 2$\%$ at cluster energies below 400~MeV and less than 1$\%$ above 400~MeV. After incorporating these updated corrections to the shower loss correction functions, the energy resolution can be extracted for all energies and positions in the Ecal.  
+For each event, the energy sum of the two corrected clusters, $E_i$, is calculated as described by Equation~\eqref{eq:wabBeamChi}.The end result is a small correction to the shower loss correction functions that ranges across the cluster energies and never exceeds a difference of 2$\%$.~\cite{CalibNote} After incorporating these updated corrections to the shower loss correction functions, the energy resolution can be extracted for all energies and positions in the ECal.  

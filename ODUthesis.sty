@@ -46,8 +46,6 @@
 \renewcommand\@dotsep{2.}
 
 
-
-
 \def\@xfloat#1[#2]{\ifhmode \@bsphack\@floatpenalty -\@Mii\else
    \@floatpenalty-\@Miii\fi\def\@captype{#1}\ifinner
       \@parmoderr\@floatpenalty\z@
@@ -260,6 +258,9 @@
 
 \def\listoffigures{\chapter*{List of Figures}
  %\newline
+ \makeatletter
+     \renewcommand*\l@figure{\@dottedtocline{1}{1em}{3.2em}}
+\makeatother
  {\setlength{\parskip}{12\p@} \@starttoc{lof}}
  \addtocontents{lof}{\noindent Figure\hfill Page\par}}
 

@@ -1,4 +1,4 @@
-A significant electronics upgrade to the Ecal was the introduction of large area Hamamatsu S8664-3189 APDs for readout. APDs are ideal for reading out the Ecal modules due to their ability to operate in the fringe magnetic field of the HPS beam line. Both the Institut de Physique Nucleaire d'Orsay (IPN) and Instituto Nazionale di Fisica Nucleare (INFN) groups in the HPS collaboration purchased the large area APDs for upgrade. As the IPN group re-designed the motherboards for the upgrade, INFN developed the testing apparatus so that the gains of each APD could be characterized and sorted into one of 52 high voltage groups to minimize gain variations. The large area APDs are shown in Fig.~\ref{Figure:apd}.
+The ECal upgraded by installing large area Hamamatsu S8664-3189 APDs for readout. APDs were used for reading out the ECal modules due to their ability to operate in the fringe magnetic field of the HPS beam line. Both the Institut de Physique Nucleaire d'Orsay (IPN) and Instituto Nazionale di Fisica Nucleare (INFN) groups in the HPS collaboration purchased the large area APDs for upgrade. As the IPN group re-designed the motherboards for the upgrade, INFN developed the testing apparatus so that the gain of each APD could be characterized and sorted into one of 52 high voltage groups to minimize response variations. The large area APDs are shown in Fig.~\ref{Figure:apd}.
 
 \begin{figure}[H]
   \centering
@@ -7,10 +7,7 @@ A significant electronics upgrade to the Ecal was the introduction of large area
   \label{Figure:apd}
 \end{figure}
 
-%%%%%Re-word this section-yuck!!
-APDs are reverse-biased diodes with an internal high electric field used to multiply the charge carriers through an avalanche mechanism.  The characteristic gain of APDs is highly dependent on the temperature of the environment due to the interaction of the charge carriers with the phonons. The gain is higher for lower temperatures. 
-%%%%%%%%%%%%
-The APD gains have a linear dependence on both voltage and temperature. Prior to grouping the APDs for installation in the Ecal, each APD was tested and bench marked to check for quality and optimal operating voltage in order to achieve a pre-selected gain of 150. The testing apparatus was designed and installed by the group from INFN as the same procedure was used in the construction of the Forward Tagger \cite{Celentano}. The bench marking apparatus is shown in Fig.~\ref{Figure:apdtest}.
+APDs are reverse-biased diodes with an internal high electric field that multiplies the electrons through an avalanche mechanism.  The characteristic gain of an APD depends on the temperature of the environment due to the interaction of the electrons with the phonons. The gain is inversely correlated with temperature.  The APD gains have a linear dependence on both voltage and temperature. Prior to grouping the APDs for installation in the ECal, each APD was tested and bench marked to check for quality and optimal operating voltage in order to achieve a pre-selected gain of 150. The testing apparatus was designed and installed by the group from INFN as the same procedure was used in the construction of the Forward Tagger \cite{Celentano}. The bench marking apparatus is shown in Fig.~\ref{Figure:apdtest}.
 
 \begin{figure}[H]
   \centering
@@ -23,8 +20,8 @@ In order to avoid condensation on the cooling lines, the temperature range for c
 
 \begin{figure}[H]
   \centering
-      \includegraphics[width=0.4\textwidth]{pics/experiment/apdcurrent.png}
-  \caption[APD current draw versus voltage with LED on and off]{The current measured from an individual APD as tested over a range of voltages with both the LED on and off. The measured temperature at the APD for this particular measurement was 18.7~$\deg$C.}
+      \includegraphics[width=0.5\textwidth]{pics/experiment/apdcurrent.png}
+  \caption[APD current draw versus voltage with LED on and off]{The current measured from an individual APD as tested over a range of voltages with both the LED on and off. The measured temperature at the APD for this particular measurement was 18.7~$\degree$C.}
   \label{Figure:apdcurrent}
 \end{figure}
 
@@ -39,17 +36,16 @@ The gain is determined to be 1 when the avalanche mechanism is not present. The 
 
 \begin{figure}[H]
   \centering
-      \includegraphics[width=0.4\textwidth]{pics/experiment/apdIvG.png}
+      \includegraphics[width=0.5\textwidth]{pics/experiment/apdIvG.png}
   \caption[APD measured dark current as a function of gain]{The current measured from an individual APD as tested over a range of voltages with both the LED on and off. The measured temperature at the APD for this particular measurement was 18.7~$\degree$C.}
   \label{Figure:apdIvG}
 \end{figure}
 
-If the relationship between the dark current and the gain is not linear, as shown in Fig.~\ref{Figure:apdIvG}, then the APD was re-tested to ensure quality. In order to appropriately group APDs for common high voltage inputs from the motherboard and minimize gain variations across the Ecal, APDs were placed into 52 common voltage groups ranging from as little as two to maximum ten APDs in each group. The grouping temperature was chosen to be 18~$\degree$C in order to avoid condensation in the cooling lines of the Ecal. The optimal voltage for each APD at 18~$\degree$C and a pre-selected gain of 150 can be extrapolated as shown in Fig.~\ref{Figure:apdTV}.
-
+If the relationship between the dark current and the gain is not linear, as shown in Fig.~\ref{Figure:apdIvG}, then the APD was re-tested to ensure quality. APDs were placed into 52 common voltage groups ranging from as little as two to a maximum of ten APDs in each group in order to minimize gain variations across the ECal. The grouping temperature was chosen to be 18~$\degree$C in order to avoid condensation in the cooling lines of the ECal. The optimal voltage for each APD at 18~$\degree$C and a pre-selected gain of 150 can be extrapolated as shown in Fig.~\ref{Figure:apdTV}.
 
 \begin{figure}[H]
   \centering
-      \includegraphics[width=0.4\textwidth]{pics/experiment/apdTV.png}
-  \caption[APD fixed gain in terms of voltage and temperature]{The calculated voltages for fixed gains as a function of temperature can be used for group the APDs into appropriate high voltage groups.}
+      \includegraphics[width=0.5\textwidth]{pics/experiment/apdTV.png}
+  \caption[APD fixed gain in terms of voltage and temperature]{The calculated voltages for fixed gains as a function of temperature can be used to group the APDs for common high voltage.}
   \label{Figure:apdTV}
 \end{figure}

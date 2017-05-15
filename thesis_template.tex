@@ -12,7 +12,10 @@
 \usepackage{amsmath}
 \usepackage{float}
 \usepackage{gensymb}
-\usepackage{gensymb}
+
+\usepackage{feynmp-auto}
+\usepackage{hyperref}
+\usepackage{amssymb}
 
 %This package causes the first line of a section to be indented as required by the dissertation guide.
 
@@ -36,7 +39,7 @@
 
 \begin{document}
 
-\title{Search for Heavy Photons with Detached Vertices in the 2015 Engineering Run of the Heavy Photon Search Experiment}
+\title{Search for Heavy Photons with Detached Vertices in the Heavy Photon Search Experiment}
 
 \author{Holly Szumila-Vance}
 \principaladviser{Lawrence Weinstein}
@@ -62,20 +65,21 @@
 
 %\tablespagefalse   %suppresses List of Tables
 
-\vita{The text of the Vita goes here.}
+\vita{The text of the Vita goes here.}%-work on thursday
 
 
-\abstract{text of abstract goes here}
+\abstract{text of abstract goes here} %-work on wednesday
 
 \beforepreface
 
-\prefacesection{Acknowledgments}
+\prefacesection{Acknowledgments} %-work on thursday
 
     %text of Acknowledgments goes here
     %any other preface section is inserted similarly by the command
     %\prefacesection{Section Title}
     %Larry Weinstein, Stepan Stepanyan, Michel Garcon, Nathan Baltzell
-    %Gabriel, Raphael, Luca
+    %Gabriel, Raphael
+    %dedicate to my family
 
 \afterpreface
 
@@ -83,31 +87,32 @@
     %in chapters, sections, subsections. 
 
 \chapter{Introduction}
-
 \input{texFiles/Intro/intro.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Motivation} 
-\section{Theory of Heavy Photons}
-\section{Heavy Photons and Dark Matter}
-\section{Signature}
-\section{Existing Limits on Heavy Photons}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{How to Search for a Heavy Photon}
-\section{Bump Hunt}
-\section{Detached Vertex Signal}
-\section{Trident Background}
-\subsection{Beithe-Heitler}
-\subsection{Radiative}
-\section{Wide Angle Bremsstrahlung}
-\section{Beam Halo}
-\section{High z background??}
+The Standard Model (SM) is the most successful theory for describing elementary particles and their interactions via the electromagnetic, strong, and weak forces in terms of gauge theory interactions. The existence of an additional U(1) hidden symmetry is not forbidden by the SM and is well-motivated as a means to access physics beyond the standard model. The heavy photon is the proposed gauge boson mediator for the consequential dark electromagnetic force that would arise from a U(1) broken symmetry. Theory has predicted that if such an interaction exists, then the SM photon and heavy photon would mix thus inducing a coupling between the heavy photon and electric charge proportional to $\epsilon$~\cite{Holdom0}. This coupling is significant because electrons can radiate heavy photons through the same mechanism of radiating photons although at rates proportional to $\epsilon^2$. The primary goal of HPS and many similar experiments is to experimentally detect the heavy photon through this production mechanism. The heavy photon is additionally referred to as the A$^{\prime}$, dark photon, or U-boson.
+
+\section{Theory of heavy photons}
+\input{texFiles/Motivation/theory.tex}
+
+\section{Implications of a heavy photon}
+\input{texFiles/Motivation/implications.tex}
+
+\section{Searching for heavy photons}
+\input{texFiles/Motivation/searches.tex}
+
+\section{Heavy Photon Search kinematics}
+\input{texFiles/Motivation/HPSexp.tex}
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Heavy Photon Search Experiment}
-The Heavy Photon Search (HPS) experiment detector setup consists of a Silicon Vertex Tracker (SVT) and an electromagnetic calorimeter (Ecal). The SVT, located inside of a dipole magnet, measures particle momentum and vertexes $e+e-$ pairs. The Ecal triggers the readout of physics events and measures particle energy and time. \par
-The HPS experimental setup is located in the downstream alcove of Hall B at Jefferson National Accelerator Facility. The Continuous Electron Beam Accelerator Facility (CEBAF) produces an electron beam which passes through Hall B to the alcove where the beam interacts with the HPS target housed inside the pair spectrometer magnet with the SVT. This interaction yields particle pairs and beam scattered electrons which pass through the six layers of the SVT before depositing their energy in the Ecal for event readout.
+The HPS experiment detector setup consists of the SVT and ECal. The SVT, located inside of a dipole magnet, measures particle momentum and vertexes $e+e-$ pairs. The ECal triggers the readout of physics events and measures particle energy and time. \par
+The HPS experimental setup is located in the downstream alcove of Hall B at Jefferson National Accelerator Facility. CEBAF produces an electron beam which passes through Hall B to the alcove where the beam interacts with the HPS target housed inside the pair spectrometer magnet with the SVT. This interaction yields particle pairs and beam scattered electrons which pass through the six layers of the SVT before depositing their energy in the ECal for event readout.
 
-\section{CEBAF}
+\section{Continuous Electron Beam Accelerator Facility}
 \input{texFiles/Experiment/cebaf.tex}
 
 \section{Beamline}
@@ -131,29 +136,27 @@ The HPS experimental setup is located in the downstream alcove of Hall B at Jeff
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Detector Calibration and Performance} 
 
-The first detector to be commissioned was the Ecal during preliminary running with a 2~GeV electron beam in Hall B in December 2014. The Ecal was initially calibrated prior to receiving any beam using cosmic energy deposition in the crystals. The Ecal demonstrated that all channels worked and the full readout using FADCs was useful for setting up the DAQ for future running. The SVT was installed in the early spring of 2015 and performed fully during the Engineering Run in the Spring 2015 at Jefferson Lab. The single pass beam energy was 1.056~GeV and was sufficient for not only detector commissioning but also calibration and physics analysis. 
+The first detector to be commissioned was the ECal during preliminary running with a 2~GeV electron beam in Hall B in December 2014. The ECal was initially calibrated prior to receiving any beam using cosmic ray energy deposition in the crystals. The ECal demonstrated that all channels worked and that the full readout chain using FADC250 modules with the DAQ performed well. The SVT was installed in the early spring of 2015 and was fully commissioned during the Engineering Run. The single pass beam energy was 1.056~GeV and was sufficient for detector commissioning, calibration, and physics analysis. 
 
 \section{Silicon Vertex Tracker Performance}
 
 The SVT momentum calibration is primarily guided by the accuracy of the alignment in the magnetic field. Tracks on both top and bottom for elastically-scattered electrons should peak at the same beam energy at the same resolution. The Billoir vertexing algorithm is the method by which two tracks are re-fit to create a vertex. The invariant mass is reconstructed from the vertex of the two tracks. 
 
+%\input{texFiles/DetectorPerformance/SVT/svt.tex}
 
-\input{texFiles/DetectorPerformance/SVT/svt.tex}
-
-(Include discussion on layer efficiency, 3 prong tracking efficiencies, moller mass, and fee peak.)
-
+(Include discussion on layer efficiency, 3 prong tracking efficiencies, moller mass, and fee peak resolution.)
 
 \section{Electromagnetic Calorimeter}
 
-The Ecal was calibrated both in energy and time. The first calibration performed, before receiving beam, was the cosmic ray energy calibration. A full timing calibration of the Ecal was also performed using the accelerator RF signal. A final calibration using physics events from elastically-scattered beam energy electrons and events from wide angle bremsstrahlung yielded the full calibration of the Ecal for all energies and characterized the energy resolution. 
+The ECal was calibrated both in energy and time. The first calibration performed before receiving beam from the accelerator was the cosmic ray energy calibration. A full timing calibration of the ECal was also performed using the accelerator RF signal. A final calibration using physics events from elastically-scattered beam energy electrons and events from wide angle bremsstrahlung (WAB) yielded the full calibration of the ECal for all energies and characterized the energy resolution. 
 
 \subsection{Simulations}
 \input{texFiles/DetectorPerformance/Ecal/Simulations.tex}
 
-\subsection{Ecal calibration using cosmic ray energy}
+\subsection{Calibration using cosmic ray energy}
 \input{texFiles/DetectorPerformance/Ecal/Cosmics.tex}
 
-\subsection{Ecal signal pulse fitting}
+\subsection{Ecal signal pulse fitting} \label{pulsefitting}
 \input{texFiles/DetectorPerformance/Ecal/PulseFitting.tex}
 
 \subsection{Calibration using elastically-scattered electrons}
@@ -169,31 +172,37 @@ The Ecal was calibrated both in energy and time. The first calibration performed
 \input{texFiles/DetectorPerformance/Ecal/timing.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Searching for displaced vertices}
+\chapter{Searching for displaced vertices}%--work on Monday
 
 \section{Datasets}
 
 \section{Monte Carlo simulation}
 \subsection{Radiative fraction}
-\input{texFiles/eventSelection/radFrac.tex}
+%\input{texFiles/eventSelection/radFrac.tex}
 
 \subsection{Vertex reconstruction efficiencies, $\epsilon_{vtx}$}
 \subsection{Mass resolution}
 
 
 
-\input{texFiles/eventSelection/summary.tex}
+%\input{texFiles/eventSelection/summary.tex}
 
 %\section{Combining Ecal and SVT measurements}
 
-\section{SVT at 0.5 mm from the beam}
+\section{Vertex cuts}
+\subsection{SVT at nominal position}
+\subsection{SVT at open position}
+
+
+
+%\section{Cuts on data, SVT at 0.5 mm from the beam}
 The following section consists of three different datasets used to measure a combined 0.5~mm reach. The 0.5~mm data was recorded during stable beam times when the SVT bias voltage was on, and the SVT layer 1 was positioned at $\pm$0.5~mm from the beam. 
 
 %\input{texFiles/eventSelection/Nominal/L1L1.tex}
 %\input{texFiles/eventSelection/Nominal/L1L2.tex}
 %\input{texFiles/eventSelection/Nominal/L2L2.tex}
 
-\section{SVT at 1.5 mm from the beam}
+%\section{Cuts on SVT at 1.5 mm from the beam}
 
 The 1.5~mm datasets consist of the data that was taken over approximately 0.5~beam days with the first layer of the SVT at 1.5~mm from the beam. Because this run was the engineering run, the beam position and stability had to the be fully understood before moving the SVT in to its nominal position at 0.5~mm from the beam.  
 
@@ -205,9 +214,25 @@ The 1.5~mm datasets consist of the data that was taken over approximately 0.5~be
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Vertex Search Results}
+\chapter{Vertex Search Results} %%-work on Monday and Tuesday
+
+\section{Blinded results and projections}
+\subsection{SVT at nominal position}
+\subsection{SVT at open position}
+\subsection{Estimate of contamination by accidentals}
+
+\section{Unblinded results}
+\subsection{SVT at nominal position}
+\subsection{SVT at open position}
+\subsection{Estimate of contamination by accidentals}
+
+\section{Reach}
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Conclusion}
+\chapter{Conclusion} %work on wednesday
 
 
 \begin{thebibliography}{99}
@@ -231,8 +256,10 @@ The 1.5~mm datasets consist of the data that was taken over approximately 0.5~be
 
 \bibitem{Takashi}N.~Baltzell et al.,{\it The Heavy Photon Search beamline and its performance} Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment 859 · December 2016                                          
 
-\bibitem{Garcon} H.~Szumila-Vance and M. Garcon, {\it HPS/ECal simulations: energy and
+\bibitem{Garcon} H.~Szumila-Vance and M. Gar\c on, {\it HPS/ECal simulations: energy and
 position reconstruction for electrons, positrons and photons}, HPS-Note 2014-001.
+
+\bibitem{Proposal} HPS Collaboration,{\it Heavy Photon Search at Jefferson Laboratory: proposal for the 2014-2015 run} May 10, 2013. %https://confluence.slac.stanford.edu/download/attachments/86676777/hps_2014.pdf?version=1&modificationDate=1368227154000
 
 \bibitem{kazimi} R.~Kazimi, {\it Simultaneous Four-Hall Operation for 12~GeV CEBAF} In Proceedings, 4th International Particle Accelerator Conference (IPAC 2013), page WEPFI085,2013.
 
@@ -247,9 +274,33 @@ position reconstruction for electrons, positrons and photons}, HPS-Note 2014-001
 \bibitem{Charles} A.~Celentano and G. Charles, HPS-NOTE 2014-002.
 
 \bibitem{Baltzell} N.~Baltzell ECal Pulse Fitting, HPS-NOTE 2015-010.
+\bibitem{TimeNote} H.~Szumila-Vance Ecal Timing Calibration for the Spring 2015 Engineering Run, HPS-NOTE 2015-011.
+\bibitem{CalibNote} H.~Szumila-Vance HPS Energy Calibration for the Spring 2015 Engineering Run, HPS-NOTE 2016-002.
+
+\bibitem{Holdom0} B. Holdom, Physics Letters B 166 (1986) 196. 
+
+\bibitem{Holdom1} B. Holdom, Physics Letters B 178 (1986) 65. 
+
 
 \bibitem{panda} PANDA EMC-TDR, October 2008.
 
+\bibitem{weiner}  Jia Liu, Neal Weiner, and Wei Xue. “Signals of a Light Dark Force in the
+Galactic Center”. In: Journal of High Energy Physics 2015.8 (Aug. 2015). issn:
+1029-8479. doi: 10.1007/JHEP08(2015)050. arXiv: 1412.1485. 
+
+\bibitem{toro}https://arxiv.org/pdf/0906.0580.pdf
+
+\bibitem{NA48} J. R. Batley et al. (NA48/2), Phys. Lett. B746, 178 (2015), 1504.00607.
+
+\bibitem{A1}https://arxiv.org/pdf/1404.5502.pdf
+
+\bibitem{babar}https://arxiv.org/pdf/1702.03327.pdf
+
+\bibitem{limitsBD}https://arxiv.org/pdf/0906.0580.pdf
+
+\bibitem(Orsaybd)
+
+\bibitem{DarkSectors2016} Dark Sectors 2016 Community Workshop report
 
 \end{thebibliography}
 
