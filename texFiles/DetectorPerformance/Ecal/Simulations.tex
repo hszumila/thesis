@@ -1,5 +1,5 @@
 The ECal uses an adapted version of the clustering algorithm that was used by the CLAS IC. The geometrical arrangement of the crystals differs greatly from that used by the IC and required detailed studies and simulations to reconstruct the incident particle energy. The angles of incidence of the particles (electrons, positrons, and photons) entering the Ecal varies significantly across the ECal. The edge effects in the ECal are substantial due to the horizontal split between the top and bottom halves and  the proximity to the beam. \\
-\indent Simulations were performed using the fully modeled detector geometry in SLIC as part of the standard hps software package. The geometry includes all strips of the SVT, vacuum chambers, ECal crystals, and relevant dead material. The geometry also moves particles through a 3D magnetic field map corresponding to the field values for 1~GeV beam running.~\cite{CalibNote} \\
+\indent Simulations were performed using the fully modeled detector geometry in SLIC as part of the standard hps software package. The geometry includes all strips of the SVT, vacuum chambers, ECal crystals, and relevant dead material. The geometry also moves particles through a 3D magnetic field map corresponding to the field values for 1~GeV beam running.~\cite{szumila-vance_hps_2016} \\
 \indent Single particles: electrons, positrons, and photons were simulated at discrete energies of 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8,  0.9, 1.0, and 1.1~GeV to uniformly cover the ranger of energies detectable in the Engineering Run. The simulation uses the full reconstruction chain excluding pile-up effects. The offline cluster reconstruction uses the same thresholds used in data and production Monte Carlo: 7.5~MeV for individual hits, 50~MeV for seed hits in clusters, and 100~MeV for cluster energies.\\
 
 \subsubsection{Energy reconstruction}
@@ -26,7 +26,7 @@ In Equation~\eqref{eq:eclsf}, $f$ is the energy-dependent ratio of measured vs i
   \label{Figure:ecorr}
 \end{figure}
 
-The difference in the energy corrections for the various particle types arises from geometrical effects and the incident angles of the particles entering the crystals.~\cite{Garcon} The focal point of the calorimeter, the point at which all crystals are angles, lies 80~cm from the front face of the ECal. The HPS target is beyond this focal distance at approximately 1.3~m from the face of the ECal and is offset beam right in the pair spectrometer magnetic field. Particles produced at the target take different trajectories from the target to the ECal due to the interactions of their charge and momentum in the magnetic field. This affects the entry angle of the particle into a crystal and mandates a charge and momentum-dependent energy correction function. The form of the energy correction function for the central region of the ECal is described by a three parameter fit in Eq.~\eqref{eq:ecorrfunc}.
+The difference in the energy corrections for the various particle types arises from geometrical effects and the incident angles of the particles entering the crystals.~\cite{szumila-vance_hps_ecal_2014} The focal point of the calorimeter, the point at which all crystals are angles, lies 80~cm from the front face of the ECal. The HPS target is beyond this focal distance at approximately 1.3~m from the face of the ECal and is offset beam right in the pair spectrometer magnetic field. Particles produced at the target take different trajectories from the target to the ECal due to the interactions of their charge and momentum in the magnetic field. This affects the entry angle of the particle into a crystal and mandates a charge and momentum-dependent energy correction function. The form of the energy correction function for the central region of the ECal is described by a three parameter fit in Eq.~\eqref{eq:ecorrfunc}.
 
 \begin{equation}
 	\label{eq:ecorrfunc}
@@ -80,7 +80,7 @@ relative to the innermost beam gap edge.}
   \label{Figure:sfparEdgeP}
 \end{figure}
 
-As one can see, the energy corrections are relatively constant at approximately 1~cm from the edges of the ECal. As a result, we define the fiducial the region of the ECal to be at greater than 1~cm from the edge, or approximately 3/4 of the font face crystal dimension. This result is consistent with the findings for the CLAS IC.~\cite{Garcon} 
+As one can see, the energy corrections are relatively constant at approximately 1~cm from the edges of the ECal. As a result, we define the fiducial the region of the ECal to be at greater than 1~cm from the edge, or approximately 3/4 of the font face crystal dimension. This result is consistent with the findings for the CLAS IC.~\cite{szumila-vance_hps_ecal_2014} 
 
 \subsubsection{Energy resolution}
 
@@ -100,7 +100,7 @@ The fit shown in Figure~\ref{Figure:eResFitMC} is described by Equation~\ref{eq:
 \dfrac{\sigma_E}{E} (\%) = \dfrac{1.60}{E} \oplus \dfrac{2.46}{\sqrt{E}} \oplus 1.51
 \end{equation}
 
-The first term corresponds to the preamplifier noise. We were expecting 3~MeV$\times \sqrt{10} = 0.009$~GeV, where 10 is the average number of hit crystals. This term from simulation is not including the FADC error (expected to be 1.3~MeV~\cite{Charles}) which contributes a term (in $\%$) as $0.13\sqrt{10}/E$ to be added, quadratically. The second term corresponds to the statistical fluctuations in the shower development and is influenced by the lateral containment of the shower and energy deposited in the crystal module. The second term from simulation is not including fluctuations in the number of photoelectrons (30 photoelectrons/MeV, multiplied by an excess noise factor parameterizing the fluctuations in the APD gain process, or Fano factor, of 2~\cite{panda}) contributing $0.8/\sqrt{E}$. This term is calculated as $\sqrt{F/N_{pe/GeV}}$. The third term is interpreted as the fluctuation of energy leakage through the back of the crystals. This third term should includ the crystal-to crystal inter-calibration error which estimate to be 1~$\%$.~\cite{Garcon} By including these additional resolution effects in the measurement, we obtain the resolution as anticipated from Monte Carlo in Equation~\eqref{eq:eResUpdated}.
+The first term corresponds to the preamplifier noise. We were expecting 3~MeV$\times \sqrt{10} = 0.009$~GeV, where 10 is the average number of hit crystals. This term from simulation is not including the FADC error (expected to be 1.3~MeV~\cite{charles_2014}) which contributes a term (in $\%$) as $0.13\sqrt{10}/E$ to be added, quadratically. The second term corresponds to the statistical fluctuations in the shower development and is influenced by the lateral containment of the shower and energy deposited in the crystal module. The second term from simulation is not including fluctuations in the number of photoelectrons (30 photoelectrons/MeV, multiplied by an excess noise factor parameterizing the fluctuations in the APD gain process, or Fano factor, of 2~\cite{panda_2008}) contributing $0.8/\sqrt{E}$. This term is calculated as $\sqrt{F/N_{pe/GeV}}$. The third term is interpreted as the fluctuation of energy leakage through the back of the crystals. This third term should includ the crystal-to crystal inter-calibration error which estimate to be 1~$\%$.~\cite{szumila-vance_hps_ecal_2014} By including these additional resolution effects in the measurement, we obtain the resolution as anticipated from Monte Carlo in Equation~\eqref{eq:eResUpdated}.
 
 \begin{equation}
 \label{eq:eResUpdated}
@@ -108,7 +108,7 @@ The first term corresponds to the preamplifier noise. We were expecting 3~MeV$\t
 \end{equation}
 
 \subsubsection{Position reconstruction}
-\indent ECal clusters provide position information of comparable resolution to the SVT. Various weighting schemes for calculating a cluster centroid can be problematic due to periodic patterns resulting from the segmentation of the crystals. The same weighting scheme, used by the CLAS IC algorithm, provided the optimal position resolution. The calculation of the position of the cluster is shown in Equation~\eqref{eq:posncalc}.~\cite{Garcon}
+\indent ECal clusters provide position information of comparable resolution to the SVT. Various weighting schemes for calculating a cluster centroid can be problematic due to periodic patterns resulting from the segmentation of the crystals. The same weighting scheme, used by the CLAS IC algorithm, provided the optimal position resolution. The calculation of the position of the cluster is shown in Equation~\eqref{eq:posncalc}.~\cite{szumila-vance_hps_ecal_2014}
 
 \begin{eqnarray*}
 \label{eq:posncalc}
@@ -123,7 +123,7 @@ In Equation~\eqref{eq:posnwt}, the index $i$ indicates the individual module in 
 w_i  =  max[0, w_0+ ln\dfrac{E_i}{E_{rec}}]
 \end{equation}
 
-The parameter $w_0$ in Equation~\eqref{eq:posnwt} is an energy threshold such that $E_i/E_{cl} > e^{-w_0}$ and is found in simulation to have a value of $3.1$ \cite{Garcon}. The logarithmic term enhances the contribution from the tails and improves the position measurement. Additional effects resulting from the differing angles of entry at the ECal require a position correction to the $x$-coordinate of the cluster. These corrections are both charge and momentum-dependent. The position correction for a generated 1~GeV electron is shown in Figure~\ref{Figure:xposn1gev}.
+The parameter $w_0$ in Equation~\eqref{eq:posnwt} is an energy threshold such that $E_i/E_{cl} > e^{-w_0}$ and is found in simulation to have a value of $3.1$ \cite{szumila-vance_hps_ecal_2014}. The logarithmic term enhances the contribution from the tails and improves the position measurement. Additional effects resulting from the differing angles of entry at the ECal require a position correction to the $x$-coordinate of the cluster. These corrections are both charge and momentum-dependent. The position correction for a generated 1~GeV electron is shown in Figure~\ref{Figure:xposn1gev}.
 
 \begin{figure}[H]
   \centering

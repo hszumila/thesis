@@ -13,7 +13,7 @@ The SVT, as shown in Figure~\ref{Figure:svt}, is housed in a magnetic field such
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.5\textwidth]{pics/experiment/svtSensorAssembly.png}
-  \caption[Assembly of a half module of the SVT ]{A half module is being assembled for Layers 1-3 of the SVT. A readout hybrid with the APV25 chips is being attached to the frame along the silicon sensor.~\cite{Proposal}}
+  \caption[Assembly of a half module of the SVT ]{A half module is being assembled for Layers 1-3 of the SVT. A readout hybrid with the APV25 chips is being attached to the frame along the silicon sensor.~\cite{collaboration_heavy_2013}}
   \label{Figure:svtAssembly}
 \end{figure}
 The APV25 samples the strips every 24~ns and stores the results in a pipeline. Once a trigger is received, the corresponding channel pipeline is readout. The readout yields six samples at 24~ns intervals that can be fit to reconstruct the waveform. A 4-pole functional fit was used to extract the time and amplitude of the corresponding hit. A latency time that is configured in the SVT DAQ is used to correctly determine which channel pipelines are readout that correspond to the trigger. The latency time is approximately equal to the time delay of the trigger. Some early data in the Engineering Run was lost due to incorrectly timing in the SVT latency. 

@@ -12,7 +12,7 @@
 \usepackage{amsmath}
 \usepackage{float}
 \usepackage{gensymb}
-
+\usepackage{url}
 \usepackage{feynmp-auto}
 \usepackage{hyperref}
 \usepackage{amssymb}
@@ -39,7 +39,7 @@
 
 \begin{document}
 
-\title{Search for Heavy Photons with Detached Vertices in the Heavy Photon Search Experiment}
+\title{Searching for Heavy Photons with Detached Vertices in the Heavy Photon Search Experiment}
 
 \author{Holly Szumila-Vance}
 \principaladviser{Lawrence Weinstein}
@@ -65,21 +65,21 @@
 
 %\tablespagefalse   %suppresses List of Tables
 
-\vita{The text of the Vita goes here.}%-work on thursday
+\vita{The text of the Vita goes here.}
 
 
-\abstract{text of abstract goes here} %-work on wednesday
+\abstract{The Heavy Photon Search (HPS) experiment is an experiment at Jefferson Lab that searches for a hypothetical massive particle called the heavy photon which could mediate a dark electromagnetic-type force. If heavy photons kinetically mix with Standard Model photons, they may be radiated by electrons scattering from a heavy nucleus and then decay to $e+e-$ pairs. HPS uniquely searches for heavy photons that either decay at the target or a measurable distance after. The experiment utilizes a silicon vertex tracker  (SVT) for momentum and vertex reconstruction, together with an electromagnetic calorimeter for measuring particle energies and triggering events. The HPS experiment took its first data during the spring 2015 Engineering Run using a 1~GeV electron beam incident on a tungsten target and completed a second run in the spring 2016 Physics Run at a beam energy of 2.3 GeV. \\
+\indent The focus of this dissertation discusses the displaced vertex search for heavy photons in the 2015 Engineering Run. This dissertation describes the theoretical motivation for looking for heavy photons and provides an overview of the HPS experimental design and performance. The performance details of the experiment are primarily derived from the 2015 Engineering Run with some discussion from the higher energy running in 2016. \\
+\indent The displaced vertex analysis combines the results obtained from data taken with the SVT at its nominal position at $\pm$0.5~mm from the beam and data taken with the SVT slightly open at $\pm$1.5~mm from the beam. The final results are dominated by the events passing through the first tracking layer of the SVT but also include events that missed the first tracking layer. In total, the final data set has an integrated luminosity of 1529~nb$^{-1}$ of which 1166~nb$^{-1}$ was taken with the SVT at the nominal position at $\pm$0.5~mm from the beam. \\
+\indent No limit is obtained from the displaced vertex search due to having not taken enough data. After un-blinding the data, the results from extensive studies on an additional background in the full data set are discussed. Improvements to the vertex reconstruction are expected to play a major part in the isolation of these backgrounds in the future of the experiment.}
 
 \beforepreface
 
-\prefacesection{Acknowledgments} %-work on thursday
+\prefacesection{Acknowledgments} 
 
     %text of Acknowledgments goes here
     %any other preface section is inserted similarly by the command
     %\prefacesection{Section Title}
-    %Larry Weinstein, Stepan Stepanyan, Michel Garcon, Nathan Baltzell
-    %Gabriel, Raphael
-    %dedicate to my family
 
 \afterpreface
 
@@ -91,13 +91,14 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Motivation} 
-The Standard Model (SM) is the most successful theory for describing elementary particles and their interactions via the electromagnetic, strong, and weak forces in terms of gauge theory interactions. The existence of an additional U(1) hidden symmetry is not forbidden by the SM and is well-motivated as a means to access physics beyond the standard model. The heavy photon is the proposed gauge boson mediator for the consequential dark electromagnetic force that would arise from a U(1) broken symmetry. Theory has predicted that if such an interaction exists, then the SM photon and heavy photon would mix thus inducing a coupling between the heavy photon and electric charge proportional to $\epsilon$~\cite{Holdom0}. This coupling is significant because electrons can radiate heavy photons through the same mechanism of radiating photons although at rates proportional to $\epsilon^2$. The primary goal of HPS and many similar experiments is to experimentally detect the heavy photon through this production mechanism. The heavy photon is additionally referred to as the A$^{\prime}$, dark photon, or U-boson.
+The Standard Model (SM) is the most successful theory for describing elementary particles and their interactions via the electromagnetic, strong, and weak forces in terms of gauge theory interactions. The existence of an additional U(1) hidden symmetry is not forbidden by the SM and is well-motivated as a means to access physics beyond the standard model. The heavy photon is the proposed gauge boson mediator for the consequential dark electromagnetic force that would arise from a U(1) broken symmetry. Theory has predicted that if such an interaction exists, then the SM photon and heavy photon would mix thus inducing a coupling between the heavy photon and electric charge proportional to $\epsilon$~\cite{holdom_two_1986}. This coupling is significant because electrons can radiate heavy photons through the same mechanism of radiating photons although at rates proportional to $\epsilon^2$. The primary goal of HPS and many similar experiments is to experimentally detect the heavy photon through this production mechanism. The heavy photon is additionally referred to as the A$^{\prime}$, dark photon, or U-boson.
 
 \section{Theory of heavy photons}
 \input{texFiles/Motivation/theory.tex}
 
 \section{Implications of a heavy photon}
-\input{texFiles/Motivation/implications.tex}
+%TODO: write this
+%\input{texFiles/Motivation/implications.tex}
 
 \section{Searching for heavy photons}
 \input{texFiles/Motivation/searches.tex}
@@ -135,11 +136,9 @@ The HPS experimental setup is located in the downstream alcove of Hall B at Jeff
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Detector Calibration and Performance} 
-
 The first detector to be commissioned was the ECal during preliminary running with a 2~GeV electron beam in Hall B in December 2014. The ECal was initially calibrated prior to receiving any beam using cosmic ray energy deposition in the crystals. The ECal demonstrated that all channels worked and that the full readout chain using FADC250 modules with the DAQ performed well. The SVT was installed in the early spring of 2015 and was fully commissioned during the Engineering Run. The single pass beam energy was 1.056~GeV and was sufficient for detector commissioning, calibration, and physics analysis. 
 
 \section{Silicon Vertex Tracker Performance}
-
 The SVT momentum calibration is primarily guided by the accuracy of the alignment in the magnetic field. Tracks on both top and bottom for elastically-scattered electrons should peak at the same beam energy at the same resolution. The Billoir vertexing algorithm is the method by which two tracks are re-fit to create a vertex. The invariant mass is reconstructed from the vertex of the two tracks. 
 
 %\input{texFiles/DetectorPerformance/SVT/svt.tex}
@@ -147,7 +146,6 @@ The SVT momentum calibration is primarily guided by the accuracy of the alignmen
 (Include discussion on layer efficiency, 3 prong tracking efficiencies, moller mass, and fee peak resolution.)
 
 \section{Electromagnetic Calorimeter}
-
 The ECal was calibrated both in energy and time. The first calibration performed before receiving beam from the accelerator was the cosmic ray energy calibration. A full timing calibration of the ECal was also performed using the accelerator RF signal. A final calibration using physics events from elastically-scattered beam energy electrons and events from wide angle bremsstrahlung (WAB) yielded the full calibration of the ECal for all energies and characterized the energy resolution. 
 
 \subsection{Simulations}
@@ -172,56 +170,50 @@ The ECal was calibrated both in energy and time. The first calibration performed
 \input{texFiles/DetectorPerformance/Ecal/timing.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Searching for displaced vertices}%--work on Monday
+\chapter{Searching for displaced vertices}
+The events relevant to the vertex analysis were triggered using the pairs-1 HPS trigger cuts. The data is loosely selected as pairs that have a cluster in the top and bottom of the ECal. A radiative cut, a cut on the measured sum of the energy of the two reconstructed particles in order to selected A' events of interest, is chosen to greater than 80$\%$ of the beam energy. Tracks are reconstructed using various methods and a Generalized Broken Lines (GBL) track re-fit is performed using a minimum of five hits in a track. A vertex is constructed using an unconstrained vertex fit meaning that the closest approach of an $e+e-$ track pair is used to construct the vertex. While the beam spot constrained vertex collection was not used for measuring vertex position of a pair, the $\chi^{2}$ of the beam spot constrained vertex fit described the quality of how closely the two tracks pass each other in addition to how well the total momentum projects back to the beam spot position at the target. 
+\indent The beam spot constrained collection is not used as the primary collection for studying the vertex position because the beam spot position at the target is not precisely known. If using the z vertex position from a beam spot constrained fit, the size of the beam spot weights the significance of the beam spot as a factor in the vertex fit. A bad beam spot position can systematically pull the measured vertex position. For genuine A' displaced vertices, the z vertex position  is relatively unchanged when using a beam spot vs an unconstrained vertex fit. For identifying backgrounds, prompt vertices that are pushed to large z through measurement error, the beamspot constraint can arbitrarily bias the location of the scattered vertex. In order to avoid bias to the reconstructed z vertex position, the unconstrained fit is used.  \\
+\indent The tracks are projected to the ECal and matched to clusters based on position and momentum. There exists an established parameterization of the track-cluster matching that can be used to measure the quality of the match as a a count of standard deviation, $n\sigma$. Furthermore, the ECal has a superior timing resolution to the SVT and the time difference between two clusters can be used to study both accidentals and elimination of tracks originating from different events. \\
+\indent There are a few cuts that originate specifically from studies of high z background events and physics processes which include cuts on the positron track's distance of closest approach in the $XZ$ plane to the target (DOCA), the $e+e-$ momenutm asymmetry, and the number of hits shared between tracks. 
 
 \section{Datasets}
+%%TODO: input final reach numbers
+\input{texFiles/Searching/datasets.tex}
+
+\section{A' signal in the displaced vertex search}
+%change out fit for 100% l1l1 slice
+\input{texFiles/Searching/signal.tex}
 
 \section{Monte Carlo simulation}
-\subsection{Radiative fraction}
-%\input{texFiles/eventSelection/radFrac.tex}
+\input{texFiles/Searching/radFrac.tex}
 
 \subsection{Vertex reconstruction efficiencies, $\epsilon_{vtx}$}
+\input{texFiles/Searching/efficiency.tex}
+
 \subsection{Mass resolution}
-
-
-
-%\input{texFiles/eventSelection/summary.tex}
+\input{texFiles/Searching/massres.tex}
 
 %\section{Combining Ecal and SVT measurements}
 
 \section{Vertex cuts}
-\subsection{SVT at nominal position}
-\subsection{SVT at open position}
-
-
-
-%\section{Cuts on data, SVT at 0.5 mm from the beam}
-The following section consists of three different datasets used to measure a combined 0.5~mm reach. The 0.5~mm data was recorded during stable beam times when the SVT bias voltage was on, and the SVT layer 1 was positioned at $\pm$0.5~mm from the beam. 
-
-%\input{texFiles/eventSelection/Nominal/L1L1.tex}
-%\input{texFiles/eventSelection/Nominal/L1L2.tex}
-%\input{texFiles/eventSelection/Nominal/L2L2.tex}
-
-%\section{Cuts on SVT at 1.5 mm from the beam}
-
-The 1.5~mm datasets consist of the data that was taken over approximately 0.5~beam days with the first layer of the SVT at 1.5~mm from the beam. Because this run was the engineering run, the beam position and stability had to the be fully understood before moving the SVT in to its nominal position at 0.5~mm from the beam.  
-
-%\input{texFiles/eventSelection/Open/L1L1.tex}
-%\input{texFiles/eventSelection/Open/L1L2.tex}
-%\input{texFiles/eventSelection/Open/L2L2.tex}
-
+\input{texFiles/Searching/blindCuts.tex}
+\subsection{Cuts after unblinding}
+Discuss the additional cuts after unblinding: L2 isolation to all sets, matching, track chi2/dof, kink cuts
+%\input{texFiles/Searching/unblindCuts.tex}
 %\input{texFiles/eventSelection/reachProjections.tex}
 
+\section{Calculating zCut}
+Discuss the z vs mass distributions with zCut and accidentals for the 10$\%$ sample.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Vertex Search Results} %%-work on Monday and Tuesday
+\chapter{Vertex Search Results} 
+Show full data set z vs mass distribution with zCut. 
 
-\section{Blinded results and projections}
-\subsection{SVT at nominal position}
-\subsection{SVT at open position}
-\subsection{Estimate of contamination by accidentals}
 
-\section{Unblinded results}
+\section{Characterizing the background}
+Discuss quantiles, look elsewhere effect, p-values
+
+
 \subsection{SVT at nominal position}
 \subsection{SVT at open position}
 \subsection{Estimate of contamination by accidentals}
@@ -232,11 +224,14 @@ The 1.5~mm datasets consist of the data that was taken over approximately 0.5~be
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Conclusion} %work on wednesday
+\chapter{Conclusion}
 
 
-\begin{thebibliography}{99}
+%\begin{thebibliography}{99}
 
+\bibliography{biblio}{}
+\bibliographystyle{unsrt}
+%\printbibliography
   %This begins the list of reference or bibliography. The default form is consistent
   %with the references in the Physical Review. The articles must be listed in the order
   %in which they appear in the text. The style of the bibliography can be changed and
@@ -246,74 +241,34 @@ The 1.5~mm datasets consist of the data that was taken over approximately 0.5~be
   %hyperlinking to the bibliography entries to citations in the text and to publisher's
   %sites that allow quick access to the cited material.
   
-\addtocontents{toc}{\vspace*{12pt}}  %This command adds some extra space in the table of
+%\addtocontents{toc}{\vspace*{12pt}}  %This command adds some extra space in the table of
                                      %contents
 \addcontentsline{toc}{chapter}{BIBLIOGRAPHY}  %This command adds and entry for the
                                               %bibliography in the table of contents
                                               
-                                              
-\bibitem{Balossino} I.~Balossino et al,{\it The HPS electromagnetic calorimeter} Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment 854 · October 2016    
 
-\bibitem{Takashi}N.~Baltzell et al.,{\it The Heavy Photon Search beamline and its performance} Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment 859 · December 2016                                          
-
-\bibitem{Garcon} H.~Szumila-Vance and M. Gar\c on, {\it HPS/ECal simulations: energy and
-position reconstruction for electrons, positrons and photons}, HPS-Note 2014-001.
-
-\bibitem{Proposal} HPS Collaboration,{\it Heavy Photon Search at Jefferson Laboratory: proposal for the 2014-2015 run} May 10, 2013. %https://confluence.slac.stanford.edu/download/attachments/86676777/hps_2014.pdf?version=1&modificationDate=1368227154000
-
-\bibitem{kazimi} R.~Kazimi, {\it Simultaneous Four-Hall Operation for 12~GeV CEBAF} In Proceedings, 4th International Particle Accelerator Conference (IPAC 2013), page WEPFI085,2013.
-
-\bibitem{Batarin} V.A.~Batarin et al., {\it Correlation of beam electron and LED signal losses under irradiation and long-term recovery of lead tungstate crystals} Nucl. Instrum. Meth. A 550 (2005) 543-550.
-
-\bibitem{Celentano} A.~Celentano et al., {\it Design and realization of a facility for the characterization of Silicon Avalanche PhotoDiodes}, JINST 9 (2014) T09002, arXiv:1504.01589.
-
-\bibitem{Battaglieri} CLAS12 Collaboration, {\it CLAS12 Forward Tagger (FT) Technical Design Report}, CLAS12, (2012), https://www.ge.infn.it/~batta/jlab/ft-tdr.2.0.pdf
-
-\bibitem{Olive} K.A.Olive et al.[Particle Data Group Collaboration], Chin. Phys. C 38, 090001 (2014).
-
-\bibitem{Charles} A.~Celentano and G. Charles, HPS-NOTE 2014-002.
-
-\bibitem{Baltzell} N.~Baltzell ECal Pulse Fitting, HPS-NOTE 2015-010.
-\bibitem{TimeNote} H.~Szumila-Vance Ecal Timing Calibration for the Spring 2015 Engineering Run, HPS-NOTE 2015-011.
-\bibitem{CalibNote} H.~Szumila-Vance HPS Energy Calibration for the Spring 2015 Engineering Run, HPS-NOTE 2016-002.
-
-\bibitem{Holdom0} B. Holdom, Physics Letters B 166 (1986) 196. 
-
-\bibitem{Holdom1} B. Holdom, Physics Letters B 178 (1986) 65. 
-
-
-\bibitem{panda} PANDA EMC-TDR, October 2008.
-
-\bibitem{weiner}  Jia Liu, Neal Weiner, and Wei Xue. “Signals of a Light Dark Force in the
-Galactic Center”. In: Journal of High Energy Physics 2015.8 (Aug. 2015). issn:
-1029-8479. doi: 10.1007/JHEP08(2015)050. arXiv: 1412.1485. 
-
-\bibitem{toro}https://arxiv.org/pdf/0906.0580.pdf
-
-\bibitem{NA48} J. R. Batley et al. (NA48/2), Phys. Lett. B746, 178 (2015), 1504.00607.
-
-\bibitem{A1}https://arxiv.org/pdf/1404.5502.pdf
-
-\bibitem{babar}https://arxiv.org/pdf/1702.03327.pdf
-
-\bibitem{limitsBD}https://arxiv.org/pdf/0906.0580.pdf
-
-\bibitem(Orsaybd)
-
-\bibitem{DarkSectors2016} Dark Sectors 2016 Community Workshop report
-
-\end{thebibliography}
+%\end{thebibliography}
 
 %This command begins the Appendix section. The style of the chapter numbering is changed to
 %letters
 
 \appendix
 
+
 %A new command for appendix chapters has been defined called \achapter that has been modified
 %so that it can add the appendices to the table of contents in the approved form.
 
-\achapter{}
+\achapter{Vertex reconstruction efficiencies}
+\label{appendix:vtxEff}
+\input{texFiles/Appendix/efficiency.tex}
 
+\achapter{Vertex analysis cuts}
+\label{appendix:vtxCuts}
+\input{texFiles/Appendix/cutEffects.tex}
+
+\achapter{Reach from other datasets}
+\label{appendix:reach}
+%\input{texFiles/Appendix/reach.tex}
 
 
 \newpage

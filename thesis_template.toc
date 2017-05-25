@@ -8,63 +8,64 @@
 \contentsline {chapter}{\numberline {2.}\uppercase {Motivation}}{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}\uppercase {Theory of heavy photons}}{4}{section.2.1}
 \contentsline {section}{\numberline {2.2}\uppercase {Implications of a heavy photon}}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}\uppercase {Dark matter}}{6}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}\uppercase {muon g-2}}{6}{subsection.2.2.2}
 \contentsline {section}{\numberline {2.3}\uppercase {Searching for heavy photons}}{6}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}\uppercase {Decay signature}}{6}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}\uppercase {Heavy photon search strategies}}{8}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}\uppercase {Methods of production}}{7}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}\uppercase {Methods of detection}}{8}{subsection.2.3.3}
 \contentsline {section}{\numberline {2.4}\uppercase {Heavy Photon Search kinematics}}{9}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}\uppercase {Signal}}{9}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.1}\uppercase {Signal}}{10}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}\uppercase {Backgrounds}}{11}{subsection.2.4.2}
-\contentsline {chapter}{\numberline {3.}\uppercase {Heavy Photon Search Experiment}}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}\uppercase {Beamline}}{14}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\uppercase {Target}}{21}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}\uppercase {Collimator}}{22}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}\uppercase {Silicon Vertex Tracker}}{22}{section.3.3}
-\contentsline {section}{\numberline {3.4}\uppercase {Electromagnetic Calorimeter}}{24}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}\uppercase {Light Monitoring System}}{27}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}\uppercase {Avalanche Photodiodes}}{30}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}\uppercase {Trigger}}{34}{section.3.5}
-\contentsline {chapter}{\numberline {4.}\uppercase {Detector Calibration and Performance}}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}\uppercase {Silicon Vertex Tracker Performance}}{37}{section.4.1}
-\contentsline {section}{\numberline {4.2}\uppercase {Electromagnetic Calorimeter}}{37}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}\uppercase {Simulations}}{37}{subsection.4.2.1}
-\contentsline {subsubsection}{Energy reconstruction}{38}{section*.5}
-\contentsline {subsubsection}{Energy resolution}{42}{section*.6}
-\contentsline {subsubsection}{Position reconstruction}{43}{section*.7}
-\contentsline {subsubsection}{Position resolution}{45}{section*.8}
-\contentsline {subsection}{\numberline {4.2.2}\uppercase {Calibration using cosmic ray energy}}{48}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}\uppercase {Ecal signal pulse fitting}}{53}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}\uppercase {Calibration using elastically-scattered electrons}}{55}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects}}{56}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}\uppercase {Energy resolution in data}}{57}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}\uppercase {Timing calibration and performance}}{60}{subsection.4.2.7}
-\contentsline {chapter}{\numberline {5.}\uppercase {Searching for displaced vertices}}{68}{chapter.5}
-\contentsline {section}{\numberline {5.1}\uppercase {Datasets}}{68}{section.5.1}
-\contentsline {section}{\numberline {5.2}\uppercase {Monte Carlo simulation}}{68}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}\uppercase {Radiative fraction}}{68}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}\uppercase {Vertex reconstruction efficiencies, $\epsilon _{vtx}$}}{68}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}\uppercase {Mass resolution}}{68}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}\uppercase {Vertex cuts}}{68}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}\uppercase {SVT at nominal position}}{68}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}\uppercase {SVT at open position}}{68}{subsection.5.3.2}
-\contentsline {chapter}{\numberline {6.}\uppercase {Vertex Search Results}}{69}{chapter.6}
-\contentsline {section}{\numberline {6.1}\uppercase {Blinded results and projections}}{69}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}\uppercase {SVT at nominal position}}{69}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}\uppercase {SVT at open position}}{69}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}\uppercase {Estimate of contamination by accidentals}}{69}{subsection.6.1.3}
-\contentsline {section}{\numberline {6.2}\uppercase {Unblinded results}}{69}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}\uppercase {SVT at nominal position}}{69}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}\uppercase {SVT at open position}}{69}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}\uppercase {Estimate of contamination by accidentals}}{69}{subsection.6.2.3}
-\contentsline {section}{\numberline {6.3}\uppercase {Reach}}{69}{section.6.3}
-\contentsline {chapter}{\numberline {7.}\uppercase {Conclusion}}{70}{chapter.7}
-\vspace *{12pt}
-\contentsline {chapter}{BIBLIOGRAPHY}{71}{chapter*.9}
+\contentsline {chapter}{\numberline {3.}\uppercase {Heavy Photon Search Experiment}}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}\uppercase {Continuous Electron Beam Accelerator Facility}}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}\uppercase {Beamline}}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\uppercase {Target}}{22}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}\uppercase {Collimator}}{23}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}\uppercase {Silicon Vertex Tracker}}{23}{section.3.3}
+\contentsline {section}{\numberline {3.4}\uppercase {Electromagnetic Calorimeter}}{25}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}\uppercase {Light Monitoring System}}{28}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}\uppercase {Avalanche Photodiodes}}{31}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}\uppercase {Trigger}}{35}{section.3.5}
+\contentsline {chapter}{\numberline {4.}\uppercase {Detector Calibration and Performance}}{38}{chapter.4}
+\contentsline {section}{\numberline {4.1}\uppercase {Silicon Vertex Tracker Performance}}{38}{section.4.1}
+\contentsline {section}{\numberline {4.2}\uppercase {Electromagnetic Calorimeter}}{38}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}\uppercase {Simulations}}{38}{subsection.4.2.1}
+\contentsline {subsubsection}{Energy reconstruction}{39}{section*.5}
+\contentsline {subsubsection}{Energy resolution}{43}{section*.6}
+\contentsline {subsubsection}{Position reconstruction}{44}{section*.7}
+\contentsline {subsubsection}{Position resolution}{46}{section*.8}
+\contentsline {subsection}{\numberline {4.2.2}\uppercase {Calibration using cosmic ray energy}}{49}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}\uppercase {Ecal signal pulse fitting}}{54}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}\uppercase {Calibration using elastically-scattered electrons}}{56}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}\uppercase {Wide angle bremsstrahlung for studies of edge effects}}{57}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}\uppercase {Energy resolution in data}}{58}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}\uppercase {Timing calibration and performance}}{61}{subsection.4.2.7}
+\contentsline {chapter}{\numberline {5.}\uppercase {Searching for displaced vertices}}{69}{chapter.5}
+\contentsline {section}{\numberline {5.1}\uppercase {Datasets}}{70}{section.5.1}
+\contentsline {section}{\numberline {5.2}\uppercase {A' signal in the displaced vertex search}}{70}{section.5.2}
+\contentsline {section}{\numberline {5.3}\uppercase {Monte Carlo simulation}}{72}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}\uppercase {Vertex reconstruction efficiencies, $\epsilon _{vtx}$}}{74}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}\uppercase {Mass resolution}}{80}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}\uppercase {Vertex cuts}}{85}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}\uppercase {Cuts after unblinding}}{101}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}\uppercase {Calculating zCut}}{101}{section.5.5}
+\contentsline {chapter}{\numberline {6.}\uppercase {Vertex Search Results}}{102}{chapter.6}
+\contentsline {section}{\numberline {6.1}\uppercase {Characterizing the background}}{102}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}\uppercase {SVT at nominal position}}{102}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}\uppercase {SVT at open position}}{102}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}\uppercase {Estimate of contamination by accidentals}}{102}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}\uppercase {Reach}}{102}{section.6.2}
+\contentsline {chapter}{\numberline {7.}\uppercase {Conclusion}}{103}{chapter.7}
+\contentsline {chapter}{BIBLIOGRAPHY}{108}{chapter*.9}
 \vspace *{12pt}
 \noindent APPENDICES
 
-\contentsline {section}{\numberline {A.}\uppercase {}}{73}{appendix.A}
+\contentsline {section}{\numberline {A.}\uppercase {Vertex reconstruction efficiencies}}{109}{appendix.A}
+\contentsline {section}{\numberline {B.}\uppercase {Vertex analysis cuts}}{111}{appendix.B}
+\contentsline {subsection}{\numberline {B.0.1}\uppercase {L1L2 with SVT at 0.5 mm}}{111}{subsection.B.0.1}
+\contentsline {subsection}{\numberline {B.0.2}\uppercase {L2L2 with SVT at 0.5 mm}}{115}{subsection.B.0.2}
+\contentsline {subsection}{\numberline {B.0.3}\uppercase {L1L1 with SVT at 1.5 mm}}{116}{subsection.B.0.3}
+\contentsline {subsection}{\numberline {B.0.4}\uppercase {L1L2 with SVT at 1.5 mm}}{117}{subsection.B.0.4}
+\contentsline {subsection}{\numberline {B.0.5}\uppercase {L2L2 with SVT at 1.5 mm}}{118}{subsection.B.0.5}
+\contentsline {section}{\numberline {C.}\uppercase {Reach from other datasets}}{120}{appendix.C}
 \vspace *{12pt}
-\contentsline {chapter}{VITA}{74}{appendix*.10}
+\contentsline {chapter}{VITA}{121}{appendix*.10}
