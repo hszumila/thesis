@@ -4,18 +4,17 @@ The top-level auxiliary file: thesis_template.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
 Warning--entry type for "szumila-vance_hps_2016" isn't style-file defined
---line 557 of file biblio.bib
+--line 606 of file biblio.bib
 Warning--entry type for "charles_2014" isn't style-file defined
---line 568 of file biblio.bib
+--line 617 of file biblio.bib
 Warning--entry type for "baltzell_ecal_2015" isn't style-file defined
---line 579 of file biblio.bib
+--line 628 of file biblio.bib
 Warning--entry type for "szumila-vance_hps_ecal_2014" isn't style-file defined
---line 590 of file biblio.bib
+--line 639 of file biblio.bib
 Warning--entry type for "battaglieri_ft_clas12" isn't style-file defined
---line 2026 of file biblio.bib
+--line 2136 of file biblio.bib
 Warning--entry type for "panda_2008" isn't style-file defined
---line 2037 of file biblio.bib
-Warning--I didn't find a database entry for "toro"
+--line 2147 of file biblio.bib
 Warning--I didn't find a database entry for "alewski_darklight_2014"
 Warning--empty journal in holdom_two_1986
 Warning--empty year in holdom_two_1986
@@ -23,8 +22,22 @@ Warning--empty journal in alexander_dark_2016
 Warning--empty year in alexander_dark_2016
 Warning--empty journal in bjorken_new_2009
 Warning--empty year in bjorken_new_2009
+Warning--empty journal in madhavacheril_current_2014
+Warning--empty year in madhavacheril_current_2014
+Warning--empty journal in weinberg_cold_2013
+Warning--empty year in weinberg_cold_2013
 Warning--empty journal in liu_signals_2015
 Warning--empty year in liu_signals_2015
+Warning--empty journal in arkani-hamed_theory_2009
+Warning--empty year in arkani-hamed_theory_2009
+Warning--empty journal in finkbeiner_x-ray_2014
+Warning--empty year in finkbeiner_x-ray_2014
+Warning--empty journal in bulbul_detection_2014
+Warning--empty year in bulbul_detection_2014
+Warning--empty journal in adriani_observation_2009
+Warning--empty year in adriani_observation_2009
+Warning--empty journal in blum_muon_2013
+Warning--empty year in blum_muon_2013
 Warning--empty journal in beranek_theoretical_2013
 Warning--empty year in beranek_theoretical_2013
 Warning--empty journal in abrahamyan_search_2011
@@ -33,51 +46,49 @@ Warning--empty journal in ship_collaboration_facility_2015
 Warning--empty year in ship_collaboration_facility_2015
 Warning--empty journal in gardner_new_2016
 Warning--empty year in gardner_new_2016
-Warning--empty chapter and pages in Kazimi_2013
-Warning--empty publisher in Kazimi_2013
 Warning--empty journal in balossino_hps_2016
 Warning--empty year in balossino_hps_2016
 Warning--empty journal in billoir_fast_1992
 Warning--empty year in billoir_fast_1992
-You've used 26 entries,
+You've used 39 entries,
             1791 wiz_defined-function locations,
-            593 strings with 18266 characters,
-and the built_in function-call counts, 12579 in all, are:
-= -- 353
-> -- 2046
-< -- 0
-+ -- 693
-- -- 667
-* -- 1529
-:= -- 2578
-add.period$ -- 68
-call.type$ -- 26
-change.case$ -- 25
+            667 strings with 21568 characters,
+and the built_in function-call counts, 16121 in all, are:
+= -- 581
+> -- 2351
+< -- 2
++ -- 799
+- -- 760
+* -- 1850
+:= -- 3198
+add.period$ -- 104
+call.type$ -- 39
+change.case$ -- 39
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 200
-empty$ -- 500
-format.name$ -- 667
-if$ -- 2225
+cite$ -- 73
+duplicate$ -- 322
+empty$ -- 769
+format.name$ -- 760
+if$ -- 2949
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 20
-newline$ -- 123
-num.names$ -- 26
-pop$ -- 110
+int.to.str$ -- 39
+missing$ -- 32
+newline$ -- 185
+num.names$ -- 39
+pop$ -- 146
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 97
+skip$ -- 159
 stack$ -- 0
-substring$ -- 209
-swap$ -- 16
-text.length$ -- 0
+substring$ -- 388
+swap$ -- 33
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 22
-while$ -- 38
-width$ -- 28
-write$ -- 238
-(There were 30 warnings)
+warning$ -- 34
+while$ -- 62
+width$ -- 41
+write$ -- 364
+(There were 41 warnings)

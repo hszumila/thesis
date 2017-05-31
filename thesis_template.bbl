@@ -63,10 +63,99 @@ James~D. Bjorken, Rouven Essig, Philip Schuster, and Natalia Toro.
   Forces}}.
 \newblock 80(7).
 
+\bibitem{Sofue:2000jx}
+Yoshiaki Sofue and Vera Rubin.
+\newblock {Rotation curves of spiral galaxies}.
+\newblock {\em Ann. Rev. Astron. Astrophys.}, 39:137--174, 2001.
+
+\bibitem{madhavacheril_current_2014}
+Mathew~S. Madhavacheril, Neelima Sehgal, and Tracy~R. Slatyer.
+\newblock Current {{Dark Matter Annihilation Constraints}} from {{CMB}} and
+  {{Low}}-{{Redshift Data}}.
+\newblock 89(10).
+
+\bibitem{weinberg_cold_2013}
+David~H. Weinberg, James~S. Bullock, Fabio Governato, Rachel~Kuzio de~Naray,
+  and Annika H.~G. Peter.
+\newblock Cold dark matter: Controversies on small scales.
+
 \bibitem{liu_signals_2015}
 Jia Liu, Neal Weiner, and Wei Xue.
 \newblock Signals of a {{Light Dark Force}} in the {{Galactic Center}}.
 \newblock 2015(8).
+
+\bibitem{arkani-hamed_theory_2009}
+Nima Arkani-Hamed, Douglas~P. Finkbeiner, Tracy~R. Slatyer, and Neal Weiner.
+\newblock A {{Theory}} of {{Dark Matter}}.
+\newblock 79(1).
+
+\bibitem{finkbeiner_x-ray_2014}
+Douglas~P. Finkbeiner and Neal Weiner.
+\newblock An {{X}}-{{Ray Line}} from {{eXciting Dark Matter}}.
+
+\bibitem{bulbul_detection_2014}
+Esra Bulbul, Maxim Markevitch, Adam Foster, Randall~K. Smith, Michael
+  Loewenstein, and Scott~W. Randall.
+\newblock Detection of {{An Unidentified Emission Line}} in the {{Stacked
+  X}}-ray spectrum of {{Galaxy Clusters}}.
+\newblock 789(1):13.
+
+\bibitem{Hooper:2010mq}
+Dan Hooper and Lisa Goodenough.
+\newblock {Dark Matter Annihilation in The Galactic Center As Seen by the Fermi
+  Gamma Ray Space Telescope}.
+\newblock {\em Phys. Lett.}, B697:412--428, 2011.
+
+\bibitem{Barwick:1995gv}
+S.~W. Barwick et~al.
+\newblock {Cosmic ray positrons at high-energies: A New measurement}.
+\newblock {\em Phys. Rev. Lett.}, 75:390--393, 1995.
+
+\bibitem{Boezio:2001dtm}
+M.~Boezio et~al.
+\newblock {Measurements of cosmic-ray electrons and positrons by the
+  Wizard/CAPRICE collaboration}.
+\newblock {\em Adv. Space Res.}, 27(4):669--674, 2001.
+
+\bibitem{adriani_observation_2009}
+O.~Adriani, G.~C. Barbarino, G.~A. Bazilevskaya, R.~Bellotti, M.~Boezio, E.~A.
+  Bogomolov, L.~Bonechi, M.~Bongi, V.~Bonvicini, S.~Bottai, A.~Bruno,
+  F.~Cafagna, D.~Campana, P.~Carlson, M.~Casolino, G.~Castellini, M.~P.
+  De~Pascale, G.~De~Rosa, N.~De~Simone, V.~Di~Felice, A.~M. Galper,
+  L.~Grishantseva, P.~Hofverberg, S.~V. Koldashov, S.~Y. Krutkov, A.~N.
+  Kvashnin, A.~Leonov, V.~Malvezzi, L.~Marcelli, W.~Menn, V.~V. Mikhailov,
+  E.~Mocchiutti, S.~Orsi, G.~Osteria, P.~Papini, M.~Pearce, P.~Picozza,
+  M.~Ricci, S.~B. Ricciarini, M.~Simon, R.~Sparvoli, P.~Spillantini, Y.~I.
+  Stozhkov, A.~Vacchi, E.~Vannuccini, G.~Vasilyev, S.~A. Voronov, Y.~T. Yurkin,
+  G.~Zampa, N.~Zampa, and V.~G. Zverev.
+\newblock Observation of an anomalous positron abundance in the cosmic
+  radiation.
+\newblock 458(7238):607--609.
+
+\bibitem{Abdollahi:2017nat}
+S.~Abdollahi et~al.
+\newblock {Cosmic-ray electron-positron spectrum from 7 GeV to 2 TeV with the
+  Fermi Large Area Telescope}.
+\newblock {\em Phys. Rev.}, D95(8):082007, 2017.
+
+\bibitem{Schael:2007tta}
+Stefan Schael.
+\newblock {Cosmic positron spectrum measurement from 1 to 50 GeV with AMS-01}.
+\newblock In {\em {Proceedings, 30th International Cosmic Ray Conference (ICRC
+  2007): Merida, Yucatan, Mexico, July 3-11, 2007}}, volume~4, pages 753--756,
+  2007.
+
+\bibitem{Bergstrom:2013jra}
+Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
+  Weniger.
+\newblock {New limits on dark matter annihilation from AMS cosmic ray positron
+  data}.
+\newblock {\em Phys. Rev. Lett.}, 111:171101, 2013.
+
+\bibitem{blum_muon_2013}
+Thomas Blum, Achim Denig, Ivan Logashenko, Eduardo de~Rafael, B.~Lee Roberts,
+  Thomas Teubner, and Graziano Venanzoni.
+\newblock The {{Muon}} (g-2) {{Theory Value}}: {{Present}} and {{Future}}.
 
 \bibitem{beranek_theoretical_2013}
 T.~Beranek, H.~Merkel, and M.~Vanderhaeghen.
@@ -157,11 +246,6 @@ J.~P. Lees et~al.
 Philip Ilten, Yotam Soreq, Jesse Thaler, Mike Williams, and Wei Xue.
 \newblock {Proposed Inclusive Dark Photon Search at LHCb}.
 \newblock {\em Phys. Rev. Lett.}, 116(25):251803, 2016.
-
-\bibitem{Kazimi_2013}
-Reza Kazimi.
-\newblock {\em Simultaneous Four-Hall Operation for 12 GeV CEBAF}.
-\newblock Jun 2013.
 
 \bibitem{beamline_nim_2017}
 N.~Baltzell, H.~Egiyan, M.~Ehrhart, C.~Field, A.~Freyberger, F.~X. Girod,

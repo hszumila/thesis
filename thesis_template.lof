@@ -1,17 +1,19 @@
 \noindent Figure\hfill Page\par 
 \contentsline {figure}{\numberline {1.0.1}{\ignorespaces Projected reach for the HPS experiment}}{2}{figure.1.0.1}
 \contentsline {figure}{\numberline {2.1.1}{\ignorespaces Kinetic mixing of the SM photon with a heavy photon}}{5}{figure.2.1.1}
-\contentsline {figure}{\numberline {2.3.1}{\ignorespaces The branching ratios for heavy photon decays}}{6}{figure.2.3.1}
-\contentsline {figure}{\numberline {2.4.1}{\ignorespaces Heavy photon production in a fixed-target experiment}}{10}{figure.2.4.1}
-\contentsline {figure}{\numberline {2.4.2}{\ignorespaces Radiative background}}{12}{figure.2.4.2}
-\contentsline {figure}{\numberline {2.4.3}{\ignorespaces Bethe-Heitler background}}{12}{figure.2.4.3}
-\contentsline {figure}{\numberline {3.1.1}{\ignorespaces CEBAF accelerator}}{15}{figure.3.1.1}
-\contentsline {figure}{\numberline {3.2.1}{\ignorespaces HPS location in Hall B}}{16}{figure.3.2.1}
-\contentsline {figure}{\numberline {3.2.2}{\ignorespaces HPS beamline}}{17}{figure.3.2.2}
-\contentsline {figure}{\numberline {3.2.3}{\ignorespaces HPS magnetic fields}}{18}{figure.3.2.3}
-\contentsline {figure}{\numberline {3.2.4}{\ignorespaces Charged particle trajectory in HPS beamline}}{19}{figure.3.2.4}
-\contentsline {figure}{\numberline {3.2.5}{\ignorespaces HPS beamline simulation in GEMC}}{20}{figure.3.2.5}
-\contentsline {figure}{\numberline {3.2.6}{\ignorespaces Beam profile from harp scan during 2015 run}}{22}{figure.3.2.6}
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Heavy photon mediates dark matter scattering into an excited state}}{7}{figure.2.2.1}
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Heavy photon contribution to the muon $g-2$.}}{8}{figure.2.2.2}
+\contentsline {figure}{\numberline {2.3.1}{\ignorespaces The branching ratios for heavy photon decays}}{9}{figure.2.3.1}
+\contentsline {figure}{\numberline {2.4.1}{\ignorespaces Heavy photon production in a fixed-target experiment}}{12}{figure.2.4.1}
+\contentsline {figure}{\numberline {2.4.2}{\ignorespaces Radiative background}}{14}{figure.2.4.2}
+\contentsline {figure}{\numberline {2.4.3}{\ignorespaces Bethe-Heitler background}}{15}{figure.2.4.3}
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces CEBAF accelerator}}{17}{figure.3.1.1}
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces HPS location in Hall B}}{18}{figure.3.2.1}
+\contentsline {figure}{\numberline {3.2.6}{\ignorespaces Beam profile from harp scan during 2015 run}}{18}{figure.3.2.6}
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces HPS beamline}}{19}{figure.3.2.2}
+\contentsline {figure}{\numberline {3.2.3}{\ignorespaces HPS magnetic fields}}{20}{figure.3.2.3}
+\contentsline {figure}{\numberline {3.2.4}{\ignorespaces Charged particle trajectory in HPS beamline}}{21}{figure.3.2.4}
+\contentsline {figure}{\numberline {3.2.5}{\ignorespaces HPS beamline simulation in GEMC}}{22}{figure.3.2.5}
 \contentsline {figure}{\numberline {3.3.1}{\ignorespaces Rendering of the HPS SVT}}{24}{figure.3.3.1}
 \contentsline {figure}{\numberline {3.3.2}{\ignorespaces Assembly of a half module of the SVT }}{25}{figure.3.3.2}
 \contentsline {figure}{\numberline {3.4.1}{\ignorespaces Drawing of the ECal assembly face}}{26}{figure.3.4.1}
@@ -19,11 +21,11 @@
 \contentsline {figure}{\numberline {3.4.3}{\ignorespaces Photograph of ECal crystals during assembly}}{28}{figure.3.4.3}
 \contentsline {figure}{\numberline {3.4.4}{\ignorespaces LED signal in ECal FADC}}{30}{figure.3.4.4}
 \contentsline {figure}{\numberline {3.4.5}{\ignorespaces Results of a single LED run}}{31}{figure.3.4.5}
-\contentsline {figure}{\numberline {3.4.6}{\ignorespaces Hamamatsu S8664-3189 large area APDs}}{32}{figure.3.4.6}
+\contentsline {figure}{\numberline {3.4.6}{\ignorespaces Hamamatsu S8664-3189 large area APDs}}{31}{figure.3.4.6}
 \contentsline {figure}{\numberline {3.4.7}{\ignorespaces Testing assembly for large area APDs}}{32}{figure.3.4.7}
 \contentsline {figure}{\numberline {3.4.8}{\ignorespaces APD current draw versus voltage with LED on and off}}{33}{figure.3.4.8}
 \contentsline {figure}{\numberline {3.4.9}{\ignorespaces APD measured dark current as a function of gain}}{34}{figure.3.4.9}
-\contentsline {figure}{\numberline {3.4.10}{\ignorespaces APD fixed gain in terms of voltage and temperature}}{34}{figure.3.4.10}
+\contentsline {figure}{\numberline {3.4.10}{\ignorespaces APD fixed gain in terms of voltage and temperature}}{35}{figure.3.4.10}
 \contentsline {figure}{\numberline {4.2.1}{\ignorespaces ECal energy shower correction functions from simulation}}{40}{figure.4.2.1}
 \contentsline {figure}{\numberline {4.2.2}{\ignorespaces ECal energy shower parameters for electrons relative to the inside beam gap edge}}{41}{figure.4.2.2}
 \contentsline {figure}{\numberline {4.2.3}{\ignorespaces ECal energy shower parameters for positrons relative to the inside beam gap edge}}{42}{figure.4.2.3}
@@ -79,8 +81,8 @@
 \contentsline {figure}{\numberline {5.4.13}{\ignorespaces The effect of the momentum asymmetry cut on the tails of the vertex distribution can be seen in the red an green curves.}}{99}{figure.5.4.13}
 \contentsline {figure}{\numberline {5.4.14}{\ignorespaces Positrons that are produced from the photon in wide-angle bremsstrahlung events will have a distance of closest approach that will curve widely at the target location, yielding a largely positive value.}}{100}{figure.5.4.14}
 \contentsline {figure}{\numberline {5.4.15}{\ignorespaces This plot shows that many of the tracks sharing 4 and 5 hits with the initial track selected in the event have nearly the same momentum.}}{101}{figure.5.4.15}
-\contentsline {figure}{\numberline {B.0.1}{\ignorespaces The kink distributions for tracks passing through Layer 1. The cut is shown at the red dashed line.}}{112}{figure.B.0.1}
-\contentsline {figure}{\numberline {B.0.2}{\ignorespaces The kink distributions for tracks passing through Layer 2. The cut is shown at the red dashed line.}}{113}{figure.B.0.2}
-\contentsline {figure}{\numberline {B.0.3}{\ignorespaces The kink distributions for tracks passing through Layer 3. The cut is shown at the red dashed line.}}{113}{figure.B.0.3}
-\contentsline {figure}{\numberline {B.0.4}{\ignorespaces The effects of the cuts on the L1L2 dataset on the unconstrained z vertex.}}{114}{figure.B.0.4}
-\contentsline {figure}{\numberline {B.0.5}{\ignorespaces The effects of the cuts on the L1L2 dataset on the mass distribution.}}{115}{figure.B.0.5}
+\contentsline {figure}{\numberline {B.0.1}{\ignorespaces The kink distributions for tracks passing through Layer 1. The cut is shown at the red dashed line.}}{114}{figure.B.0.1}
+\contentsline {figure}{\numberline {B.0.2}{\ignorespaces The kink distributions for tracks passing through Layer 2. The cut is shown at the red dashed line.}}{115}{figure.B.0.2}
+\contentsline {figure}{\numberline {B.0.3}{\ignorespaces The kink distributions for tracks passing through Layer 3. The cut is shown at the red dashed line.}}{115}{figure.B.0.3}
+\contentsline {figure}{\numberline {B.0.4}{\ignorespaces The effects of the cuts on the L1L2 dataset on the unconstrained z vertex.}}{116}{figure.B.0.4}
+\contentsline {figure}{\numberline {B.0.5}{\ignorespaces The effects of the cuts on the L1L2 dataset on the mass distribution.}}{117}{figure.B.0.5}

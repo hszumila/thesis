@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 MAY 2017 09:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  30 MAY 2017 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,7 +449,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ] [9]
 
-Package hyperref Warning: Suppressing link with empty target on input line 54.
+Package hyperref Warning: Suppressing link with empty target on input line 56.
 
 [10] [11])
 \tf@lof=\write7
@@ -462,16 +462,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 89.
 
 (./texFiles/Intro/intro.tex
-<pics/intro/projectedReach.png, id=617, 705.63625pt x 685.56125pt>
+<pics/intro/projectedReach.png, id=636, 705.63625pt x 685.56125pt>
 File: pics/intro/projectedReach.png Graphic file (type png)
 
 <use pics/intro/projectedReach.png>
 Package pdftex.def Info: pics/intro/projectedReach.png used on input line 6.
 (pdftex.def)             Requested size: 281.85585pt x 273.83258pt.
- [1
+) [1
 
 
-]) [2 <./pics/intro/projectedReach.png>]
+] [2 <./pics/intro/projectedReach.png>]
 [3]
 CHAPTER 2
 
@@ -486,58 +486,80 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \openout3 = `loop.mp'.
 
 File: loop.1 Graphic file (type mps)
- [MP to PDF] (./loop.1) (./loop.t1) [4
+ [MP to PDF] (./loop.1) (./loop.t1)) [4
 
-])
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 99.
 
+(./texFiles/Motivation/implications.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 3.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 103.
+(hyperref)                removing `\uppercase' on input line 8.
+
+\openout3 = `excitedDM.mp'.
+
+File: excitedDM.1 Graphic file (type mps)
+[MP to PDF] (./excitedDM.1) (./excitedDM.t1) [6]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 33.
+
+[7]
+\openout3 = `gm2.mp'.
+
+File: gm2.1 Graphic file (type mps)
+ [MP to PDF] (./gm2.1) (./gm2.t1))
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 102.
 
 (./texFiles/Motivation/searches.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
-<pics/motivation/branchingRatio.png, id=658, 614.295pt x 300.12125pt>
+<pics/motivation/branchingRatio.png, id=718, 614.295pt x 300.12125pt>
 File: pics/motivation/branchingRatio.png Graphic file (type png)
 
 <use pics/motivation/branchingRatio.png>
 Package pdftex.def Info: pics/motivation/branchingRatio.png used on input line 
 8.
 (pdftex.def)             Requested size: 422.77661pt x 206.55266pt.
-
-
-LaTeX Warning: Citation `toro' on page 6 undefined on input line 14.
-
-[6 <./pics/motivation/branchingRatio.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+ [8] [9 <./pics/motivation/branchingRatio.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 39.
+(hyperref)                removing `\uppercase' on input line 43.
 
-[7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 42.
+(hyperref)                removing `\uppercase' on input line 46.
 
 
-LaTeX Warning: Citation `alewski_darklight_2014' on page 8 undefined on input l
-ine 45.
+LaTeX Warning: Citation `alewski_darklight_2014' on page 10 undefined on input 
+line 49.
 
-) [8]
+) [10] [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 106.
+(hyperref)                removing `\uppercase' on input line 105.
 
-(./texFiles/Motivation/HPSexp.tex [9]
+(./texFiles/Motivation/HPSexp.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
@@ -545,7 +567,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \openout3 = `apTree.mp'.
 
 File: apTree.1 Graphic file (type mps)
-[MP to PDF] (./apTree.1) (./apTree.t1) [10]
+[MP to PDF] (./apTree.1) (./apTree.t1) [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 57.
@@ -553,224 +575,264 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \openout3 = `radTree.mp'.
 
 File: radTree.1 Graphic file (type mps)
-[MP to PDF] (./radTree.1) (./radTree.t1) [11]
+[MP to PDF] (./radTree.1) (./radTree.t1) [13]
 \openout3 = `bhTree.mp'.
 
 File: bhTree.1 Graphic file (type mps)
  [MP to PDF] (./bhTree.1)
-(./bhTree.t1)) [12] [13]
+(./bhTree.t1)) [14] [15]
 CHAPTER 3
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 112.
+(hyperref)                removing `\uppercase' on input line 109.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 116.
+(hyperref)                removing `\uppercase' on input line 113.
 
 (./texFiles/Experiment/cebaf.tex
-<pics/experiment/cebafLabel.png, id=738, 586.3506pt x 500.5902pt>
+<pics/experiment/cebafLabel.png, id=788, 586.3506pt x 500.5902pt>
 File: pics/experiment/cebafLabel.png Graphic file (type png)
 
 <use pics/experiment/cebafLabel.png>
 Package pdftex.def Info: pics/experiment/cebafLabel.png used on input line 5.
 (pdftex.def)             Requested size: 352.31624pt x 300.78418pt.
- [14
-
-])
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 119.
+(hyperref)                removing `\uppercase' on input line 116.
 
-(./texFiles/Experiment/beamline.tex [15 <./pics/experiment/cebafLabel.png>]
-<pics/experiment/hallB.png, id=752, 405.6756pt x 239.9364pt>
+(./texFiles/Experiment/beamline.tex [16
+
+]
+<pics/experiment/hallB.png, id=795, 405.6756pt x 239.9364pt>
 File: pics/experiment/hallB.png Graphic file (type png)
 
 <use pics/experiment/hallB.png>
 Package pdftex.def Info: pics/experiment/hallB.png used on input line 5.
 (pdftex.def)             Requested size: 281.85585pt x 166.70953pt.
 
-<pics/experiment/hpsBeamline.png, id=756, 918.3108pt x 258.2448pt>
+<pics/experiment/hpsBeamline.png, id=796, 1177.39874pt x 350.30875pt>
 File: pics/experiment/hpsBeamline.png Graphic file (type png)
 
 <use pics/experiment/hpsBeamline.png>
-Package pdftex.def Info: pics/experiment/hpsBeamline.png used on input line 14.
+Package pdftex.def Info: pics/experiment/hpsBeamline.png used on input line 12.
 
-(pdftex.def)             Requested size: 469.75499pt x 132.10503pt.
- [16 <./pics/experiment/hallB.png>]
-<pics/experiment/bfield.png, id=765, 608.0316pt x 387.3672pt>
+(pdftex.def)             Requested size: 469.75499pt x 139.76288pt.
+
+<pics/experiment/bfield.png, id=797, 608.0316pt x 387.3672pt>
 File: pics/experiment/bfield.png Graphic file (type png)
 
 <use pics/experiment/bfield.png>
-Package pdftex.def Info: pics/experiment/bfield.png used on input line 23.
+Package pdftex.def Info: pics/experiment/bfield.png used on input line 19.
 (pdftex.def)             Requested size: 469.75499pt x 299.28441pt.
- [17 <./pics/experiment/hpsBeamline.png>]
-<pics/experiment/feetrajectory.png, id=772, 582.0144pt x 381.5856pt>
+
+<pics/experiment/feetrajectory.png, id=798, 582.0144pt x 381.5856pt>
 File: pics/experiment/feetrajectory.png Graphic file (type png)
 
 <use pics/experiment/feetrajectory.png>
-Package pdftex.def Info: pics/experiment/feetrajectory.png used on input line 3
-2.
+Package pdftex.def Info: pics/experiment/feetrajectory.png used on input line 2
+6.
 (pdftex.def)             Requested size: 469.75499pt x 307.98799pt.
- [18 <./pics/experiment/bfield.png>]
-<pics/experiment/beamlineGemc.png, id=780, 580.569pt x 377.7312pt>
+
+<pics/experiment/beamlineGemc.png, id=799, 580.569pt x 377.7312pt>
 File: pics/experiment/beamlineGemc.png Graphic file (type png)
 
 <use pics/experiment/beamlineGemc.png>
-Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 41
+Package pdftex.def Info: pics/experiment/beamlineGemc.png used on input line 33
 .
 (pdftex.def)             Requested size: 375.80542pt x 244.50795pt.
- [19 <./pics/experiment/feetrajectory.png>] [20 <./pics/experiment/beamlineGemc
-.png>]
-<pics/experiment/harpScan.png, id=795, 781.92125pt x 772.8875pt>
+
+<pics/experiment/harpScan.png, id=800, 781.92125pt x 772.8875pt>
 File: pics/experiment/harpScan.png Graphic file (type png)
 
 <use pics/experiment/harpScan.png>
-Package pdftex.def Info: pics/experiment/harpScan.png used on input line 54.
+Package pdftex.def Info: pics/experiment/harpScan.png used on input line 40.
 (pdftex.def)             Requested size: 469.75499pt x 464.32574pt.
- [21]
+ [17 <./pics/experiment/cebafLabel.png>]
+Overfull \vbox (131.15805pt too high) has occurred while \output is active []
+
+
+[18 <./pics/experiment/hallB.png> <./pics/experiment/harpScan.png>] [19 <./pics
+/experiment/hpsBeamline.png>] [20 <./pics/experiment/bfield.png>] [21 <./pics/e
+xperiment/feetrajectory.png>] [22 <./pics/experiment/beamlineGemc.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 61.
+(hyperref)                removing `\uppercase' on input line 54.
 
-[22 <./pics/experiment/harpScan.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 65.
+(hyperref)                removing `\uppercase' on input line 58.
 
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 122.
+(hyperref)                removing `\uppercase' on input line 119.
 
 (./texFiles/Experiment/SVT.tex
-<pics/experiment/svt.png, id=807, 733.74126pt x 392.46625pt>
+<pics/experiment/svt.png, id=844, 733.74126pt x 392.46625pt>
 File: pics/experiment/svt.png Graphic file (type png)
 
 <use pics/experiment/svt.png>
-Package pdftex.def Info: pics/experiment/svt.png used on input line 5.
+Package pdftex.def Info: pics/experiment/svt.png used on input line 3.
 (pdftex.def)             Requested size: 469.75499pt x 251.26735pt.
- [23]
-<pics/experiment/svtSensorAssembly.png, id=814, 411.5375pt x 382.42876pt>
+
+<pics/experiment/svtSensorAssembly.png, id=845, 411.5375pt x 382.42876pt>
 File: pics/experiment/svtSensorAssembly.png Graphic file (type png)
 
 <use pics/experiment/svtSensorAssembly.png>
 Package pdftex.def Info: pics/experiment/svtSensorAssembly.png used on input li
-ne 15.
+ne 10.
 (pdftex.def)             Requested size: 234.87749pt x 218.26674pt.
- [24 <./pics/experiment/svt.png>])
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23] [24 <./pics/experiment/svt.png>]) [25 <./pics/experiment/svtSensorAssembly
+.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 125.
+(hyperref)                removing `\uppercase' on input line 122.
 
-(./texFiles/Experiment/Ecal.tex [25 <./pics/experiment/svtSensorAssembly.png>]
-<pics/experiment/ecalface.png, id=830, 675.4836pt x 291.9708pt>
+(./texFiles/Experiment/Ecal.tex
+<pics/experiment/ecalface.png, id=867, 675.4836pt x 291.9708pt>
 File: pics/experiment/ecalface.png Graphic file (type png)
 
 <use pics/experiment/ecalface.png>
 Package pdftex.def Info: pics/experiment/ecalface.png used on input line 5.
 (pdftex.def)             Requested size: 399.2946pt x 172.59094pt.
 
-<pics/experiment/crystal.png, id=831, 603.2136pt x 309.7974pt>
+<pics/experiment/crystal.png, id=868, 603.2136pt x 309.7974pt>
 File: pics/experiment/crystal.png Graphic file (type png)
 
 <use pics/experiment/crystal.png>
-Package pdftex.def Info: pics/experiment/crystal.png used on input line 14.
+Package pdftex.def Info: pics/experiment/crystal.png used on input line 12.
 (pdftex.def)             Requested size: 399.2946pt x 205.0767pt.
- [26 <./pics/experiment/ecalface.png>]
-<pics/experiment/ecalAssembly1.png, id=838, 315.579pt x 421.0932pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/experiment/ecalAssembly1.png, id=869, 315.579pt x 421.0932pt>
 File: pics/experiment/ecalAssembly1.png Graphic file (type png)
 
 <use pics/experiment/ecalAssembly1.png>
-Package pdftex.def Info: pics/experiment/ecalAssembly1.png used on input line 2
-4.
+Package pdftex.def Info: pics/experiment/ecalAssembly1.png used on input line 1
+9.
 (pdftex.def)             Requested size: 234.87749pt x 313.40318pt.
- [27 <./pics/experiment/crystal.png>])
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 24--27
+[]\OT1/cmr/m/n/12 As a par-ti-cle en-ters the ECal, it ini-ti-ates an elec-tro-
+mag-netic shower by ei-ther
+ []
+
+[26 <./pics/experiment/ecalface.png>]) [27 <./pics/experiment/crystal.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 128.
+(hyperref)                removing `\uppercase' on input line 125.
 
 (./texFiles/Experiment/LMS.tex [28 <./pics/experiment/ecalAssembly1.png>]
-<pics/experiment/ledSignal.png, id=853, 329.0694pt x 405.1938pt>
+<pics/experiment/ledSignal.png, id=891, 329.0694pt x 405.1938pt>
 File: pics/experiment/ledSignal.png Graphic file (type png)
 
 <use pics/experiment/ledSignal.png>
 Package pdftex.def Info: pics/experiment/ledSignal.png used on input line 14.
 (pdftex.def)             Requested size: 234.87749pt x 289.21675pt.
- [29]
-<pics/experiment/ledCompare.png, id=863, 530.9436pt x 542.025pt>
+
+<pics/experiment/ledCompare.png, id=895, 530.9436pt x 542.025pt>
 File: pics/experiment/ledCompare.png Graphic file (type png)
 
 <use pics/experiment/ledCompare.png>
 Package pdftex.def Info: pics/experiment/ledCompare.png used on input line 23.
 (pdftex.def)             Requested size: 234.87749pt x 239.77368pt.
- [30 <./pics/experiment/ledSignal.png>])
+) [29]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 131.
+(hyperref)                removing `\uppercase' on input line 128.
 
 (./texFiles/Experiment/APD.tex
-<pics/experiment/apd.png, id=871, 172.9662pt x 70.8246pt>
+<pics/experiment/apd.png, id=903, 172.9662pt x 70.8246pt>
 File: pics/experiment/apd.png Graphic file (type png)
 
 <use pics/experiment/apd.png>
 Package pdftex.def Info: pics/experiment/apd.png used on input line 5.
 (pdftex.def)             Requested size: 187.89912pt x 76.94437pt.
- [31 <./pics/experiment/ledCompare.png>]
-<pics/experiment/apdtests.png, id=880, 598.3956pt x 224.5188pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <./pics/experiment/ledSignal.png>]
+<pics/experiment/apdtests.png, id=911, 598.3956pt x 224.5188pt>
 File: pics/experiment/apdtests.png Graphic file (type png)
 
 <use pics/experiment/apdtests.png>
 Package pdftex.def Info: pics/experiment/apdtests.png used on input line 14.
 (pdftex.def)             Requested size: 328.82706pt x 123.3795pt.
 
-<pics/experiment/apdcurrent.png, id=882, 517.935pt x 424.4658pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <./pics/experiment/ledCompare.png> <./pics/experiment/apd.png>]
+<pics/experiment/apdcurrent.png, id=921, 517.935pt x 424.4658pt>
 File: pics/experiment/apdcurrent.png Graphic file (type png)
 
 <use pics/experiment/apdcurrent.png>
 Package pdftex.def Info: pics/experiment/apdcurrent.png used on input line 23.
 (pdftex.def)             Requested size: 234.87749pt x 192.49103pt.
- [32 <./pics/experiment/apd.png> <./pics/experiment/apdtests.png>]
-<pics/experiment/apdIvG.png, id=892, 430.7292pt x 344.9688pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/experiment/apdIvG.png, id=924, 430.7292pt x 344.9688pt>
 File: pics/experiment/apdIvG.png Graphic file (type png)
 
 <use pics/experiment/apdIvG.png>
 Package pdftex.def Info: pics/experiment/apdIvG.png used on input line 39.
 (pdftex.def)             Requested size: 234.87749pt x 188.11217pt.
- [33 <./pics/experiment/apdcurrent.png>]
-<pics/experiment/apdTV.png, id=902, 445.1832pt x 344.9688pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/experiment/apdTV.png, id=927, 445.1832pt x 344.9688pt>
 File: pics/experiment/apdTV.png Graphic file (type png)
 
 <use pics/experiment/apdTV.png>
 Package pdftex.def Info: pics/experiment/apdTV.png used on input line 48.
 (pdftex.def)             Requested size: 234.87749pt x 182.00616pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 134.
+(hyperref)                removing `\uppercase' on input line 131.
 
-[34 <./pics/experiment/apdIvG.png> <./pics/experiment/apdTV.png>]
-(./texFiles/Experiment/trigger.tex [35]
+(./texFiles/Experiment/trigger.tex [32 <./pics/experiment/apdtests.png>]
+[33 <./pics/experiment/apdcurrent.png>] [34 <./pics/experiment/apdIvG.png>]
 
 LaTeX Warning: Command \o invalid in math mode on input line 30.
 
-[36]) [37]
+[35 <./pics/experiment/apdTV.png>] [36]) [37]
 CHAPTER 4
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 135.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 141.
+(hyperref)                removing `\uppercase' on input line 145.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 151.
 
 (./texFiles/DetectorPerformance/Ecal/Simulations.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
@@ -780,7 +842,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--4
 [38
 
 ] [39]
-<pics/performance/energycorrection.pdf, id=946, 569.12625pt x 426.59375pt>
+<pics/performance/energycorrection.pdf, id=983, 569.12625pt x 426.59375pt>
 File: pics/performance/energycorrection.pdf Graphic file (type pdf)
 
 <use pics/performance/energycorrection.pdf>
@@ -788,7 +850,7 @@ Package pdftex.def Info: pics/performance/energycorrection.pdf used on input li
 ne 24.
 (pdftex.def)             Requested size: 352.31624pt x 264.09482pt.
  [40 <./pics/performance/energycorrection.pdf, page is rotated 90 degrees>]
-<pics/performance/sfparEdgeFit.png, id=1000, 854.7132pt x 309.3156pt>
+<pics/performance/sfparEdgeFit.png, id=1037, 854.7132pt x 309.3156pt>
 File: pics/performance/sfparEdgeFit.png Graphic file (type png)
 
 <use pics/performance/sfparEdgeFit.png>
@@ -796,7 +858,7 @@ Package pdftex.def Info: pics/performance/sfparEdgeFit.png used on input line 4
 0.
 (pdftex.def)             Requested size: 469.75499pt x 170.0061pt.
  [41 <./pics/performance/sfparEdgeFit.png>] <pics/performance/sfparEdge_ep.png,
- id=1016, 756.8275pt x 274.02374pt>
+ id=1053, 756.8275pt x 274.02374pt>
 File: pics/performance/sfparEdge_ep.png Graphic file (type png)
 
 <use pics/performance/sfparEdge_ep.png>
@@ -804,7 +866,7 @@ Package pdftex.def Info: pics/performance/sfparEdge_ep.png used on input line 6
 9.
 (pdftex.def)             Requested size: 469.75499pt x 170.0853pt.
 
-<pics/performance/sfparEdge_p.png, id=1019, 766.865pt x 271.0125pt>
+<pics/performance/sfparEdge_p.png, id=1056, 766.865pt x 271.0125pt>
 File: pics/performance/sfparEdge_p.png Graphic file (type png)
 
 <use pics/performance/sfparEdge_p.png>
@@ -812,7 +874,7 @@ Package pdftex.def Info: pics/performance/sfparEdge_p.png used on input line 77
 .
 (pdftex.def)             Requested size: 469.75499pt x 166.01624pt.
 
-<pics/performance/eResFitMC.png, id=1024, 665.48625pt x 394.47375pt>
+<pics/performance/eResFitMC.png, id=1061, 665.48625pt x 394.47375pt>
 File: pics/performance/eResFitMC.png Graphic file (type png)
 
 <use pics/performance/eResFitMC.png>
@@ -825,7 +887,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 111.
 
 
 [43 <./pics/performance/eResFitMC.png>]
-<pics/performance/xposn1gev.png, id=1053, 709.65125pt x 709.65125pt>
+<pics/performance/xposn1gev.png, id=1091, 709.65125pt x 709.65125pt>
 File: pics/performance/xposn1gev.png Graphic file (type png)
 
 <use pics/performance/xposn1gev.png>
@@ -833,7 +895,7 @@ Package pdftex.def Info: pics/performance/xposn1gev.png used on input line 130.
 
 (pdftex.def)             Requested size: 328.82706pt x 328.83661pt.
  [44]
-<pics/performance/xposcorrPar.png, id=1062, 1144.275pt x 468.75125pt>
+<pics/performance/xposcorrPar.png, id=1099, 1144.275pt x 468.75125pt>
 File: pics/performance/xposcorrPar.png Graphic file (type png)
 
 <use pics/performance/xposcorrPar.png>
@@ -846,7 +908,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 151.
 
 
 [46 <./pics/performance/xposcorrPar.png>]
-<pics/performance/corrPosnsFits.png, id=1077, 1181.41376pt x 657.45625pt>
+<pics/performance/corrPosnsFits.png, id=1114, 1181.41376pt x 657.45625pt>
 File: pics/performance/corrPosnsFits.png Graphic file (type png)
 
 <use pics/performance/corrPosnsFits.png>
@@ -854,7 +916,7 @@ Package pdftex.def Info: pics/performance/corrPosnsFits.png used on input line
 186.
 (pdftex.def)             Requested size: 469.75499pt x 261.41286pt.
 
-<pics/performance/emPosnResn.png, id=1080, 768.8725pt x 892.33376pt>
+<pics/performance/emPosnResn.png, id=1117, 768.8725pt x 892.33376pt>
 File: pics/performance/emPosnResn.png Graphic file (type png)
 
 <use pics/performance/emPosnResn.png>
@@ -869,10 +931,10 @@ Package hyperref Warning: Suppressing link with empty target on input line 200.
 [48 <./pics/performance/emPosnResn.png>])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 154.
+(hyperref)                removing `\uppercase' on input line 151.
 
 (./texFiles/DetectorPerformance/Ecal/Cosmics.tex
-<pics/performance/cosmicschematic.png, id=1094, 229.60782pt x 200.24812pt>
+<pics/performance/cosmicschematic.png, id=1131, 229.60782pt x 200.24812pt>
 File: pics/performance/cosmicschematic.png Graphic file (type png)
 
 <use pics/performance/cosmicschematic.png>
@@ -880,7 +942,7 @@ Package pdftex.def Info: pics/performance/cosmicschematic.png used on input lin
 e 9.
 (pdftex.def)             Requested size: 234.87749pt x 204.85538pt.
  [49]
-<pics/performance/cosmicEdep.png, id=1102, 803.0pt x 602.25pt>
+<pics/performance/cosmicEdep.png, id=1139, 803.0pt x 602.25pt>
 File: pics/performance/cosmicEdep.png Graphic file (type png)
 
 <use pics/performance/cosmicEdep.png>
@@ -888,45 +950,45 @@ Package pdftex.def Info: pics/performance/cosmicEdep.png used on input line 18.
 
 (pdftex.def)             Requested size: 375.80542pt x 281.86288pt.
  [50 <./pics/performance/cosmicschematic.png>] <pics/performance/cosmicSignal.p
-ng, id=1109, 803.0pt x 602.25pt>
+ng, id=1147, 803.0pt x 602.25pt>
 File: pics/performance/cosmicSignal.png Graphic file (type png)
 
 <use pics/performance/cosmicSignal.png>
 Package pdftex.def Info: pics/performance/cosmicSignal.png used on input line 2
-9.
+8.
 (pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
  [51 <./pics/performance/cosmicEdep.png>]
-<pics/performance/cosmicFitExample2015.pdf, id=1116, 569.12625pt x 426.59375pt>
+<pics/performance/cosmicFitExample2015.pdf, id=1154, 569.12625pt x 426.59375pt>
 File: pics/performance/cosmicFitExample2015.pdf Graphic file (type pdf)
 <use pics/performance/cosmicFitExample2015.pdf>
 Package pdftex.def Info: pics/performance/cosmicFitExample2015.pdf used on inpu
-t line 38.
+t line 37.
 (pdftex.def)             Requested size: 375.80542pt x 281.70245pt.
  [52 <./pics/performance/cosmicSignal.png>]
-<pics/performance/cosmicGains2015.png, id=1125, 803.0pt x 602.25pt>
+<pics/performance/cosmicGains2015.png, id=1163, 803.0pt x 602.25pt>
 File: pics/performance/cosmicGains2015.png Graphic file (type png)
 
 <use pics/performance/cosmicGains2015.png>
 Package pdftex.def Info: pics/performance/cosmicGains2015.png used on input lin
-e 54.
+e 53.
 (pdftex.def)             Requested size: 328.82706pt x 246.62083pt.
  [53 <./pics/performance/cosmicFitExample2015.pdf, page is rotated 90 degrees>]
 
-<pics/performance/cosmicGainsMay15.pdf, id=1173, 569.12625pt x 426.59375pt>
+<pics/performance/cosmicGainsMay15.pdf, id=1212, 569.12625pt x 426.59375pt>
 File: pics/performance/cosmicGainsMay15.pdf Graphic file (type pdf)
 
 <use pics/performance/cosmicGainsMay15.pdf>
 Package pdftex.def Info: pics/performance/cosmicGainsMay15.pdf used on input li
-ne 62.
+ne 61.
 (pdftex.def)             Requested size: 328.82706pt x 246.4872pt.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 157.
+(hyperref)                removing `\uppercase' on input line 154.
 
 (./texFiles/DetectorPerformance/Ecal/PulseFitting.tex [54 <./pics/performance/c
 osmicGains2015.png> <./pics/performance/cosmicGainsMay15.pdf, page is rotated 9
-0 degrees>] <pics/performance/mode1fit.png, id=1226, 490.9542pt x 441.8106pt>
+0 degrees>] <pics/performance/mode1fit.png, id=1264, 490.9542pt x 441.8106pt>
 File: pics/performance/mode1fit.png Graphic file (type png)
 
 <use pics/performance/mode1fit.png>
@@ -935,10 +997,10 @@ Package pdftex.def Info: pics/performance/mode1fit.png used on input line 14.
 ) [55 <./pics/performance/mode1fit.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 160.
+(hyperref)                removing `\uppercase' on input line 157.
 
 (./texFiles/DetectorPerformance/Ecal/FEE.tex
-<pics/performance/feePeakFid.png, id=1239, 1172.38pt x 541.02126pt>
+<pics/performance/feePeakFid.png, id=1277, 1172.38pt x 541.02126pt>
 File: pics/performance/feePeakFid.png Graphic file (type png)
 
 <use pics/performance/feePeakFid.png>
@@ -948,23 +1010,23 @@ Package pdftex.def Info: pics/performance/feePeakFid.png used on input line 13.
  [56])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 163.
+(hyperref)                removing `\uppercase' on input line 160.
 
 (./texFiles/DetectorPerformance/Ecal/WAB.tex [57 <./pics/performance/feePeakFid
 .png>])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 166.
+(hyperref)                removing `\uppercase' on input line 163.
 
 (./texFiles/DetectorPerformance/Ecal/Eres.tex [58]
-<pics/performance/eResData.png, id=1272, 896.34875pt x 668.4975pt>
+<pics/performance/eResData.png, id=1310, 896.34875pt x 668.4975pt>
 File: pics/performance/eResData.png Graphic file (type png)
 
 <use pics/performance/eResData.png>
 Package pdftex.def Info: pics/performance/eResData.png used on input line 14.
 (pdftex.def)             Requested size: 281.85585pt x 210.20041pt.
  [59 <./pics/performance/eResData.png>]
-<pics/performance/eResEdgeEffect.png, id=1287, 898.35625pt x 684.5575pt>
+<pics/performance/eResEdgeEffect.png, id=1326, 898.35625pt x 684.5575pt>
 File: pics/performance/eResEdgeEffect.png Graphic file (type png)
 
 <use pics/performance/eResEdgeEffect.png>
@@ -974,92 +1036,108 @@ Package pdftex.def Info: pics/performance/eResEdgeEffect.png used on input line
  [60])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 169.
+(hyperref)                removing `\uppercase' on input line 166.
 
 (./texFiles/DetectorPerformance/Ecal/timing.tex [61 <./pics/performance/eResEdg
-eEffect.png>] <pics/performance/rfFits.png, id=1309, 579.16376pt x 385.44pt>
+eEffect.png>] <pics/performance/rfFits.png, id=1349, 579.16376pt x 385.44pt>
 File: pics/performance/rfFits.png Graphic file (type png)
 
 <use pics/performance/rfFits.png>
 Package pdftex.def Info: pics/performance/rfFits.png used on input line 12.
 (pdftex.def)             Requested size: 328.82706pt x 218.83852pt.
 
-<pics/performance/rfRes.png, id=1311, 501.875pt x 346.29375pt>
+<pics/performance/rfRes.png, id=1351, 501.875pt x 346.29375pt>
 File: pics/performance/rfRes.png Graphic file (type png)
 
 <use pics/performance/rfRes.png>
-Package pdftex.def Info: pics/performance/rfRes.png used on input line 23.
+Package pdftex.def Info: pics/performance/rfRes.png used on input line 22.
 (pdftex.def)             Requested size: 328.82706pt x 226.90068pt.
  [62 <./pics/performance/rfFits.png>]
-<pics/performance/beamStructure.png, id=1321, 930.47626pt x 689.57625pt>
+<pics/performance/beamStructure.png, id=1361, 930.47626pt x 689.57625pt>
 File: pics/performance/beamStructure.png Graphic file (type png)
 
 <use pics/performance/beamStructure.png>
 Package pdftex.def Info: pics/performance/beamStructure.png used on input line 
-39.
+38.
 (pdftex.def)             Requested size: 328.82706pt x 243.6912pt.
  [63 <./pics/performance/rfRes.png>]
-<pics/performance/2clusteroffset.png, id=1331, 653.44125pt x 243.91125pt>
+<pics/performance/2clusteroffset.png, id=1372, 653.44125pt x 243.91125pt>
 File: pics/performance/2clusteroffset.png Graphic file (type png)
 
 <use pics/performance/2clusteroffset.png>
 Package pdftex.def Info: pics/performance/2clusteroffset.png used on input line
- 51.
+ 49.
 (pdftex.def)             Requested size: 422.77661pt x 157.81096pt.
  [64 <./pics/performance/beamStructure.png>]
-<pics/performance/hittimeincluster.png, id=1340, 588.1975pt x 386.44376pt>
+<pics/performance/hittimeincluster.png, id=1380, 588.1975pt x 386.44376pt>
 File: pics/performance/hittimeincluster.png Graphic file (type png)
 
 <use pics/performance/hittimeincluster.png>
 Package pdftex.def Info: pics/performance/hittimeincluster.png used on input li
-ne 61.
+ne 59.
 (pdftex.def)             Requested size: 328.82706pt x 216.03554pt.
  [65 <./pics/performance/2clusteroffset.png>] <pics/performance/twalk2016.png, 
-id=1347, 820.06375pt x 640.3925pt>
+id=1387, 820.06375pt x 640.3925pt>
 File: pics/performance/twalk2016.png Graphic file (type png)
 
 <use pics/performance/twalk2016.png>
-Package pdftex.def Info: pics/performance/twalk2016.png used on input line 70.
+Package pdftex.def Info: pics/performance/twalk2016.png used on input line 68.
 (pdftex.def)             Requested size: 281.85585pt x 220.10506pt.
  [66 <./pics/performance/hittimeincluster.png> <./pics/performance/twalk2016.pn
 g>]
-<pics/performance/timeRes2016.png, id=1358, 823.075pt x 585.18625pt>
+<pics/performance/timeRes2016.png, id=1398, 823.075pt x 585.18625pt>
 File: pics/performance/timeRes2016.png Graphic file (type png)
 
 <use pics/performance/timeRes2016.png>
-Package pdftex.def Info: pics/performance/timeRes2016.png used on input line 86
+Package pdftex.def Info: pics/performance/timeRes2016.png used on input line 84
 .
 (pdftex.def)             Requested size: 281.85585pt x 200.38936pt.
 
 
-LaTeX Warning: Reference `Figure:twalkEqn' on page 67 undefined on input line 9
-1.
+LaTeX Warning: Reference `Figure:twalkEqn' on page 67 undefined on input line 8
+9.
 
-<pics/performance/2clusterTres.png, id=1361, 808.01875pt x 613.29124pt>
+<pics/performance/2clusterTres.png, id=1401, 808.01875pt x 613.29124pt>
 File: pics/performance/2clusterTres.png Graphic file (type png)
 
 <use pics/performance/2clusterTres.png>
 Package pdftex.def Info: pics/performance/2clusterTres.png used on input line 1
-02.
+00.
 (pdftex.def)             Requested size: 281.85585pt x 213.93457pt.
  [67 <./pics/performance/timeRes2016.png>]) [68 <./pics/performance/2clusterTre
 s.png>]
 CHAPTER 5
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 173.
+(hyperref)                removing `\uppercase' on input line 170.
 
 [69
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 179.
+(hyperref)                removing `\uppercase' on input line 176.
 
 (./texFiles/Searching/datasets.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 183.
+(hyperref)                removing `\uppercase' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\prime' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
 
 (./texFiles/Searching/signal.tex [70]
 
@@ -1068,7 +1146,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 9.
 
 Package hyperref Warning: Suppressing link with empty target on input line 17.
 
-[71] <pics/searching/vtxFit.png, id=1395, 565.11125pt x 562.1pt>
+[71] <pics/searching/vtxFit.png, id=1435, 565.11125pt x 562.1pt>
 File: pics/searching/vtxFit.png Graphic file (type png)
 
 <use pics/searching/vtxFit.png>
@@ -1084,17 +1162,17 @@ Package hyperref Warning: Suppressing link with empty target on input line 22.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 187.
+(hyperref)                removing `\uppercase' on input line 184.
 
 (./texFiles/Searching/radFrac.tex [72 <./pics/searching/vtxFit.png>]
-<pics/searching/mcAgree.png, id=1404, 502.9992pt x 349.305pt>
+<pics/searching/mcAgree.png, id=1444, 502.9992pt x 349.305pt>
 File: pics/searching/mcAgree.png Graphic file (type png)
 
 <use pics/searching/mcAgree.png>
 Package pdftex.def Info: pics/searching/mcAgree.png used on input line 12.
 (pdftex.def)             Requested size: 422.77661pt x 293.6114pt.
  [73 <./pics/searching/mcAgree.png>]
-<pics/searching/radFrac.png, id=1412, 768.8725pt x 371.3875pt>
+<pics/searching/radFrac.png, id=1452, 768.8725pt x 371.3875pt>
 File: pics/searching/radFrac.png Graphic file (type png)
 
 <use pics/searching/radFrac.png>
@@ -1103,33 +1181,33 @@ Package pdftex.def Info: pics/searching/radFrac.png used on input line 21.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 190.
+(hyperref)                removing `\uppercase' on input line 187.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 190.
+(hyperref)                removing `math shift' on input line 187.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\epsilon' on input line 190.
+(hyperref)                removing `\epsilon' on input line 187.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 190.
+(hyperref)                removing `subscript' on input line 187.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 190.
+(hyperref)                removing `math shift' on input line 187.
 
 (./texFiles/Searching/efficiency.tex
-<pics/searching/rawEffL1L1.png, id=1417, 460.72125pt x 454.69875pt>
+<pics/searching/rawEffL1L1.png, id=1457, 460.72125pt x 454.69875pt>
 File: pics/searching/rawEffL1L1.png Graphic file (type png)
 
 <use pics/searching/rawEffL1L1.png>
 Package pdftex.def Info: pics/searching/rawEffL1L1.png used on input line 5.
 (pdftex.def)             Requested size: 375.80542pt x 370.89189pt.
  [74 <./pics/searching/radFrac.png>]
-<pics/searching/reconstructedVtx.png, id=1425, 470.75874pt x 493.845pt>
+<pics/searching/reconstructedVtx.png, id=1465, 470.75874pt x 493.845pt>
 File: pics/searching/reconstructedVtx.png Graphic file (type png)
 
 <use pics/searching/reconstructedVtx.png>
@@ -1144,7 +1222,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 26.
 
 Package hyperref Warning: Suppressing link with empty target on input line 41.
 
-<pics/searching/integralEffL1L1.png, id=1443, 499.1448pt x 500.5902pt>
+<pics/searching/integralEffL1L1.png, id=1484, 499.1448pt x 500.5902pt>
 File: pics/searching/integralEffL1L1.png Graphic file (type png)
 
 <use pics/searching/integralEffL1L1.png>
@@ -1152,7 +1230,7 @@ Package pdftex.def Info: pics/searching/integralEffL1L1.png used on input line
 53.
 (pdftex.def)             Requested size: 375.80542pt x 376.90065pt.
  [77]
-<pics/searching/integralEff12.png, id=1451, 549.05125pt x 550.055pt>
+<pics/searching/integralEff12.png, id=1492, 549.05125pt x 550.055pt>
 File: pics/searching/integralEff12.png Graphic file (type png)
 
 <use pics/searching/integralEff12.png>
@@ -1160,7 +1238,7 @@ Package pdftex.def Info: pics/searching/integralEff12.png used on input line 62
 .
 (pdftex.def)             Requested size: 375.80542pt x 376.50003pt.
  [78 <./pics/searching/integralEffL1L1.png>] <pics/searching/integralEff22.png,
- id=1461, 546.04pt x 554.07pt>
+ id=1501, 546.04pt x 554.07pt>
 File: pics/searching/integralEff22.png Graphic file (type png)
 
 <use pics/searching/integralEff22.png>
@@ -1170,10 +1248,10 @@ Package pdftex.def Info: pics/searching/integralEff22.png used on input line 71
  [79 <./pics/searching/integralEff12.png>])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 193.
+(hyperref)                removing `\uppercase' on input line 190.
 
 (./texFiles/Searching/massres.tex [80 <./pics/searching/integralEff22.png>]
-<pics/searching/massCorrection.png, id=1480, 708.6475pt x 319.1925pt>
+<pics/searching/massCorrection.png, id=1520, 708.6475pt x 319.1925pt>
 File: pics/searching/massCorrection.png Graphic file (type png)
 
 <use pics/searching/massCorrection.png>
@@ -1181,14 +1259,14 @@ Package pdftex.def Info: pics/searching/massCorrection.png used on input line 1
 2.
 (pdftex.def)             Requested size: 422.77661pt x 190.43085pt.
 
-<pics/searching/ap40mev.png, id=1482, 1001.7425pt x 810.02625pt>
+<pics/searching/ap40mev.png, id=1522, 1001.7425pt x 810.02625pt>
 File: pics/searching/ap40mev.png Graphic file (type png)
 
 <use pics/searching/ap40mev.png>
 Package pdftex.def Info: pics/searching/ap40mev.png used on input line 21.
 (pdftex.def)             Requested size: 422.77661pt x 341.86494pt.
  [81 <./pics/searching/massCorrection.png>]
-<pics/searching/mollerMassMC.png, id=1489, 631.35875pt x 474.77374pt>
+<pics/searching/mollerMassMC.png, id=1529, 631.35875pt x 474.77374pt>
 File: pics/searching/mollerMassMC.png Graphic file (type png)
 
 <use pics/searching/mollerMassMC.png>
@@ -1196,14 +1274,14 @@ Package pdftex.def Info: pics/searching/mollerMassMC.png used on input line 30.
 
 (pdftex.def)             Requested size: 422.77661pt x 317.92288pt.
  [82 <./pics/searching/ap40mev.png>]
-<pics/searching/mollerMass.png, id=1496, 630.355pt x 498.86375pt>
+<pics/searching/mollerMass.png, id=1536, 630.355pt x 498.86375pt>
 File: pics/searching/mollerMass.png Graphic file (type png)
 
 <use pics/searching/mollerMass.png>
 Package pdftex.def Info: pics/searching/mollerMass.png used on input line 39.
 (pdftex.def)             Requested size: 422.77661pt x 334.58713pt.
  [83 <./pics/searching/mollerMassMC.png>]
-<pics/searching/massResolution.png, id=1503, 612.2875pt x 531.9875pt>
+<pics/searching/massResolution.png, id=1543, 612.2875pt x 531.9875pt>
 File: pics/searching/massResolution.png Graphic file (type png)
 
 <use pics/searching/massResolution.png>
@@ -1213,7 +1291,7 @@ Package pdftex.def Info: pics/searching/massResolution.png used on input line 4
  [84 <./pics/searching/mollerMass.png>])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 198.
+(hyperref)                removing `\uppercase' on input line 195.
 
 (./texFiles/Searching/blindCuts.tex [85 <./pics/searching/massResolution.png>]
 
@@ -1228,14 +1306,14 @@ Overfull \hbox (60.98856pt too wide) in paragraph at lines 8--28
 LaTeX Warning: Reference `fig:l1l1_zvtx' on page 86 undefined on input line 32.
 
 
-[86] <pics/searching/L1L1_zvtx.png, id=1526, 722.7pt x 521.95pt>
+[86] <pics/searching/L1L1_zvtx.png, id=1566, 722.7pt x 521.95pt>
 File: pics/searching/L1L1_zvtx.png Graphic file (type png)
 
 <use pics/searching/L1L1_zvtx.png>
 Package pdftex.def Info: pics/searching/L1L1_zvtx.png used on input line 37.
 (pdftex.def)             Requested size: 375.80542pt x 271.41556pt.
 
-<pics/searching/ratio_zvtx_cuts.png, id=1528, 786.94pt x 603.25375pt>
+<pics/searching/ratio_zvtx_cuts.png, id=1568, 786.94pt x 603.25375pt>
 File: pics/searching/ratio_zvtx_cuts.png Graphic file (type png)
 
 <use pics/searching/ratio_zvtx_cuts.png>
@@ -1243,14 +1321,14 @@ Package pdftex.def Info: pics/searching/ratio_zvtx_cuts.png used on input line
 46.
 (pdftex.def)             Requested size: 375.80542pt x 288.08572pt.
  [87 <./pics/searching/L1L1_zvtx.png>]
-<pics/searching/L1L1_tdiff.png, id=1535, 726.715pt x 529.98pt>
+<pics/searching/L1L1_tdiff.png, id=1575, 726.715pt x 529.98pt>
 File: pics/searching/L1L1_tdiff.png Graphic file (type png)
 
 <use pics/searching/L1L1_tdiff.png>
 Package pdftex.def Info: pics/searching/L1L1_tdiff.png used on input line 55.
 (pdftex.def)             Requested size: 375.80542pt x 274.07085pt.
  [88 <./pics/searching/ratio_zvtx_cuts.png>] <pics/searching/ratio_tdiff_cuts.p
-ng, id=1543, 781.92125pt x 610.28pt>
+ng, id=1583, 781.92125pt x 610.28pt>
 File: pics/searching/ratio_tdiff_cuts.png Graphic file (type png)
 
 <use pics/searching/ratio_tdiff_cuts.png>
@@ -1258,7 +1336,7 @@ Package pdftex.def Info: pics/searching/ratio_tdiff_cuts.png used on input line
  64.
 (pdftex.def)             Requested size: 375.80542pt x 293.31287pt.
  [89 <./pics/searching/L1L1_tdiff.png>] <pics/searching/mass_L1L1_cuts.png, id=
-1551, 713.66624pt x 520.94624pt>
+1591, 713.66624pt x 520.94624pt>
 File: pics/searching/mass_L1L1_cuts.png Graphic file (type png)
 
 <use pics/searching/mass_L1L1_cuts.png>
@@ -1266,21 +1344,21 @@ Package pdftex.def Info: pics/searching/mass_L1L1_cuts.png used on input line 7
 3.
 (pdftex.def)             Requested size: 375.80542pt x 274.31963pt.
  [90 <./pics/searching/ratio_tdiff_cuts.png>] <pics/searching/trkChi2.png, id=1
-558, 697.60625pt x 505.89pt>
+599, 697.60625pt x 505.89pt>
 File: pics/searching/trkChi2.png Graphic file (type png)
 
 <use pics/searching/trkChi2.png>
 Package pdftex.def Info: pics/searching/trkChi2.png used on input line 82.
 (pdftex.def)             Requested size: 375.80542pt x 272.5281pt.
  [91 <./pics/searching/mass_L1L1_cuts.png>]
-<pics/searching/emTrkPmax.png, id=1566, 767.86874pt x 348.30125pt>
+<pics/searching/emTrkPmax.png, id=1607, 767.86874pt x 348.30125pt>
 File: pics/searching/emTrkPmax.png Graphic file (type png)
 
 <use pics/searching/emTrkPmax.png>
 Package pdftex.def Info: pics/searching/emTrkPmax.png used on input line 91.
 (pdftex.def)             Requested size: 375.80542pt x 170.46715pt.
  [92 <./pics/searching/trkChi2.png>]
-<pics/searching/isolationPic.png, id=1573, 602.25pt x 318.18875pt>
+<pics/searching/isolationPic.png, id=1614, 602.25pt x 318.18875pt>
 File: pics/searching/isolationPic.png Graphic file (type png)
 
 <use pics/searching/isolationPic.png>
@@ -1288,49 +1366,49 @@ Package pdftex.def Info: pics/searching/isolationPic.png used on input line 100
 .
 (pdftex.def)             Requested size: 375.80542pt x 198.55673pt.
  [93 <./pics/searching/emTrkPmax.png>]
-<pics/searching/bscCut.png, id=1581, 855.195pt x 743.77875pt>
+<pics/searching/bscCut.png, id=1622, 855.195pt x 743.77875pt>
 File: pics/searching/bscCut.png Graphic file (type png)
 
 <use pics/searching/bscCut.png>
 Package pdftex.def Info: pics/searching/bscCut.png used on input line 121.
 (pdftex.def)             Requested size: 281.85585pt x 245.12996pt.
  [94 <./pics/searching/isolationPic.png>]
-<pics/searching/bmuchi2.png, id=1589, 957.5775pt x 761.84625pt>
+<pics/searching/bmuchi2.png, id=1630, 957.5775pt x 761.84625pt>
 File: pics/searching/bmuchi2.png Graphic file (type png)
 
 <use pics/searching/bmuchi2.png>
 Package pdftex.def Info: pics/searching/bmuchi2.png used on input line 130.
 (pdftex.def)             Requested size: 281.85585pt x 224.24283pt.
  [95 <./pics/searching/bscCut.png>]
-<pics/searching/matchcut.png, id=1597, 1030.85126pt x 735.74875pt>
+<pics/searching/matchcut.png, id=1637, 1030.85126pt x 735.74875pt>
 File: pics/searching/matchcut.png Graphic file (type png)
 
 <use pics/searching/matchcut.png>
 Package pdftex.def Info: pics/searching/matchcut.png used on input line 139.
 (pdftex.def)             Requested size: 375.80542pt x 268.21487pt.
  [96 <./pics/searching/bmuchi2.png>]
-<pics/searching/cltdiff.png, id=1605, 600.2425pt x 567.11874pt>
+<pics/searching/cltdiff.png, id=1645, 600.2425pt x 567.11874pt>
 File: pics/searching/cltdiff.png Graphic file (type png)
 
 <use pics/searching/cltdiff.png>
 Package pdftex.def Info: pics/searching/cltdiff.png used on input line 148.
 (pdftex.def)             Requested size: 281.85585pt x 266.30354pt.
  [97 <./pics/searching/matchcut.png>]
-<pics/searching/pasycut.png, id=1613, 533.995pt x 532.99126pt>
+<pics/searching/pasycut.png, id=1653, 533.995pt x 532.99126pt>
 File: pics/searching/pasycut.png Graphic file (type png)
 
 <use pics/searching/pasycut.png>
 Package pdftex.def Info: pics/searching/pasycut.png used on input line 157.
 (pdftex.def)             Requested size: 281.85585pt x 281.3373pt.
  [98 <./pics/searching/cltdiff.png>]
-<pics/searching/docacut.png, id=1620, 733.74126pt x 391.4625pt>
+<pics/searching/docacut.png, id=1660, 733.74126pt x 391.4625pt>
 File: pics/searching/docacut.png Graphic file (type png)
 
 <use pics/searching/docacut.png>
 Package pdftex.def Info: pics/searching/docacut.png used on input line 166.
 (pdftex.def)             Requested size: 375.80542pt x 200.50337pt.
  [99 <./pics/searching/pasycut.png>]
-<pics/searching/TrkShareHits.png, id=1627, 728.7225pt x 541.02126pt>
+<pics/searching/TrkShareHits.png, id=1667, 728.7225pt x 541.02126pt>
 File: pics/searching/TrkShareHits.png Graphic file (type png)
 
 <use pics/searching/TrkShareHits.png>
@@ -1340,37 +1418,37 @@ Package pdftex.def Info: pics/searching/TrkShareHits.png used on input line 175
  [100 <./pics/searching/docacut.png>])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 200.
+(hyperref)                removing `\uppercase' on input line 197.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 205.
+(hyperref)                removing `\uppercase' on input line 202.
 
 [101 <./pics/searching/TrkShareHits.png>]
 CHAPTER 6
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 209.
+(hyperref)                removing `\uppercase' on input line 206.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 213.
+(hyperref)                removing `\uppercase' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 217.
+(hyperref)                removing `\uppercase' on input line 214.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 215.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 218.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 219.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 221.
 
 [102
 
@@ -1378,7 +1456,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 CHAPTER 7
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 227.
+(hyperref)                removing `\uppercase' on input line 224.
 
 (./thesis_template.bbl [103
 
@@ -1389,35 +1467,35 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ­ in font cmr12!
  [104
 
-] [105] [106]
+] [105] [106] [107]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no § in font cmr12!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 182.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 266.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 182.
- [107]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 266.
+ [108]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¬ in font cmr12!
 
-Underfull \hbox (badness 1221) in paragraph at lines 212--222
+Underfull \hbox (badness 1221) in paragraph at lines 296--306
 []\OT1/cmr/m/n/12 Ilaria Balossino, Nathan Baltzell, Marco Battaglieri, Mar-i-a
 n-gela Bondi, Emma
  []
 
-) [108]
+[109]) [110]
 APPENDIX A
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 261.
+(hyperref)                removing `\uppercase' on input line 258.
 
 (./texFiles/Appendix/efficiency.tex
 
@@ -1435,7 +1513,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 20.
 
 Package hyperref Warning: Suppressing link with empty target on input line 31.
 
-[109
+[111
 
 ]
 
@@ -1447,11 +1525,11 @@ Package hyperref Warning: Suppressing link with empty target on input line 41.
 
 Package hyperref Warning: Suppressing link with empty target on input line 50.
 
-) [110]
+) [112]
 APPENDIX B
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 265.
+(hyperref)                removing `\uppercase' on input line 262.
 
 (./texFiles/Appendix/cutEffects.tex
 
@@ -1463,45 +1541,45 @@ Overfull \hbox (67.1833pt too wide) in paragraph at lines 10--31
  [][] 
  []
 
-[111
+[113
 
-] <pics/appendix/kink1.png, id=1691, 753.81625pt x 356.33125pt>
+] <pics/appendix/kink1.png, id=1739, 753.81625pt x 356.33125pt>
 File: pics/appendix/kink1.png Graphic file (type png)
 
 <use pics/appendix/kink1.png>
 Package pdftex.def Info: pics/appendix/kink1.png used on input line 56.
 (pdftex.def)             Requested size: 375.80542pt x 177.6432pt.
 
-<pics/appendix/kink2.png, id=1692, 761.84625pt x 375.4025pt>
+<pics/appendix/kink2.png, id=1740, 761.84625pt x 375.4025pt>
 File: pics/appendix/kink2.png Graphic file (type png)
 
 <use pics/appendix/kink2.png>
 Package pdftex.def Info: pics/appendix/kink2.png used on input line 62.
 (pdftex.def)             Requested size: 375.80542pt x 185.17465pt.
 
-<pics/appendix/kink3.png, id=1693, 748.7975pt x 360.34625pt>
+<pics/appendix/kink3.png, id=1741, 748.7975pt x 360.34625pt>
 File: pics/appendix/kink3.png Graphic file (type png)
 
 <use pics/appendix/kink3.png>
 Package pdftex.def Info: pics/appendix/kink3.png used on input line 68.
 (pdftex.def)             Requested size: 375.80542pt x 180.84898pt.
- [112 <./pics/appendix/kink1.png>]
-<pics/appendix/zvtxCuts_L1L2.png, id=1700, 966.61125pt x 666.49pt>
+ [114 <./pics/appendix/kink1.png>]
+<pics/appendix/zvtxCuts_L1L2.png, id=1748, 966.61125pt x 666.49pt>
 File: pics/appendix/zvtxCuts_L1L2.png Graphic file (type png)
 
 <use pics/appendix/zvtxCuts_L1L2.png>
 Package pdftex.def Info: pics/appendix/zvtxCuts_L1L2.png used on input line 77.
 
 (pdftex.def)             Requested size: 375.80542pt x 259.11647pt.
- [113 <./pics/appendix/kink2.png> <./pics/appendix/kink3.png>]
-<pics/appendix/massCuts_L1L2.png, id=1708, 918.43124pt x 705.63625pt>
+ [115 <./pics/appendix/kink2.png> <./pics/appendix/kink3.png>]
+<pics/appendix/massCuts_L1L2.png, id=1757, 918.43124pt x 705.63625pt>
 File: pics/appendix/massCuts_L1L2.png Graphic file (type png)
 
 <use pics/appendix/massCuts_L1L2.png>
 Package pdftex.def Info: pics/appendix/massCuts_L1L2.png used on input line 86.
 
 (pdftex.def)             Requested size: 375.80542pt x 288.73131pt.
- [114 <./pics/appendix/zvtxCuts_L1L2.png>]
+ [116 <./pics/appendix/zvtxCuts_L1L2.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 93.
@@ -1511,7 +1589,7 @@ Overfull \hbox (60.98856pt too wide) in paragraph at lines 102--122
  [][] 
  []
 
-[115 <./pics/appendix/massCuts_L1L2.png>]
+[117 <./pics/appendix/massCuts_L1L2.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 126.
@@ -1521,7 +1599,7 @@ Overfull \hbox (60.98856pt too wide) in paragraph at lines 134--154
  [][] 
  []
 
-[116]
+[118]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 158.
@@ -1531,7 +1609,7 @@ Overfull \hbox (67.1833pt too wide) in paragraph at lines 166--187
  [][] 
  []
 
-[117]
+[119]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 191.
@@ -1541,39 +1619,39 @@ Overfull \hbox (60.98856pt too wide) in paragraph at lines 199--219
  [][] 
  []
 
-[118]) [119]
+[120]) [121]
 APPENDIX C
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 269.
+(hyperref)                removing `\uppercase' on input line 266.
 
-[120
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
- [121
+[122
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
+ [123
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
  (./thesis_template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 279.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 279.
 Package rerunfilecheck Info: File `thesis_template.out' has not changed.
-(rerunfilecheck)             Checksum: 72CC7C03247EB4D5A49A20CF8ECFF5A2;4449.
+(rerunfilecheck)             Checksum: 82378B0A0AE7D9B5BD11591DC5293C2E;4711.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 279.
  ) 
 Here is how much of TeX's memory you used:
- 7604 strings out of 493014
- 115314 string characters out of 6133351
- 203463 words of memory out of 5000000
- 10486 multiletter control sequences out of 15000+600000
+ 7670 strings out of 493014
+ 116338 string characters out of 6133351
+ 209232 words of memory out of 5000000
+ 10519 multiletter control sequences out of 15000+600000
  12369 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,17n,28p,1713b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,19n,28p,1707b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -1588,10 +1666,10 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis_template.pdf (133 pages, 14716703 bytes).
+Output written on thesis_template.pdf (135 pages, 14996593 bytes).
 PDF statistics:
- 1875 PDF objects out of 2073 (max. 8388607)
- 1474 compressed objects within 15 object streams
- 359 named destinations out of 1000 (max. 500000)
- 910 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1929 PDF objects out of 2073 (max. 8388607)
+ 1525 compressed objects within 16 object streams
+ 379 named destinations out of 1000 (max. 500000)
+ 934 words of extra memory for PDF output out of 10000 (max. 10000000)
 

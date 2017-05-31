@@ -14,8 +14,7 @@ In Equation~\eqref{eq:toff}, $t_0$ is the time calculated from fit to the raw AD
   \label{Figure:rfFits}
 \end{figure}
 
-The strategy to read off the time from the RF signal was chosen in order to minimize the measured intrinsic resolution of the FADC modules. After identifying the peak bin (4~ns per bin), the pedestal was calculated by
-averaging the values in 4 bins occurring at 6 to 9 samples prior to the peak. The threshold used in selecting the fitting points was found by calculating the 1/3 height between the averaged pedestal and the peak. The points for the straight line fit were then chosen as the last point below this threshold and the next two points above the threshold. These points were chosen due to the linear uniformity of the pulse away from the
+The strategy to read off the time from the RF signal was chosen in order to minimize the measured intrinsic resolution of the FADC modules. After identifying the peak bin (4~ns per bin), the pedestal was calculated by averaging the values in 4 bins occurring at 6 to 9 samples prior to the peak. The threshold used in selecting the fitting points was found by calculating the 1/3 height between the averaged pedestal and the peak. The points for the straight line fit were then chosen as the last point below this threshold and the next two points above the threshold. These points were chosen due to the linear uniformity of the pulse away from the
 peak bin. The time that was used from this fit was at the half height between the pedestal and the peak. This combination of parameters minimized the width of the time difference distribution between the RF signals in the two FADC channels as shown in Figure~\ref{Figure:intrTres}. 
 
 \begin{figure}[H]
@@ -42,7 +41,6 @@ In Equation~\eqref{eq:tfine}, $t_0$ is the time for the crystal as reported from
 \end{figure}
 
 By applying Equation~\eqref{eq:tfine} to Figure~\ref{Figure:beamBunch}, we align all of the signals and see the fine offset of each module with respect to the RF time. This technique only shows the offset component that is less than 2~ns and results in all crystals being aligned to the nearest 2$n$~ns, where $n$ is any integer. 
-
 
 To fully align the crystals, we choose a crystal to align with RF signal at 0, and then align all other crystals with respect to this crystal. Because the primary trigger for HPS is a cluster pairs trigger, we can compare the time difference between clusters to make this correction. The time of the highest energy hit in a cluster was used to set the time for the cluster. Comparison studies exploring the use of an energy-weighted cluster time using the hit times in a cluster found no significant difference due to the seed hit energy dominating the time distribution and producing the same results as if one had used the time from the seed hit only. Well-correlated pairs of clusters were selected by looking for pairs with an energy sum equal to the beam energy and an energy difference of less than 200~MeV. The times for both clusters must have occurred in the 30-70~ns time window for the Engineering Run which was the optimal time window for triggered events. The time difference correction between two pairs of clusters after the fine time offset correction is shown in Figure~\ref{Figure:2clusoffset}.
 

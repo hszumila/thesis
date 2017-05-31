@@ -1,6 +1,56 @@
-Update this section with Philip's talk in May
-\subsection{Dark matter}
-Discuss excess of gamma rays at Galactic Center and focus on dark matter models in the low mass regime. 
-\subsection{Constraints}
-Discuss g-2, AMS-02, CMB 
+The theory for the existence of the heavy photon arises from allowable symmetries of the Standard Model and can exist without other theories of dark matter. However, if the heavy photon does exist, then the interaction between the heavy photon and the Standard Model through the vector portal could be  the leading interaction between the Standard Model and the Dark Sector (where the Dark Sector comprises the dark energy and dark matter with which we can only observe indirectly through gravitational effects).
 
+\subsection{Mediator of dark matter interactions}
+
+Astrophysical observations of the rotational velocity of spiral galaxies has indicated the large presence of an unidentifiable mass contribution~\cite{Sofue:2000jx}. The simplest model to explain this additional mass contribution, Lambda Cold Dark Matter ($\Lambda$CDM), estimates that nearly one-third of the universe is composed of this dark matter while SM particles only compose some 4$\%$ of the universe. $\Lambda$CDM is consistent with measurements of the Cosmic Microwave Background (CMB) power spectrum which indicates the relative quantities of dark matter and SM matter~\cite{madhavacheril_current_2014}. The theory of $\Lambda$CDM requires no force beyond that of gravity for dark matter particles ("collisionless" dark matter), but discrepancies between simulation and observations indicate that the theory is still incomplete~\cite{weinberg_cold_2013}. In particular, collisionless dark matter simulations generate cuspy dark matter halos with a changing density and velocity profile as well as halos containing significant structure. Alternatively, astrophysical observations indicate that the cores are of constant density and only a handful of subhalos have been observed in the Milky Way.  \\
+\indent Weakly Interacting Massive Particles (WIMPs) have been a prime dark matter candidate for several decades with particles in the 10s of GeV to TeV mass range and interaction strengths characterized by the weak scale. While many experiments have been devoted to the detection of WIMPs through nuclear recoils and missing energy measurements, no confident signal has been detected~\cite{liu_signals_2015}. Light dark matter with masses in the MeV to GeV range are strongly motivated as a theory that has been previously overlooked but could explain various astrophysical phenomena. In order to have the correct relic abundance in a theory of light dark matter, a new force is required to mediate dark matter interactions. The presence of a new boson force carrier can suppress the dark matter annihilation cross sections through a Somerfeld enhancement~\cite{arkani-hamed_theory_2009} and can only happen if the gauge boson has a mass of GeV scale and smaller. The Somerfeld enhancement boosts the annihilation cross section at lower velocities and yields the correct thermal relic abundance. \\
+
+\subsection{Observations for light dark matter}
+An eXciting Dark Matter (XDM) model proposes that dark matter can scatter via a heavy photon into excited states that can subsequently decay into  dark matter and a SM photon~\cite{finkbeiner_x-ray_2014}. This process is shown in Figure~\ref{fig:excitation}.
+
+\begin{figure}[htb]
+    \begin{center}
+	\begin{fmffile}{excitedDM}
+	\begin{fmfgraph*}(150,150)
+	\fmfleft{i1,i2}
+	\fmfright{o1,o2}
+	\fmflabel{$\chi$}{i1}
+	\fmflabel{$\chi$}{i2}
+	\fmflabel{$\chi^{\ast}$}{o1}
+	\fmflabel{$\chi^{\ast}$}{o2}			
+	\fmf{fermion}{i1,v1,o1}
+	\fmf{fermion}{i2,v2,o2}
+	\fmf{photon,label=$A'$}{v1,v2}
+\end{fmfgraph*}
+	\end{fmffile}
+  	\end{center}
+    	\caption[Heavy photon mediates dark matter scattering into an excited state]{The heavy photon mediates dark matter scattering into an excited state. Excited dark matter could subsequently decay producing observable X-ray emission spectra $\chi^{\ast}\rightarrow\chi\gamma$.}
+   	 \label{fig:excitation}	
+\end{figure}
+
+This model could account for the observed 3.5~keV X-ray emission line observed in 73 galaxy clusters~\cite{bulbul_detection_2014}. The cores of galaxies are of interest to study and look for signals of dark matter interactions.  Additionally, observations of a gamma ray excess around the Galactic Center cannot be explained through known processes of interactions with cosmic rays and gamma rays from known sources~\cite{Hooper:2010mq}. This observation can be further explained through a model involving light dark matter interactions. 
+
+\subsection{Historical motivators}
+Astrophysical anomalies and tests of the SM have been historical motivators to explore a theory of light dark matter with a dark force mediator. \\
+\indent An excess in the positron fraction measured in cosmic rays was detected above 10~GeV by several different balloon payload experiments including HEAT~\cite{Barwick:1995gv} and CAPRICE~\cite{Boezio:2001dtm} and confirmed in space telescopes such as PAMELA~\cite{adriani_observation_2009}, the Fermi Large Area Telescope~\cite{Abdollahi:2017nat}, and the Alpha Magnetic Spectrometer~\cite{Schael:2007tta}. Positrons are known to be produced in interactions between cosmic ray nuclei and interstellar matter, but the excess was unforeseen from these sources alone. Alternatively, the measured anti-proton spectrum did not show an excess in the spectrum and was consistent with these secondary processes. These phenomena motivated a theory of light dark matter scattering mediated by a heavy photon with a mass $<2m_p$ that could decay to lepton pairs. Further measurements of the positron spectrum from the AMS-02 should have yielded a bump in the positron excess at higher energies if the lepton pairs were the result of a heavy photon decay. As no apparent bump in this spectrum was observed~\cite{Bergstrom:2013jra}, the data from AMS-02 is used to constrain theories of light dark matter~\cite{liu_signals_2015}. \\
+\indent The muon anomalous magnetic moment, $g-2$, was measured as having a larger than three standard deviation discrepancy than what is predicted by the SM~\cite{blum_muon_2013}. This difference could be accounted for if there is an additional contribution from a heavy photon correction. Several experiments ruled out the possibility of a heavy photon that decays visibly being able to account for this effect, but a heavy photon that decays invisibly is still possibly responsible for this effect. The contribution from a heavy photon interaction to the muon $g-2$ is shown in Figure~\ref{fig:gm2}.
+
+\begin{figure}[ht]
+    \begin{center}
+        \begin{fmffile}{gm2}
+            \begin{fmfgraph*}(150,150)
+                \fmfstraight 
+                \fmftop{o1}
+                \fmfbottom{i1,i2}
+                \fmflabel{$\mu$}{i1}
+                \fmflabel{$\mu$}{i2}
+                \fmf{fermion}{i1,v1,v2,v3,i2}
+                \fmf{photon,label=$\gamma$}{v2,o1}
+                \fmffreeze
+                \fmf{photon,label=$A'$}{v1,v3}
+            \end{fmfgraph*}
+        \end{fmffile}
+    \end{center}
+    \caption{Heavy photon contribution to the muon $g-2$.}
+    \label{fig:gm2}
+\end{figure}
