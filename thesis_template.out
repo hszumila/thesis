@@ -26,33 +26,33 @@
 \BOOKMARK [1][-]{section.3.5}{Trigger}{chapter.3}% 26
 \BOOKMARK [0][-]{chapter.4}{Detector Calibration and Performance}{}% 27
 \BOOKMARK [1][-]{section.4.1}{Silicon Vertex Tracker Performance}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.2}{Electromagnetic Calorimeter}{chapter.4}% 29
-\BOOKMARK [2][-]{subsection.4.2.1}{Simulations}{section.4.2}% 30
-\BOOKMARK [3][-]{section*.5}{Energy reconstruction}{subsection.4.2.1}% 31
-\BOOKMARK [3][-]{section*.6}{Energy resolution}{subsection.4.2.1}% 32
-\BOOKMARK [3][-]{section*.7}{Position reconstruction}{subsection.4.2.1}% 33
-\BOOKMARK [3][-]{section*.8}{Position resolution}{subsection.4.2.1}% 34
-\BOOKMARK [2][-]{subsection.4.2.2}{Calibration using cosmic ray energy}{section.4.2}% 35
-\BOOKMARK [2][-]{subsection.4.2.3}{Ecal signal pulse fitting}{section.4.2}% 36
-\BOOKMARK [2][-]{subsection.4.2.4}{Calibration using elastically-scattered electrons}{section.4.2}% 37
-\BOOKMARK [2][-]{subsection.4.2.5}{Wide angle bremsstrahlung for studies of edge effects}{section.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.2.6}{Energy resolution in data}{section.4.2}% 39
-\BOOKMARK [2][-]{subsection.4.2.7}{Timing calibration and performance}{section.4.2}% 40
-\BOOKMARK [0][-]{chapter.5}{Searching for displaced vertices}{}% 41
-\BOOKMARK [1][-]{section.5.1}{Datasets}{chapter.5}% 42
-\BOOKMARK [1][-]{section.5.2}{A signal in the displaced vertex search}{chapter.5}% 43
-\BOOKMARK [1][-]{section.5.3}{Monte Carlo simulation}{chapter.5}% 44
-\BOOKMARK [2][-]{subsection.5.3.1}{Vertex reconstruction efficiencies, vtx}{section.5.3}% 45
-\BOOKMARK [2][-]{subsection.5.3.2}{Mass resolution}{section.5.3}% 46
-\BOOKMARK [1][-]{section.5.4}{Vertex cuts}{chapter.5}% 47
-\BOOKMARK [2][-]{subsection.5.4.1}{Cuts after unblinding}{section.5.4}% 48
-\BOOKMARK [1][-]{section.5.5}{Calculating zCut}{chapter.5}% 49
-\BOOKMARK [0][-]{chapter.6}{Vertex Search Results}{}% 50
-\BOOKMARK [1][-]{section.6.1}{Characterizing the background}{chapter.6}% 51
-\BOOKMARK [2][-]{subsection.6.1.1}{SVT at nominal position}{section.6.1}% 52
-\BOOKMARK [2][-]{subsection.6.1.2}{SVT at open position}{section.6.1}% 53
-\BOOKMARK [2][-]{subsection.6.1.3}{Estimate of contamination by accidentals}{section.6.1}% 54
-\BOOKMARK [1][-]{section.6.2}{Reach}{chapter.6}% 55
+\BOOKMARK [2][-]{subsection.4.1.1}{M\370ller mass}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.2}{Momentum resolution}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.3}{Tracking efficiency}{section.4.1}% 31
+\BOOKMARK [1][-]{section.4.2}{Electromagnetic Calorimeter}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.2.1}{Energy Reconstruction}{section.4.2}% 33
+\BOOKMARK [3][-]{section*.5}{Simulations}{subsection.4.2.1}% 34
+\BOOKMARK [3][-]{section*.6}{Energy resolution}{subsection.4.2.1}% 35
+\BOOKMARK [3][-]{section*.7}{Position reconstruction}{subsection.4.2.1}% 36
+\BOOKMARK [3][-]{section*.8}{Position resolution}{subsection.4.2.1}% 37
+\BOOKMARK [2][-]{subsection.4.2.2}{Energy Calibration using cosmic rays}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.3}{Ecal signal pulse fitting}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.4}{Calibration using elastically-scattered electrons}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.5}{Wide angle bremsstrahlung for studies of edge effects}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.6}{Energy resolution in data}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.7}{Timing calibration and performance}{section.4.2}% 43
+\BOOKMARK [0][-]{chapter.5}{Searching for displaced vertices}{}% 44
+\BOOKMARK [1][-]{section.5.1}{Datasets}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.2}{A signal in the displaced vertex search}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.3}{Monte Carlo simulation}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.3.1}{Vertex reconstruction efficiencies, vtx}{section.5.3}% 48
+\BOOKMARK [2][-]{subsection.5.3.2}{Mass resolution}{section.5.3}% 49
+\BOOKMARK [1][-]{section.5.4}{Vertex cuts}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.4.1}{Cuts tuned on 10\045 of the data}{section.5.4}% 51
+\BOOKMARK [1][-]{section.5.5}{Initial selection of the 10\045 sample}{chapter.5}% 52
+\BOOKMARK [0][-]{chapter.6}{Vertex Search Results}{}% 53
+\BOOKMARK [1][-]{subsection.6.0.1}{Discussion of the L1L1 data with the SVT at 1.5 mm}{chapter.6}% 54
+\BOOKMARK [1][-]{section.6.1}{Reach}{chapter.6}% 55
 \BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 56
 \BOOKMARK [0][-]{chapter*.9}{BIBLIOGRAPHY}{}% 57
 \BOOKMARK [1][-]{appendix.A}{Vertex reconstruction efficiencies}{chapter*.9}% 58
