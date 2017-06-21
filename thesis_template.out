@@ -26,41 +26,47 @@
 \BOOKMARK [1][-]{section.3.5}{Trigger}{chapter.3}% 26
 \BOOKMARK [0][-]{chapter.4}{Detector Calibration and Performance}{}% 27
 \BOOKMARK [1][-]{section.4.1}{Silicon Vertex Tracker Performance}{chapter.4}% 28
-\BOOKMARK [2][-]{subsection.4.1.1}{M\370ller mass}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.1}{Track reconstruction}{section.4.1}% 29
 \BOOKMARK [2][-]{subsection.4.1.2}{Momentum resolution}{section.4.1}% 30
 \BOOKMARK [2][-]{subsection.4.1.3}{Tracking efficiency}{section.4.1}% 31
-\BOOKMARK [1][-]{section.4.2}{Electromagnetic Calorimeter}{chapter.4}% 32
-\BOOKMARK [2][-]{subsection.4.2.1}{Energy Reconstruction}{section.4.2}% 33
-\BOOKMARK [3][-]{section*.5}{Simulations}{subsection.4.2.1}% 34
-\BOOKMARK [3][-]{section*.6}{Energy resolution}{subsection.4.2.1}% 35
-\BOOKMARK [3][-]{section*.7}{Position reconstruction}{subsection.4.2.1}% 36
-\BOOKMARK [3][-]{section*.8}{Position resolution}{subsection.4.2.1}% 37
-\BOOKMARK [2][-]{subsection.4.2.2}{Energy Calibration using cosmic rays}{section.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.2.3}{Ecal signal pulse fitting}{section.4.2}% 39
-\BOOKMARK [2][-]{subsection.4.2.4}{Calibration using elastically-scattered electrons}{section.4.2}% 40
-\BOOKMARK [2][-]{subsection.4.2.5}{Wide angle bremsstrahlung for studies of edge effects}{section.4.2}% 41
-\BOOKMARK [2][-]{subsection.4.2.6}{Energy resolution in data}{section.4.2}% 42
-\BOOKMARK [2][-]{subsection.4.2.7}{Timing calibration and performance}{section.4.2}% 43
-\BOOKMARK [0][-]{chapter.5}{Searching for displaced vertices}{}% 44
-\BOOKMARK [1][-]{section.5.1}{Datasets}{chapter.5}% 45
-\BOOKMARK [1][-]{section.5.2}{A signal in the displaced vertex search}{chapter.5}% 46
-\BOOKMARK [1][-]{section.5.3}{Monte Carlo simulation}{chapter.5}% 47
-\BOOKMARK [2][-]{subsection.5.3.1}{Vertex reconstruction efficiencies, vtx}{section.5.3}% 48
-\BOOKMARK [2][-]{subsection.5.3.2}{Mass resolution}{section.5.3}% 49
-\BOOKMARK [1][-]{section.5.4}{Vertex cuts}{chapter.5}% 50
-\BOOKMARK [2][-]{subsection.5.4.1}{Cuts tuned on 10\045 of the data}{section.5.4}% 51
-\BOOKMARK [1][-]{section.5.5}{Initial selection of the 10\045 sample}{chapter.5}% 52
-\BOOKMARK [0][-]{chapter.6}{Vertex Search Results}{}% 53
-\BOOKMARK [1][-]{subsection.6.0.1}{Discussion of the L1L1 data with the SVT at 1.5 mm}{chapter.6}% 54
-\BOOKMARK [1][-]{section.6.1}{Reach}{chapter.6}% 55
-\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 56
-\BOOKMARK [0][-]{chapter*.9}{BIBLIOGRAPHY}{}% 57
-\BOOKMARK [1][-]{appendix.A}{Vertex reconstruction efficiencies}{chapter*.9}% 58
-\BOOKMARK [1][-]{appendix.B}{Vertex analysis cuts}{chapter*.9}% 59
-\BOOKMARK [2][-]{subsection.B.0.1}{L1L2 with SVT at 0.5 mm}{appendix.B}% 60
-\BOOKMARK [2][-]{subsection.B.0.2}{L2L2 with SVT at 0.5 mm}{appendix.B}% 61
-\BOOKMARK [2][-]{subsection.B.0.3}{L1L1 with SVT at 1.5 mm}{appendix.B}% 62
-\BOOKMARK [2][-]{subsection.B.0.4}{L1L2 with SVT at 1.5 mm}{appendix.B}% 63
-\BOOKMARK [2][-]{subsection.B.0.5}{L2L2 with SVT at 1.5 mm}{appendix.B}% 64
-\BOOKMARK [1][-]{appendix.C}{Reach from other datasets}{chapter*.9}% 65
-\BOOKMARK [0][-]{appendix*.10}{VITA}{}% 66
+\BOOKMARK [3][-]{section*.5}{Tracking efficiency using three particle events}{subsection.4.1.3}% 32
+\BOOKMARK [1][-]{section.4.2}{Electromagnetic Calorimeter}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Energy Reconstruction}{section.4.2}% 34
+\BOOKMARK [3][-]{section*.6}{Simulations}{subsection.4.2.1}% 35
+\BOOKMARK [3][-]{section*.7}{Energy resolution}{subsection.4.2.1}% 36
+\BOOKMARK [3][-]{section*.8}{Position reconstruction}{subsection.4.2.1}% 37
+\BOOKMARK [3][-]{section*.9}{Position resolution}{subsection.4.2.1}% 38
+\BOOKMARK [2][-]{subsection.4.2.2}{Energy Calibration using cosmic rays}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.3}{Ecal signal pulse fitting}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.4}{Calibration using elastically-scattered electrons}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.5}{Wide angle bremsstrahlung for studies of edge effects}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.6}{Energy resolution in data}{section.4.2}% 43
+\BOOKMARK [2][-]{subsection.4.2.7}{Timing calibration and performance}{section.4.2}% 44
+\BOOKMARK [0][-]{chapter.5}{Searching for displaced vertices}{}% 45
+\BOOKMARK [1][-]{subsection.5.0.1}{General event selection}{chapter.5}% 46
+\BOOKMARK [2][-]{section*.10}{Vertex constraints}{subsection.5.0.1}% 47
+\BOOKMARK [1][-]{section.5.1}{Datasets}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{A signal in the displaced vertex search}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{Radiative Fraction}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{Vertex reconstruction efficiencies, vtx}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.3}{Mass resolution}{section.5.2}% 52
+\BOOKMARK [1][-]{section.5.3}{Vertex cuts}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.3.1}{Cuts tuned on 10\045 of the data}{section.5.3}% 54
+\BOOKMARK [1][-]{section.5.4}{Initial selection of the 10\045 sample}{chapter.5}% 55
+\BOOKMARK [0][-]{chapter.6}{Vertex Search Results}{}% 56
+\BOOKMARK [1][-]{subsection.6.0.1}{Discussion of the L1L1 data with the SVT at 1.5 mm}{chapter.6}% 57
+\BOOKMARK [1][-]{section.6.1}{Reach}{chapter.6}% 58
+\BOOKMARK [2][-]{subsection.6.1.1}{Sources of systematic uncertainty}{section.6.1}% 59
+\BOOKMARK [2][-]{subsection.6.1.2}{Recommended improvements to vertex cuts}{section.6.1}% 60
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 61
+\BOOKMARK [0][-]{chapter*.11}{BIBLIOGRAPHY}{}% 62
+\BOOKMARK [1][-]{appendix.A}{Vertex reconstruction efficiencies}{chapter*.11}% 63
+\BOOKMARK [1][-]{appendix.B}{Vertex analysis cuts}{chapter*.11}% 64
+\BOOKMARK [2][-]{subsection.B.0.1}{L1L1 cuts}{appendix.B}% 65
+\BOOKMARK [2][-]{subsection.B.0.2}{L1L2 with SVT at 0.5 mm}{appendix.B}% 66
+\BOOKMARK [2][-]{subsection.B.0.3}{L2L2 with SVT at 0.5 mm}{appendix.B}% 67
+\BOOKMARK [2][-]{subsection.B.0.4}{L1L1 with SVT at 1.5 mm}{appendix.B}% 68
+\BOOKMARK [2][-]{subsection.B.0.5}{L1L2 with SVT at 1.5 mm}{appendix.B}% 69
+\BOOKMARK [2][-]{subsection.B.0.6}{L2L2 with SVT at 1.5 mm}{appendix.B}% 70
+\BOOKMARK [1][-]{appendix.C}{Contributions from other datasets}{chapter*.11}% 71
+\BOOKMARK [0][-]{appendix*.12}{VITA}{}% 72

@@ -5,11 +5,6 @@ Bob Holdom.
 \newblock Two {{U}}(1)'s and ε charge shifts.
 \newblock 166(2):196--198.
 
-\bibitem{collaboration_heavy_2013}
-HPS Collaboration.
-\newblock Heavy {{Photon Search Experiment}} at {{Jefferson Laboratory}}:
-  Proposal for 2014-2015 run.
-
 \bibitem{alexander_dark_2016}
 Jim Alexander, Marco Battaglieri, Bertrand Echenard, Rouven Essig, Matthew
   Graham, Eder Izaguirre, John Jaros, Gordan Krnjaic, Jeremy Mardon, David
@@ -179,6 +174,17 @@ S.~Abrahamyan, Z.~Ahmed, K.~Allada, D.~Anez, T.~Averett, A.~Barbieri,
   ({{APEX}}).
 \newblock 107(19).
 
+\bibitem{balewski_darklight_2014}
+J.~Balewski, J.~Bernauer, J.~Bessuille, R.~Corliss, R.~Cowan, C.~Epstein,
+  P.~Fisher, D.~Hasell, E.~Ihloff, Y.~Kahn, J.~Kelsey, R.~Milner, S.~Steadman,
+  J.~Thaler, C.~Tschalaer, C.~Vidal, S.~Benson, J.~Boyce, D.~Douglas,
+  P.~Evtushenko, C.~Hernandez-Garcia, C.~Keith, C.~Tennant, S.~Zhang,
+  R.~Alarcon, D.~Blyth, R.~Dipert, L.~Ice, G.~Randall, B.~Dongwi,
+  N.~Kalantarians, M.~Kohl, A.~Liyanage, J.~Nazeer, M.~Garcon, R.~Cervantes,
+  K.~Dehmelt, A.~Deshpande, N.~Feege, and B.~Surrow.
+\newblock The {{DarkLight Experiment}}: {{A Precision Search}} for {{New
+  Physics}} at {{Low Energies}}.
+
 \bibitem{Batley_2015lha}
 J.~R. Batley et~al.
 \newblock {Search for the dark photon in $\pi^0$ decays}.
@@ -231,6 +237,12 @@ SHiP Collaboration, M.~Anelli, S.~Aoki, G.~Arduini, J.~J. Back, A.~Bagulya,
 \newblock A facility to {{Search}} for {{Hidden Particles}} ({{SHiP}}) at the
   {{CERN SPS}}.
 
+\bibitem{Blumlein:2013cua}
+Johannes Blümlein and Jürgen Brunner.
+\newblock {New Exclusion Limits on Dark Gauge Forces from Proton Bremsstrahlung
+  in Beam-Dump Data}.
+\newblock {\em Phys. Lett.}, B731:320--326, 2014.
+
 \bibitem{gardner_new_2016}
 S.~Gardner, R.~J. Holt, and A.~S. Tadepalli.
 \newblock New {{Prospects}} in {{Fixed Target Searches}} for {{Dark Forces}}
@@ -254,6 +266,11 @@ N.~Baltzell, H.~Egiyan, M.~Ehrhart, C.~Field, A.~Freyberger, F.~X. Girod,
 \newblock {\em Nuclear Instruments and Methods in Physics Research. Section A,
   Accelerators, Spectrometers, Detectors and Associated Equipment}, 859(C), Apr
   2017.
+
+\bibitem{collaboration_heavy_2013}
+HPS Collaboration.
+\newblock Heavy {{Photon Search Experiment}} at {{Jefferson Laboratory}}:
+  Proposal for 2014-2015 run.
 
 \bibitem{Balossino201789}
 I.~Balossino, N.~Baltzell, M.~Battaglieri, M.~Bondì, E.~Buchanan, D.~Calvo,
@@ -304,6 +321,26 @@ Ilaria Balossino, Nathan Baltzell, Marco Battaglieri, Mariangela Bondi, Emma
   Lawrence Weinstein.
 \newblock The {{HPS}} electromagnetic calorimeter.
 
+\bibitem{uemura_search_2016}
+Sho Uemura.
+\newblock Searching for heavy photons in the hps experiment.
+
+\bibitem{blobel_fast_2011}
+Volker Blobel, Claus Kleinwort, and Frank Meier.
+\newblock Fast alignment of a complex tracking detector using advanced track
+  models.
+\newblock 182(9):1760--1763.
+
+\bibitem{kleinwort_general_2012}
+Claus Kleinwort.
+\newblock General {{Broken Lines}} as advanced track fitting method.
+\newblock 673:107--110.
+
+\bibitem{moreno_search_2016}
+Omar Moreno.
+\newblock Search for a {{Heavy Photon}} in the 2015 {{Engineering Run Data}} of
+  the {{Heavy Photon Search Experiment}}.
+
 \bibitem{szumila-vance_hps_2016}
 Holly Szumila-Vance.
 \newblock {{HPS Energy Calibration}} for the {{Spring}} 2015 {{Engineering
@@ -337,5 +374,10 @@ Nathan Baltzell.
 P.~Billoir and S.~Qian.
 \newblock Fast vertex fitting with a local parametrization of tracks.
 \newblock 311(1):139--150.
+
+\bibitem{gross_trial_2010}
+Eilam Gross and Ofer Vitells.
+\newblock Trial factors for the look elsewhere effect in high energy physics.
+\newblock 70:525--530.
 
 \end{thebibliography}
