@@ -3,22 +3,6 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis_template.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
-Warning--entry type for "moreno_search_2016" isn't style-file defined
---line 296 of file biblio.bib
-Warning--entry type for "uemura_search_2016" isn't style-file defined
---line 307 of file biblio.bib
-Warning--entry type for "szumila-vance_hps_2016" isn't style-file defined
---line 634 of file biblio.bib
-Warning--entry type for "charles_2014" isn't style-file defined
---line 645 of file biblio.bib
-Warning--entry type for "baltzell_ecal_2015" isn't style-file defined
---line 656 of file biblio.bib
-Warning--entry type for "szumila-vance_hps_ecal_2014" isn't style-file defined
---line 667 of file biblio.bib
-Warning--entry type for "battaglieri_ft_clas12" isn't style-file defined
---line 2164 of file biblio.bib
-Warning--entry type for "panda_2008" isn't style-file defined
---line 2175 of file biblio.bib
 Warning--empty journal in holdom_two_1986
 Warning--empty year in holdom_two_1986
 Warning--empty journal in alexander_dark_2016
@@ -51,55 +35,45 @@ Warning--empty journal in ship_collaboration_facility_2015
 Warning--empty year in ship_collaboration_facility_2015
 Warning--empty journal in gardner_new_2016
 Warning--empty year in gardner_new_2016
-Warning--empty journal in balossino_hps_2016
-Warning--empty year in balossino_hps_2016
-Warning--empty journal in blobel_fast_2011
-Warning--empty year in blobel_fast_2011
-Warning--empty journal in kleinwort_general_2012
-Warning--empty year in kleinwort_general_2012
-Warning--empty journal in billoir_fast_1992
-Warning--empty year in billoir_fast_1992
-Warning--empty journal in gross_trial_2010
-Warning--empty year in gross_trial_2010
-You've used 46 entries,
+You've used 27 entries,
             1791 wiz_defined-function locations,
-            697 strings with 23181 characters,
-and the built_in function-call counts, 17933 in all, are:
-= -- 692
-> -- 2512
+            596 strings with 18392 characters,
+and the built_in function-call counts, 13199 in all, are:
+= -- 428
+> -- 2047
 < -- 2
-+ -- 856
-- -- 810
-* -- 2010
-:= -- 3511
-add.period$ -- 122
-call.type$ -- 46
-change.case$ -- 46
++ -- 692
+- -- 665
+* -- 1602
+:= -- 2675
+add.period$ -- 75
+call.type$ -- 27
+change.case$ -- 27
 chr.to.int$ -- 0
-cite$ -- 88
-duplicate$ -- 376
-empty$ -- 914
-format.name$ -- 810
-if$ -- 3309
+cite$ -- 59
+duplicate$ -- 243
+empty$ -- 533
+format.name$ -- 665
+if$ -- 2359
 int.to.chr$ -- 0
-int.to.str$ -- 46
-missing$ -- 37
-newline$ -- 217
-num.names$ -- 46
-pop$ -- 175
+int.to.str$ -- 27
+missing$ -- 27
+newline$ -- 132
+num.names$ -- 27
+pop$ -- 91
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 190
+skip$ -- 109
 stack$ -- 0
-substring$ -- 490
-swap$ -- 36
+substring$ -- 300
+swap$ -- 22
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 42
-while$ -- 76
-width$ -- 48
-write$ -- 423
-(There were 50 warnings)
+warning$ -- 32
+while$ -- 45
+width$ -- 29
+write$ -- 256
+(There were 32 warnings)

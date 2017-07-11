@@ -1,55 +1,69 @@
 \subsection{L1L1 cuts}
-
 The cut on the track quality $\chi^2$ is shown in Figure~\ref{fig:trkChi2}. Here, we cut on the individual positron and electron track qualities requiring a $\chi^2$ to be less than 30. 
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.65\textwidth]{pics/searching/trkChi2.png}
   \caption[Track $\chi^2$ cut]{The electron and positron track $\chi^2$ are shown with the cut indicated by the red line. This cut is an initial track selection quality cut and uses no vertex or timing information.}
   \label{fig:trkChi2}
 \end{figure} 
+
 The cut on the maximum electron track momentum is intended to reduce contamination from elastically-scattered electrons and to correspond to the range of electron energy expected from trident events.  The cut is shown in Figure~\ref{fig:emTrkPmax}.
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.65\textwidth]{pics/searching/emTrkPmax.png}
   \caption[Maximum $e^-$ track momentum]{The maximum momentum of the electron track as shown in data (prior to cutting) and Monte Carlo. Events with higher electron energies are attributable to other types of backgrounds in the data such as elastics and wide angle bremsstrahlung and not the trident background.}
   \label{fig:emTrkPmax}
 \end{figure} 
+
 A cut to the cluster time difference is set at $\pm$2~ns. This includes events from two beam buckets as shown in Figure~\ref{fig:cltdiff}.
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.6\textwidth]{pics/searching/cltdiff.png}
   \caption[Cut on the cluster pair time difference]{The two cluster timing difference is shown with a fit to the Gaussian central part of the distribution. Additional smaller peaks can be seen in intervals of 2~ns in the tails of the distribution. The timing cut can remove these events where the electron and positron come from different events.}
   \label{fig:cltdiff}
 \end{figure} 
+
 The difference between the unconstrained and beam spot constrained vertex $\chi^2$ shows how well a vertexed $e^+e^-$ pair's total momentum projects back to the beam spot position at the target. The cut is shown in Figure~\ref{fig:bmucut}.
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.45\textwidth]{pics/searching/bmuchi2.png}
   \caption[Vertex cut on the difference between beamspot and unconstrained $\chi^2$]{The effect of a cut on the difference between the beamspot and unconstrained constrained $\chi^2$ on the vertex distribution for all masses. The effects of the cut on the downstream tails of the distribution tells us how well a vertexed pair of tracks points back to the beamspot position at the target.}
   \label{fig:bmucut}
 \end{figure} 
+
 The cut to SVT tracks matched to ECal clusters is shown in Figure~\ref{fig:matchcut}. The matching parameter was derived empirically from data and corresponds to the number $\sigma$, derived from the distribution difference of the projected track to the ECal and ECal cluster positions. 
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.45\textwidth]{pics/searching/matchcut.png}
   \caption[Cut on the track-cluster matching]{The SVT track to ECal cluster matching parameter for both electrons and positrons is shown.}
   \label{fig:matchcut}
 \end{figure}
+
 The momentum asymmetry cut is defined as the momentum difference over the momentum sum of the $e^+e^-$ tracks. The momentum symmetry is intended to reduce the background WAB contamination. The effects of the cut are shown in Figure~\ref{fig:pasycut}.
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.5\textwidth]{pics/searching/pasycut.png}
   \caption[Cut on the momentum asymmetry]{The effect of the momentum asymmetry (the ratio of the momentum difference to the momentum sum of the two tracks) cut on the tails of the vertex distribution can be seen in the red an green curves.}
   \label{fig:pasycut}
 \end{figure} 
+
 The cut on the positron $DOCA$ is specifically intended to remove WAB contamination and downstream vertices from the pair-produced positron. The effects of the cut to the positron $DOCA$ on the vertex distribution are shown in Figure~\ref{fig:docacuteffect}. 
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.75\textwidth]{pics/searching/docacut.png}
   \caption[Cut effect on the postiron $DOCA$]{Positrons that are produced from the photon in wide-angle bremsstrahlung events will have a distance of closest approach that will curve widely at the target location, yielding a largely positive value. The effects of the $DOCA$ cut on the vertex distribution is shown here.}
   \label{fig:docacuteffect}
 \end{figure} 
+
 Several downstream false vertices are produced that have a one hit difference with other tracks. Many of the tracks that share a lot of hits have nearly the same momentum as other tracks as shown in Figure~\ref{fig:trkshare}.
+
 \begin{figure}[H]
   \centering
       \includegraphics[width=0.5\textwidth]{pics/searching/TrkShareHits.png}

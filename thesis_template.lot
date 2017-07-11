@@ -1,13 +1,7 @@
 \noindent Table\hfill Page\par 
-\contentsline {table}{\numberline {1}{\ignorespaces Pair-1 Trigger Cuts}}{35}{table.3.1}
-\contentsline {table}{\numberline {2}{\ignorespaces Pair-1 trigger cut values for the Engineering Run}}{37}{table.3.2}
-\contentsline {table}{\numberline {3}{\ignorespaces Horizontal position corrections.}}{52}{table.4.3}
-\contentsline {table}{\numberline {4}{\ignorespaces Position resolution.}}{53}{table.4.4}
-\contentsline {table}{\numberline {5}{\ignorespaces Vertexing Data sets}}{74}{table.5.5}
-\contentsline {table}{\numberline {6}{\ignorespaces Cuts applied to the L1L1 data set.}}{87}{table.5.6}
-\contentsline {table}{\numberline {7}{\ignorespaces Cuts applied to the L1L2 datasets.}}{125}{table.B.7}
-\contentsline {table}{\numberline {8}{\ignorespaces Cuts applied to the kinks in layers 1-3.}}{126}{table.B.8}
-\contentsline {table}{\numberline {9}{\ignorespaces Cuts applied to the L2L2 data sets.}}{130}{table.B.9}
-\contentsline {table}{\numberline {10}{\ignorespaces Cuts applied to the L1L1 data sets with the SVT at 1.5mm.}}{131}{table.B.10}
-\contentsline {table}{\numberline {11}{\ignorespaces Cuts applied to the L1L2 data sets with the SVT at 1.5\nobreakspace {}mm.}}{132}{table.B.11}
-\contentsline {table}{\numberline {12}{\ignorespaces Cuts applied to the L2L2 data sets with the SVT at 1.5\nobreakspace {}mm.}}{133}{table.B.12}
+\contentsline {table}{\numberline {1.}{\ignorespaces Cuts applied to the L1L2 datasets.}}{36}{subsection.2.0.2}
+\contentsline {table}{\numberline {2.}{\ignorespaces Cuts applied to the kinks in layers 1-3.}}{36}{subsection.2.0.2}
+\contentsline {table}{\numberline {3.}{\ignorespaces Cuts applied to the L2L2 data sets.}}{39}{subsection.2.0.3}
+\contentsline {table}{\numberline {4.}{\ignorespaces Cuts applied to the L1L1 data sets with the SVT at 1.5mm.}}{39}{subsection.2.0.4}
+\contentsline {table}{\numberline {5.}{\ignorespaces Cuts applied to the L1L2 data sets with the SVT at 1.5\nobreakspace {}mm.}}{40}{subsection.2.0.5}
+\contentsline {table}{\numberline {6.}{\ignorespaces Cuts applied to the L2L2 data sets with the SVT at 1.5\nobreakspace {}mm.}}{40}{subsection.2.0.6}

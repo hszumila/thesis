@@ -8,7 +8,6 @@
 %be in the directory in which you are working, or in one of the standard input directories
 %for the TeX installation on your system.
 
-\usepackage{ODUthesis}
 \usepackage{amsmath}
 \usepackage{float}
 \usepackage{gensymb}
@@ -33,9 +32,11 @@
 %\renewcommand{\bibname}{BIBLIOGRAPHY}
 
 \usepackage{chngcntr}
+\usepackage{ODUthesis}
+
 \counterwithin{figure}{section}
 
-\counterwithin{equation}{section}
+%\counterwithin{equation}{section}
 
 \begin{document}
 
@@ -82,7 +83,7 @@ Embry--Riddle Aeronautical University, Prescott, AZ\\
 \textbf{Research Experience:}\\
 \begin{itemize}
 \item 2013--2017, graduate research assistant searching for heavy photons in the Heavy Photon Search experiment at Jefferson Lab, Hall B\\
-\item 2013, graduate research assistant testing CLAS12 Region II drift chambers at Old Dominion University clean room\\
+\item 2013, graduate research assistant testing CLAS12 Region II drift chambers at the Old Dominion University clean room\\
 \end{itemize}
 \textbf{Publications:}\\
 \begin{itemize}
@@ -101,13 +102,13 @@ https://arxiv.org/pdf/1610.04319v2.pdf\\
 \item Center for Space Nuclear Research, research internship\\
 \end{itemize}
  }
-\abstract{The Jefferson Lab Heavy Photon Search (HPS) experiment is searching for a hypothetical massive particle called the heavy photon which could mediate a dark electromagnetic-type force. If heavy photons kinetically mix with Standard Model photons, they may be radiated by electrons scattering from a heavy nucleus and then decay to $e^+e^-$ pairs. HPS uniquely searches for heavy photons that either decay at the target or a measurable distance after. The experiment utilizes a silicon vertex tracker (SVT) for momentum and vertex reconstruction, together with an electromagnetic calorimeter for measuring particle energies and triggering events. The HPS experiment took its first data during the spring 2015 Engineering Run using a 1~GeV electron beam incident on a tungsten target and its second data in the spring 2016 Physics Run at a beam energy of 2.3 GeV. The Engineering Run obtained two days of production data that was used for the first physics results. The analysis of the data was conducted as a blinded analysis by tuning cuts on 10$\%$ of the data.\\
-\indent This dissertation discusses the displaced vertex search for heavy photons in the 2015 Engineering Run. It describes the theoretical motivation for looking for heavy photons and provides an overview of the HPS experimental design and performance. The performance details of the experiment are primarily derived from the 2015 Engineering Run with some discussion from the higher energy running in 2016. \\
+\abstract{The Jefferson Lab Heavy Photon Search (HPS) experiment is searching for a hypothetical massive particle called the heavy photon which could mediate a dark electromagnetic-type force. If heavy photons kinetically mix with Standard Model photons, they may be radiated by electrons scattering from a heavy nucleus and then decay to $e^+e^-$ pairs. HPS uniquely searches for heavy photons that either decay at the target or a measurable distance after. The experiment utilizes a silicon vertex tracker (SVT) for momentum and vertex reconstruction, together with an electromagnetic calorimeter for measuring particle energies and triggering events. The HPS experiment took its first data during the spring 2015 engineering run using a 1~GeV electron beam incident on a tungsten target and its second data in the spring of 2016 at a beam energy of 2.3 GeV. The 2015 run obtained two days of production data that was used for the first physics results. The analysis of the data was conducted as a blinded analysis by tuning cuts on 10$\%$ of the data.\\
+\indent This dissertation discusses the displaced vertex search for heavy photons in the 2015 engineering run. It describes the theoretical motivation for looking for heavy photons and provides an overview of the HPS experimental design and performance. The performance details of the experiment are primarily derived from the 2015 engineering run with some discussion from the higher energy running in 2016. \\
 \indent This dissertation further discusses the cuts used to optimize the displaced vertex search and the results of the search. The displaced vertex search did not set a limit on the heavy photon but did validate the methodology for conducting the search. Finally, we used the full data set to make projections and guide future analyses.}
 \beforepreface
 
 \prefacesection{Acknowledgments} 
-%\input{texFiles/Intro/acknowledgments.tex}
+\input{texFiles/Intro/acknowledgments.tex}
 
     %text of Acknowledgments goes here
     %any other preface section is inserted similarly by the command
@@ -125,16 +126,16 @@ https://arxiv.org/pdf/1610.04319v2.pdf\\
 \input{texFiles/Motivation/motivation.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Heavy Photon Search Experiment}
-\input{texFiles/Experiment/experiment.tex}
+%\input{texFiles/Experiment/experiment.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Detector Calibration and Performance} 
-\input{texFiles/DetectorPerformance/performance.tex}
+%\input{texFiles/DetectorPerformance/performance.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Searching for displaced vertices}
-\input{texFiles/Searching/searching.tex}
+%\input{texFiles/Searching/searching.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Vertex Search Results} 
-\input{texFiles/Results/results.tex}
+%\input{texFiles/Results/results.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Conclusion}
 \input{texFiles/Conclusion/conclusion.tex}
@@ -179,7 +180,7 @@ https://arxiv.org/pdf/1610.04319v2.pdf\\
 \label{appendix:vtxCuts}
 \input{texFiles/Appendix/cutEffects.tex}
 
-\achapter{Contributions from other datasets}
+\achapter{Contributions from other data sets}
 \label{appendix:reach}
 \input{texFiles/Appendix/reach.tex}
 

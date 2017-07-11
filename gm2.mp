@@ -15,7 +15,7 @@ vlabel ("$\mu $", __i2);
 vconnect ("fermion", __i1, __v1, __v2, __v3, __i2);
 vconnect ("photon,label=$\gamma $", __v2, __o1);
 vfreeze;
-vconnect ("photon,label=$A'$", __v1, __v3);
+vconnect ("photon,label=$A^{\prime }$", __v1, __v3);
 vfreeze;
 vdraw;
 endsubgraph;

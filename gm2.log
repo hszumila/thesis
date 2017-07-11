@@ -1,4 +1,4 @@
-This is MetaPost, version 1.9991 (TeX Live 2016) (kpathsea version 6.2.2)  30 MAY 2017 21:32
+This is MetaPost, version 1.9991 (TeX Live 2016) (kpathsea version 6.2.2)  10 JUL 2017 11:30
 **gm2
 (/usr/local/texlive/2016/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2016/texmf-dist/metapost/base/plain.mp
@@ -6,7 +6,7 @@ Preloading the plain mem file, version 1.005) ) (./gm2.mp
 (/usr/local/texlive/2016/texmf-dist/metapost/feynmf/feynmp.mp) [1] )
  
 Here is how much of MetaPost's memory you used:
- 360 strings using 5581 characters
+ 361 strings using 5627 characters
  1553936 bytes of node memory
  924 symbolic tokens
  14i,77n,28p,101b,3f stack positions out of 16i,96n,32p,200b,4f

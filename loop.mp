@@ -11,7 +11,7 @@ straight_galleries;
 vleft (__i1);
 vright (__o1);
 vlabel ("$\gamma $", __i1);
-vlabel ("$A'$", __o1);
+vlabel ("$A^{\prime }$", __o1);
 vconnect ("photon,tension=1", __i1, __v1);
 vconnect ("photon,tension=1", __v2, __o1);
 vconnect ("fermion,left,label=$\chi $", __v2, __v1);
