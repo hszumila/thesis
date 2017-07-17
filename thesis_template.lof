@@ -7,20 +7,107 @@
 \contentsline {figure}{\numberline {2.4.1.}{\ignorespaces Heavy photon production in a fixed-target experiment}}{13}{subsection.2.4.1}
 \contentsline {figure}{\numberline {2.4.2.}{\ignorespaces Radiative background}}{14}{subsection.2.4.2}
 \contentsline {figure}{\numberline {2.4.3.}{\ignorespaces Bethe-Heitler background}}{15}{subsection.2.4.2}
-\contentsline {figure}{\numberline {B.0.1.}{\ignorespaces Track $\chi ^2$ cut}}{32}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.2.}{\ignorespaces Maximum $e^-$ track momentum}}{32}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.3.}{\ignorespaces Cut on the cluster pair time difference}}{33}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.4.}{\ignorespaces Vertex cut on the difference between beamspot and unconstrained $\chi ^2$}}{33}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.5.}{\ignorespaces Cut on the track-cluster matching}}{34}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.6.}{\ignorespaces Cut on the momentum asymmetry}}{34}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.7.}{\ignorespaces Cut effect on the postiron $DOCA$}}{35}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.8.}{\ignorespaces Cut on shared hits between tracks}}{35}{subsection.2.0.1}
-\contentsline {figure}{\numberline {B.0.9.}{\ignorespaces Kink distributions for Layer 1}}{36}{subsection.2.0.2}
-\contentsline {figure}{\numberline {B.0.10.}{\ignorespaces Kink distributions for Layer 2}}{37}{subsection.2.0.2}
-\contentsline {figure}{\numberline {B.0.11.}{\ignorespaces Kink distributions for Layer 3}}{37}{subsection.2.0.2}
-\contentsline {figure}{\numberline {B.0.12.}{\ignorespaces The effects of the cuts on the L1L2 dataset on the unconstrained $z$ vertex.}}{38}{subsection.2.0.2}
-\contentsline {figure}{\numberline {B.0.13.}{\ignorespaces The effects of the cuts on the L1L2 data set on the mass distribution.}}{38}{subsection.2.0.2}
-\contentsline {figure}{\numberline {C.0.1.}{\ignorespaces $z$ vertex and mass distribution for the L1L2 data set with the SVT at $\pm 0.5$\nobreakspace {}mm}}{41}{chapter.3}
-\contentsline {figure}{\numberline {C.0.2.}{\ignorespaces $z$ vertex and mass distribution for the L1L2 data set with the SVT at $\pm 1.5$\nobreakspace {}mm}}{42}{chapter.3}
-\contentsline {figure}{\numberline {C.0.3.}{\ignorespaces $z$ vertex and mass distribution for the L2L2 data set with the SVT at $\pm 0.5$\nobreakspace {}mm}}{43}{chapter.3}
-\contentsline {figure}{\numberline {C.0.4.}{\ignorespaces $z$ vertex and mass distribution for the L2L2 data set with the SVT at $\pm 1.5$\nobreakspace {}mm}}{44}{chapter.3}
+\contentsline {figure}{\numberline {3.1.1.}{\ignorespaces CEBAF accelerator}}{17}{section.3.1}
+\contentsline {figure}{\numberline {3.2.1.}{\ignorespaces HPS location in Hall B}}{18}{section.3.2}
+\contentsline {figure}{\numberline {3.2.2.}{\ignorespaces HPS beamline}}{19}{section.3.2}
+\contentsline {figure}{\numberline {3.2.3.}{\ignorespaces HPS magnetic fields}}{20}{section.3.2}
+\contentsline {figure}{\numberline {3.2.4.}{\ignorespaces Charged particle trajectory in HPS beamline}}{21}{section.3.2}
+\contentsline {figure}{\numberline {3.2.5.}{\ignorespaces HPS beamline simulation in GEMC}}{22}{section.3.2}
+\contentsline {figure}{\numberline {3.2.6.}{\ignorespaces Beam profile from harp scan during 2015 run}}{23}{section.3.2}
+\contentsline {figure}{\numberline {3.3.1.}{\ignorespaces Rendering of the HPS SVT}}{24}{section.3.3}
+\contentsline {figure}{\numberline {3.3.2.}{\ignorespaces Assembly of a half module of the SVT }}{25}{section.3.3}
+\contentsline {figure}{\numberline {3.4.1.}{\ignorespaces Drawing of the ECal assembly face}}{26}{section.3.4}
+\contentsline {figure}{\numberline {3.4.2.}{\ignorespaces Single ECal module}}{27}{section.3.4}
+\contentsline {figure}{\numberline {3.4.3.}{\ignorespaces Photograph of ECal crystals during assembly}}{28}{section.3.4}
+\contentsline {figure}{\numberline {3.4.4.}{\ignorespaces LED signal in ECal FADC}}{29}{subsection.3.4.1}
+\contentsline {figure}{\numberline {3.4.5.}{\ignorespaces Results of a single LED run}}{30}{subsection.3.4.1}
+\contentsline {figure}{\numberline {3.4.6.}{\ignorespaces Hamamatsu S8664-3189 large area APDs}}{31}{subsection.3.4.2}
+\contentsline {figure}{\numberline {3.4.7.}{\ignorespaces Testing assembly for large area APDs}}{32}{subsection.3.4.2}
+\contentsline {figure}{\numberline {3.4.8.}{\ignorespaces APD current draw versus voltage with LED on and off}}{33}{subsection.3.4.2}
+\contentsline {figure}{\numberline {3.4.9.}{\ignorespaces APD measured dark current as a function of gain}}{34}{equation.3.4.8}
+\contentsline {figure}{\numberline {3.4.10.}{\ignorespaces APD fixed gain in terms of voltage and temperature}}{35}{equation.3.4.8}
+\contentsline {figure}{\numberline {3.5.1.}{\ignorespaces ECal readout chain}}{36}{section.3.5}
+\contentsline {figure}{\numberline {4.1.1.}{\ignorespaces Momentum resolution of the SVT}}{40}{subsection.4.1.2}
+\contentsline {figure}{\numberline {4.1.2.}{\ignorespaces Momentum resolution of the SVT extracted from $E/P$}}{41}{equation.4.1.9}
+\contentsline {figure}{\numberline {4.1.3.}{\ignorespaces Tracking efficiency of the SVT by layer}}{42}{subsection.4.1.3}
+\contentsline {figure}{\numberline {4.1.4.}{\ignorespaces Momentum sum of three track final state particles}}{43}{section*.1}
+\contentsline {figure}{\numberline {4.1.5.}{\ignorespaces Tracking efficiency from three particle final state events}}{44}{section*.1}
+\contentsline {figure}{\numberline {4.2.1.}{\ignorespaces ECal energy shower correction functions derived from simulation}}{46}{equation.4.2.11}
+\contentsline {figure}{\numberline {4.2.2.}{\ignorespaces ECal energy shower parameters for electrons relative to the inside beam gap edge}}{47}{equation.4.2.12}
+\contentsline {figure}{\numberline {4.2.3.}{\ignorespaces ECal energy shower parameters for positrons relative to the inside beam gap edge}}{48}{equation.4.2.14}
+\contentsline {figure}{\numberline {4.2.4.}{\ignorespaces ECal energy shower parameters for photons relative to the inside beam gap edge}}{49}{equation.4.2.14}
+\contentsline {figure}{\numberline {4.2.5.}{\ignorespaces ECal fractional energy resolution fitted from simulation}}{50}{section*.3}
+\contentsline {figure}{\numberline {4.2.6.}{\ignorespaces Horizontal position correction for 1\nobreakspace {}GeV electrons}}{51}{equation.4.2.18}
+\contentsline {figure}{\numberline {4.2.7.}{\ignorespaces Horizontal position correction dependence for electrons}}{52}{equation.4.2.19}
+\contentsline {figure}{\numberline {4.2.8.}{\ignorespaces Position resolution for 1\nobreakspace {}GeV electrons}}{53}{section*.5}
+\contentsline {figure}{\numberline {4.2.9.}{\ignorespaces Energy-dependent position resolution for electrons}}{54}{section*.5}
+\contentsline {figure}{\numberline {4.2.10.}{\ignorespaces Setup for ECal cosmic ray calibration}}{55}{subsection.4.2.2}
+\contentsline {figure}{\numberline {4.2.11.}{\ignorespaces Simulation of energy deposited per ECal module from cosmic rays}}{56}{subsection.4.2.2}
+\contentsline {figure}{\numberline {4.2.12.}{\ignorespaces Real cosmic ray signal in raw FADC waveform passing vertically through ECal}}{57}{subsection.4.2.2}
+\contentsline {figure}{\numberline {4.2.13.}{\ignorespaces Integrated cosmic signal in ECal fitted for calibration}}{58}{subsection.4.2.2}
+\contentsline {figure}{\numberline {4.2.14.}{\ignorespaces Resulting 2015 gain calibration in the ECal using cosmic ray muons shown by ECal module position}}{59}{equation.4.2.22}
+\contentsline {figure}{\numberline {4.2.15.}{\ignorespaces Distribution of the resulting 2015 gains in the ECal using cosmic ray muons}}{60}{equation.4.2.22}
+\contentsline {figure}{\numberline {4.2.16.}{\ignorespaces Pulse-fitting to Mode 1 ECal data}}{61}{equation.4.2.23}
+\contentsline {figure}{\numberline {4.2.17.}{\ignorespaces Reconstructed elastic peak in the ECal for the engineering runs}}{62}{equation.4.2.24}
+\contentsline {figure}{\numberline {4.2.18.}{\ignorespaces Energy resolution of the ECal found in data}}{64}{equation.4.2.28}
+\contentsline {figure}{\numberline {4.2.19.}{\ignorespaces Characterization of the energy resolution edge effects }}{65}{equation.4.2.29}
+\contentsline {figure}{\numberline {4.2.20.}{\ignorespaces Fitted, raw waveform of the RF signal in HPS}}{66}{equation.4.2.31}
+\contentsline {figure}{\numberline {4.2.21.}{\ignorespaces FADC intrinsic time resolution}}{67}{equation.4.2.31}
+\contentsline {figure}{\numberline {4.2.22.}{\ignorespaces Time difference between ECal hits and RF time}}{68}{equation.4.2.32}
+\contentsline {figure}{\numberline {4.2.23.}{\ignorespaces Time difference between two clusters after fine offset time correction}}{69}{equation.4.2.32}
+\contentsline {figure}{\numberline {4.2.24.}{\ignorespaces Hit times in a cluster versus the hit energy}}{70}{equation.4.2.32}
+\contentsline {figure}{\numberline {4.2.25.}{\ignorespaces Time walk correction for the 2016 engineering run ECal data}}{71}{equation.4.2.32}
+\contentsline {figure}{\numberline {4.2.26.}{\ignorespaces Time resolution of the ECal for the 2016 run }}{71}{equation.4.2.33}
+\contentsline {figure}{\numberline {4.2.27.}{\ignorespaces Time resolution for the time difference between two clusters}}{72}{equation.4.2.34}
+\contentsline {figure}{\numberline {5.2.1.}{\ignorespaces Fit to vertex slice at a mass of 41\nobreakspace {}MeV}}{76}{equation.5.2.36}
+\contentsline {figure}{\numberline {5.2.2.}{\ignorespaces Radiative fraction from Monte Carlo}}{77}{equation.5.2.37}
+\contentsline {figure}{\numberline {5.2.3.}{\ignorespaces Reconstruction efficiency for heavy photons that decay at the target}}{78}{subsection.5.2.2}
+\contentsline {figure}{\numberline {5.2.4.}{\ignorespaces Fraction of reconstructed events of a 35\nobreakspace {}MeV $A^{\prime }$ as a function of decay vertex position}}{79}{subsection.5.2.2}
+\contentsline {figure}{\numberline {5.2.5.}{\ignorespaces Integral as a function of mass and $zCut$ for L1L1}}{81}{equation.5.2.40}
+\contentsline {figure}{\numberline {5.2.6.}{\ignorespaces Integral as a function of mass and $zCut$ for L1L2}}{82}{equation.5.2.40}
+\contentsline {figure}{\numberline {5.2.7.}{\ignorespaces Integral as a function of mass and $zCut$ for L2L2}}{83}{equation.5.2.40}
+\contentsline {figure}{\numberline {5.2.8.}{\ignorespaces Correction to the reconstructed mass for a 40\nobreakspace {}MeV $A^{\prime }$}}{84}{equation.5.2.41}
+\contentsline {figure}{\numberline {5.2.9.}{\ignorespaces Fit to the mass residual of a 40\nobreakspace {}MeV $A^{\prime }$}}{85}{equation.5.2.41}
+\contentsline {figure}{\numberline {5.2.10.}{\ignorespaces Fit to the M\o ller mass peak in Monte Carlo and data}}{86}{equation.5.2.41}
+\contentsline {figure}{\numberline {5.2.11.}{\ignorespaces Mass resolution compared between Monte Carlo and data}}{87}{equation.5.2.42}
+\contentsline {figure}{\numberline {5.3.1.}{\ignorespaces Cut effects on the $z$ vertex distribution}}{89}{subsection.5.3.1}
+\contentsline {figure}{\numberline {5.3.2.}{\ignorespaces Cut effects on the time difference between two clusters}}{90}{subsection.5.3.1}
+\contentsline {figure}{\numberline {5.3.3.}{\ignorespaces Cut effects on the mass distribution}}{91}{subsection.5.3.1}
+\contentsline {figure}{\numberline {5.3.4.}{\ignorespaces Track isolation cut}}{91}{subsection.5.3.1}
+\contentsline {figure}{\numberline {5.3.5.}{\ignorespaces Cut on beam spot constrained vertex $\chi ^2$}}{92}{equation.5.3.43}
+\contentsline {figure}{\numberline {5.3.6.}{\ignorespaces Cut on the $e^+$ $DOCA$ to remove WAB}}{93}{equation.5.3.43}
+\contentsline {figure}{\numberline {5.4.1.}{\ignorespaces Vertex position vs mass for the 10$\%$ L1L1 data}}{94}{section.5.4}
+\contentsline {figure}{\numberline {5.4.2.}{\ignorespaces Vertex position vs mass for the 10$\%$ L1L1 accidentals}}{95}{section.5.4}
+\contentsline {figure}{\numberline {6.0.1.}{\ignorespaces Vertex position vs mass for the 100$\%$ L1L1 data at 0.5\nobreakspace {}mm}}{96}{chapter.6}
+\contentsline {figure}{\numberline {6.0.2.}{\ignorespaces High $z$ events as a function of mass}}{97}{chapter.6}
+\contentsline {figure}{\numberline {6.0.3.}{\ignorespaces Vertex distribution for 34\nobreakspace {}MeV mass bin with high $z$ background}}{98}{chapter.6}
+\contentsline {figure}{\numberline {6.0.4.}{\ignorespaces Re-characterization of the excess background}}{99}{chapter.6}
+\contentsline {figure}{\numberline {6.0.5.}{\ignorespaces Local $p$--values for the L1L1 dataset}}{100}{chapter.6}
+\contentsline {figure}{\numberline {6.0.6.}{\ignorespaces Mapping of local to global $p$--values}}{101}{chapter.6}
+\contentsline {figure}{\numberline {6.0.7.}{\ignorespaces Deviation of the measured high $z$ event from the background $zCut$}}{102}{chapter.6}
+\contentsline {figure}{\numberline {6.0.8.}{\ignorespaces Vertex position vs mass for the 100$\%$ L1L1 data at 1.5\nobreakspace {}mm}}{103}{subsection.6.0.1}
+\contentsline {figure}{\numberline {6.1.1.}{\ignorespaces Expected detectable $A^{\prime }$ signal yield for the individual L1L1 data sets}}{104}{section.6.1}
+\contentsline {figure}{\numberline {6.1.2.}{\ignorespaces Combined detectable $A^{\prime }$ signal yield from data for the 2015 engineering run}}{105}{section.6.1}
+\contentsline {figure}{\numberline {6.1.3.}{\ignorespaces Vertex resolutions as measured in data and compared}}{106}{equation.6.1.44}
+\contentsline {figure}{\numberline {6.1.4.}{\ignorespaces $zCut$ when mass resolution is doubled}}{108}{subsection.6.1.1}
+\contentsline {figure}{\numberline {B.0.1.}{\ignorespaces Track $\chi ^2$ cut}}{127}{chapter.2}
+\contentsline {figure}{\numberline {B.0.2.}{\ignorespaces Maximum $e^-$ track momentum}}{128}{chapter.2}
+\contentsline {figure}{\numberline {B.0.3.}{\ignorespaces Cut on the cluster pair time difference}}{129}{chapter.2}
+\contentsline {figure}{\numberline {B.0.4.}{\ignorespaces Vertex cut on the difference between beamspot and unconstrained $\chi ^2$}}{130}{chapter.2}
+\contentsline {figure}{\numberline {B.0.5.}{\ignorespaces Cut on the track-cluster matching}}{131}{chapter.2}
+\contentsline {figure}{\numberline {B.0.6.}{\ignorespaces Cut on the momentum asymmetry}}{132}{chapter.2}
+\contentsline {figure}{\numberline {B.0.7.}{\ignorespaces Cut effect on the postiron $DOCA$}}{133}{chapter.2}
+\contentsline {figure}{\numberline {B.0.8.}{\ignorespaces Cut on shared hits between tracks}}{133}{chapter.2}
+\contentsline {figure}{\numberline {B.0.9.}{\ignorespaces Kink distributions for Layer 1}}{134}{chapter.2}
+\contentsline {figure}{\numberline {B.0.10.}{\ignorespaces Kink distributions for Layer 2}}{135}{chapter.2}
+\contentsline {figure}{\numberline {B.0.11.}{\ignorespaces Kink distributions for Layer 3}}{135}{chapter.2}
+\contentsline {figure}{\numberline {B.0.12.}{\ignorespaces The effects of the cuts on the L1L2 dataset on the unconstrained $z$ vertex.}}{136}{chapter.2}
+\contentsline {figure}{\numberline {B.0.13.}{\ignorespaces The effects of the cuts on the L1L2 data set on the mass distribution.}}{136}{chapter.2}
+\contentsline {figure}{\numberline {C.0.1.}{\ignorespaces $z$ vertex and mass distribution for the L1L2 data set with the SVT at $\pm 0.5$\nobreakspace {}mm}}{139}{chapter.3}
+\contentsline {figure}{\numberline {C.0.2.}{\ignorespaces Expected detectable $A^{\prime }$ signal yield from the L1L2 data at 0.5\nobreakspace {}mm.}}{140}{chapter.3}
+\contentsline {figure}{\numberline {C.0.3.}{\ignorespaces $z$ vertex and mass distribution for the L1L2 data set with the SVT at $\pm 1.5$\nobreakspace {}mm}}{141}{chapter.3}
+\contentsline {figure}{\numberline {C.0.4.}{\ignorespaces Expected detectable $A^{\prime }$ signal yield from the L1L2 data at 1.5\nobreakspace {}mm.}}{142}{chapter.3}
+\contentsline {figure}{\numberline {C.0.5.}{\ignorespaces $z$ vertex and mass distribution for the L2L2 data set with the SVT at $\pm 0.5$\nobreakspace {}mm}}{142}{chapter.3}
+\contentsline {figure}{\numberline {C.0.6.}{\ignorespaces Upper limit of the detectable $A^{\prime }$ signal from the L2L2 data at 0.5\nobreakspace {}mm}}{143}{chapter.3}
+\contentsline {figure}{\numberline {C.0.7.}{\ignorespaces $z$ vertex and mass distribution for the L2L2 data set with the SVT at $\pm 1.5$\nobreakspace {}mm}}{143}{chapter.3}
+\contentsline {figure}{\numberline {C.0.8.}{\ignorespaces Expected detectable $A^{\prime }$ signal yield from the L2L2 data at 1.5\nobreakspace {}mm}}{144}{chapter.3}

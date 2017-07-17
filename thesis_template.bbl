@@ -5,6 +5,17 @@ Bob Holdom.
 \newblock Two {{U}}(1)'s and ε charge shifts.
 \newblock 166(2):196--198.
 
+\bibitem{dienes_kinetic_1997}
+Keith~R. Dienes, Christopher Kolda, and John March-Russell.
+\newblock Kinetic {{Mixing}} and the {{Supersymmetric Gauge Hierarchy}}.
+\newblock 492:104--118.
+
+\bibitem{Abel:2008ai}
+S.~A. Abel, M.~D. Goodsell, J.~Jaeckel, V.~V. Khoze, and A.~Ringwald.
+\newblock {Kinetic Mixing of the Photon with Hidden U(1)s in String
+  Phenomenology}.
+\newblock {\em JHEP}, 07:124, 2008.
+
 \bibitem{alexander_dark_2016}
 Jim Alexander, Marco Battaglieri, Bertrand Echenard, Rouven Essig, Matthew
   Graham, Eder Izaguirre, John Jaros, Gordan Krnjaic, Jeremy Mardon, David
@@ -52,11 +63,48 @@ Jim Alexander, Marco Battaglieri, Bertrand Echenard, Rouven Essig, Matthew
   Tien-Tien Yu, Yue Zhang, Yue Zhao, Yiming Zhong, and Kathryn Zurek.
 \newblock Dark {{Sectors}} 2016 {{Workshop}}: {{Community Report}}.
 
+\bibitem{goodsell_naturally_2009}
+Mark Goodsell, Joerg Jaeckel, Javier Redondo, and Andreas Ringwald.
+\newblock Naturally {{Light Hidden Photons}} in {{LARGE Volume String
+  Compactifications}}.
+\newblock 2009(11):027--027.
+
 \bibitem{bjorken_new_2009}
 James~D. Bjorken, Rouven Essig, Philip Schuster, and Natalia Toro.
 \newblock New {{Fixed}}-{{Target Experiments}} to {{Search}} for {{Dark Gauge
   Forces}}.
 \newblock 80(7).
+
+\bibitem{essig_dark_2013}
+R.~Essig, J.~A. Jaros, W.~Wester, P.~Hansson Adrian, S.~Andreas, T.~Averett,
+  O.~Baker, B.~Batell, M.~Battaglieri, J.~Beacham, T.~Beranek, J.~D. Bjorken,
+  F.~Bossi, J.~R. Boyce, G.~D. Cates, A.~Celentano, A.~S. Chou, R.~Cowan,
+  F.~Curciarello, H.~Davoudiasl, P.~{deNiverville}, R.~De~Vita, A.~Denig,
+  R.~Dharmapalan, B.~Dongwi, B.~Döbrich, B.~Echenard, D.~Espriu, S.~Fegan,
+  P.~Fisher, G.~B. Franklin, A.~Gasparian, Y.~Gershtein, M.~Graham, P.~W.
+  Graham, A.~Haas, A.~Hatzikoutelis, M.~Holtrop, I.~Irastorza, E.~Izaguirre,
+  J.~Jaeckel, Y.~Kahn, N.~Kalantarians, M.~Kohl, G.~Krnjaic, V.~Kubarovsky,
+  H.-S. Lee, A.~Lindner, A.~Lobanov, W.~J. Marciano, D.~J.~E. Marsh,
+  T.~Maruyama, D.~McKeen, H.~Merkel, K.~Moffeit, P.~Monaghan, G.~Mueller, T.~K.
+  Nelson, G.~R. Neil, M.~Oriunno, Z.~Pavlovic, S.~K. Phillips, M.~J.
+  Pivovaroff, R.~Poltis, M.~Pospelov, S.~Rajendran, J.~Redondo, A.~Ringwald,
+  A.~Ritz, J.~Ruz, K.~Saenboonruang, P.~Schuster, M.~Shinn, T.~R. Slatyer,
+  J.~H. Steffen, S.~Stepanyan, D.~B. Tanner, J.~Thaler, M.~E. Tobar, N.~Toro,
+  A.~Upadye, R.~Van~de Water, B.~Vlahovic, J.~K. Vogel, D.~Walker, A.~Weltman,
+  B.~Wojtsekhowski, S.~Zhang, and K.~Zioutas.
+\newblock Dark {{Sectors}} and {{New}}, {{Light}}, {{Weakly}}-{{Coupled
+  Particles}}.
+
+\bibitem{arkani-hamed_lhc_2008}
+Nima Arkani-Hamed and Neal Weiner.
+\newblock {{LHC Signals}} for a {{SuperUnified Theory}} of {{Dark Matter}}.
+\newblock 2008(12):104--104.
+
+\bibitem{baumgart_non-abelian_2009}
+Matthew Baumgart, Clifford Cheung, Joshua~T. Ruderman, Lian-Tao Wang, and Itay
+  Yavin.
+\newblock Non-{{Abelian Dark Sectors}} and {{Their Collider Signatures}}.
+\newblock 2009:014--014.
 
 \bibitem{Sofue:2000jx}
 Yoshiaki Sofue and Vera Rubin.
@@ -79,10 +127,27 @@ Jia Liu, Neal Weiner, and Wei Xue.
 \newblock Signals of a {{Light Dark Force}} in the {{Galactic Center}}.
 \newblock 2015(8).
 
+\bibitem{hooper_dark_2012}
+Dan Hooper, Neal Weiner, and Wei Xue.
+\newblock Dark {{Forces}} and {{Light Dark Matter}}.
+\newblock 86(5).
+
+\bibitem{morrissey_abelian_2009}
+David~E. Morrissey, David Poland, and Kathryn~M. Zurek.
+\newblock Abelian {{Hidden Sectors}} at a {{GeV}}.
+\newblock 2009:050--050.
+
 \bibitem{arkani-hamed_theory_2009}
 Nima Arkani-Hamed, Douglas~P. Finkbeiner, Tracy~R. Slatyer, and Neal Weiner.
 \newblock A {{Theory}} of {{Dark Matter}}.
 \newblock 79(1).
+
+\bibitem{finkbeiner_consistent_2011}
+Douglas~P. Finkbeiner, Lisa Goodenough, Tracy~R. Slatyer, Mark Vogelsberger,
+  and Neal Weiner.
+\newblock Consistent {{Scenarios}} for {{Cosmic}}-{{Ray Excesses}} from
+  {{Sommerfeld}}-{{Enhanced Dark Matter Annihilation}}.
+\newblock 2011:002--002.
 
 \bibitem{finkbeiner_x-ray_2014}
 Douglas~P. Finkbeiner and Neal Weiner.
@@ -95,11 +160,28 @@ Esra Bulbul, Maxim Markevitch, Adam Foster, Randall~K. Smith, Michael
   X}}-ray spectrum of {{Galaxy Clusters}}.
 \newblock 789(1):13.
 
+\bibitem{boyarsky_unidentified_2014}
+Alexey Boyarsky, Oleg Ruchayskiy, Dmytro Iakubovskyi, and Jeroen Franse.
+\newblock An unidentified line in {{X}}-ray spectra of the {{Andromeda}} galaxy
+  and {{Perseus}} galaxy cluster.
+\newblock 113(25).
+
 \bibitem{Hooper:2010mq}
 Dan Hooper and Lisa Goodenough.
 \newblock {Dark Matter Annihilation in The Galactic Center As Seen by the Fermi
   Gamma Ray Space Telescope}.
 \newblock {\em Phys. Lett.}, B697:412--428, 2011.
+
+\bibitem{cheung_kinetic_2009}
+Clifford Cheung, Joshua~T. Ruderman, Lian-Tao Wang, and Itay Yavin.
+\newblock Kinetic {{Mixing}} as the {{Origin}} of {{Light Dark Scales}}.
+\newblock 80(3).
+
+\bibitem{andreas_dark_2013}
+S.~Andreas, M.~D. Goodsell, and A.~Ringwald.
+\newblock Dark {{Matter}} and {{Dark Forces}} from a supersymmetric hidden
+  sector.
+\newblock 87(2).
 
 \bibitem{Barwick:1995gv}
 S.~W. Barwick et~al.
@@ -133,12 +215,113 @@ S.~Abdollahi et~al.
   Fermi Large Area Telescope}.
 \newblock {\em Phys. Rev.}, D95(8):082007, 2017.
 
+\bibitem{the_fermi_lat_collaboration_measurement_2012}
+The Fermi~LAT Collaboration, M.~Ackermann, M.~Ajello, A.~Allafort, W.~B.
+  Atwood, L.~Baldini, G.~Barbiellini, D.~Bastieri, K.~Bechtol, R.~Bellazzini,
+  B.~Berenji, R.~D. Blandford, E.~D. Bloom, E.~Bonamente, A.~W. Borgland,
+  A.~Bouvier, J.~Bregeon, M.~Brigida, P.~Bruel, R.~Buehler, S.~Buson, G.~A.
+  Caliandro, R.~A. Cameron, P.~A. Caraveo, J.~M. Casandjian, C.~Cecchi,
+  E.~Charles, A.~Chekhtman, C.~C. Cheung, J.~Chiang, S.~Ciprini, R.~Claus,
+  J.~Cohen-Tanugi, J.~Conrad, S.~Cutini, A.~de~Angelis, F.~de~Palma, C.~D.
+  Dermer, S.~W. Digel, E.~do~Couto e~Silva, P.~S. Drell, A.~Drlica-Wagner,
+  C.~Favuzzi, S.~J. Fegan, E.~C. Ferrara, W.~B. Focke, P.~Fortin, Y.~Fukazawa,
+  S.~Funk, P.~Fusco, F.~Gargano, D.~Gasparrini, S.~Germani, N.~Giglietto,
+  P.~Giommi, F.~Giordano, M.~Giroletti, T.~Glanzman, G.~Godfrey, I.~A. Grenier,
+  J.~E. Grove, S.~Guiriec, M.~Gustafsson, D.~Hadasch, A.~K. Harding,
+  M.~Hayashida, R.~E. Hughes, G.~Jóhannesson, A.~S. Johnson, T.~Kamae,
+  H.~Katagiri, J.~Kataoka, J.~Knödlseder, M.~Kuss, J.~Lande, L.~Latronico,
+  M.~Lemoine-Goumard, M.~Llena Garde, F.~Longo, F.~Loparco, M.~N. Lovellette,
+  P.~Lubrano, G.~M. Madejski, M.~N. Mazziotta, J.~E. McEnery, P.~F. Michelson,
+  W.~Mitthumsiri, T.~Mizuno, A.~A. Moiseev, C.~Monte, M.~E. Monzani,
+  A.~Morselli, I.~V. Moskalenko, S.~Murgia, T.~Nakamori, P.~L. Nolan, J.~P.
+  Norris, E.~Nuss, M.~Ohno, T.~Ohsugi, A.~Okumura, N.~Omodei, E.~Orlando J.~F.
+  Ormes, M.~Ozaki, D.~Paneque, D.~Parent, M.~Pesce-Rollins, M.~Pierbattista,
+  F.~Piron, G.~Pivato, T.~A. Porter, S.~Rainò, R.~Rando, M.~Razzano,
+  S.~Razzaque, A.~Reimer, O.~Reimer, T.~Reposeur, S.~Ritz, R.~W. Romani,
+  M.~Roth, H.~F.-W. Sadrozinski, C.~Sbarra, T.~L. Schalk, C.~Sgrò, E.~J.
+  Siskind, G.~Spandre, P.~Spinelli, A.~W. Strong, H.~Takahashi, T.~Takahashi,
+  T.~Tanaka, J.~G. Thayer, J.~B. Thayer, L.~Tibaldo, M.~Tinivella, D.~F.
+  Torres, G.~Tosti, E.~Troja, Y.~Uchiyama, T.~L. Usher, J.~Vandenbroucke,
+  V.~Vasileiou, G.~Vianello, V.~Vitale, A.~P. Waite, B.~L. Winer, K.~S. Wood,
+  M.~Wood, Z.~Yang, and S.~Zimmer.
+\newblock Measurement of separate cosmic-ray electron and positron spectra with
+  the {{Fermi Large Area Telescope}}.
+\newblock 108(1).
+
 \bibitem{Schael:2007tta}
 Stefan Schael.
 \newblock {Cosmic positron spectrum measurement from 1 to 50 GeV with AMS-01}.
 \newblock In {\em {Proceedings, 30th International Cosmic Ray Conference (ICRC
   2007): Merida, Yucatan, Mexico, July 3-11, 2007}}, volume~4, pages 753--756,
   2007.
+
+\bibitem{ams_collaboration_first_2013}
+{AMS Collaboration}, M.~Aguilar, G.~Alberti, B.~Alpat, A.~Alvino, G.~Ambrosi,
+  K.~Andeen, H.~Anderhub, L.~Arruda, P.~Azzarello, A.~Bachlechner, F.~Barao,
+  B.~Baret, A.~Barrau, L.~Barrin, A.~Bartoloni, L.~Basara, A.~Basili,
+  L.~Batalha, J.~Bates, R.~Battiston, J.~Bazo, R.~Becker, U.~Becker,
+  M.~Behlmann, B.~Beischer, J.~Berdugo, P.~Berges, B.~Bertucci, G.~Bigongiari,
+  A.~Biland, V.~Bindi, S.~Bizzaglia, G.~Boella, W.~de~Boer, K.~Bollweg,
+  J.~Bolmont, B.~Borgia, S.~Borsini, M.~J. Boschini, G.~Boudoul, M.~Bourquin,
+  P.~Brun, M.~Buénerd, J.~Burger, W.~Burger, F.~Cadoux, X.~D. Cai, M.~Capell,
+  D.~Casadei, J.~Casaus, V.~Cascioli, G.~Castellini, I.~Cernuda, F.~Cervelli,
+  M.~J. Chae, Y.~H. Chang, A.~I. Chen, C.~R. Chen, H.~Chen, G.~M. Cheng, H.~S.
+  Chen, L.~Cheng, N.~Chernoplyiokov, A.~Chikanian, E.~Choumilov, V.~Choutko,
+  C.~H. Chung, C.~Clark, R.~Clavero, G.~Coignet, V.~Commichau, C.~Consolandi,
+  A.~Contin, C.~Corti, M.~T. Costado~Dios, B.~Coste, D.~Crespo, Z.~Cui, M.~Dai,
+  C.~Delgado, S.~Della~Torre, B.~Demirkoz, P.~Dennett, L.~Derome, S.~Di~Falco,
+  X.~H. Diao, A.~Diago, L.~Djambazov, C.~Díaz, P.~von Doetinchem, W.~J. Du,
+  J.~M. Dubois, R.~Duperay, M.~Duranti, D.~D’Urso, A.~Egorov, A.~Eline, F.~J.
+  Eppling, T.~Eronen, J.~van Es, H.~Esser, A.~Falvard, E.~Fiandrini,
+  A.~Fiasson, E.~Finch, P.~Fisher, K.~Flood, R.~Foglio, M.~Fohey, S.~Fopp,
+  N.~Fouque, Y.~Galaktionov, M.~Gallilee, L.~Gallin-Martel, G.~Gallucci,
+  B.~García, J.~García, R.~García-López, L.~García-Tabares, C.~Gargiulo,
+  H.~Gast, I.~Gebauer, S.~Gentile, M.~Gervasi, W.~Gillard, F.~Giovacchini,
+  L.~Girard, P.~Goglov, J.~Gong, C.~Goy-Henningsen, D.~Grandi, M.~Graziani,
+  A.~Grechko, A.~Gross, I.~Guerri, C.~de~la Guía, K.~H. Guo, M.~Habiby,
+  S.~Haino, F.~Hauler, Z.~H. He, M.~Heil, J.~Heilig, R.~Hermel, H.~Hofer, Z.~C.
+  Huang, W.~Hungerford, M.~Incagli, M.~Ionica, A.~Jacholkowska, W.~Y. Jang,
+  H.~Jinchi, M.~Jongmanns, L.~Journet, L.~Jungermann, W.~Karpinski, G.~N. Kim,
+  K.~S. Kim, Th. Kirn, R.~Kossakowski, A.~Koulemzine, O.~Kounina, A.~Kounine,
+  V.~Koutsenko, M.~S. Krafczyk, E.~Laudi, G.~Laurenti, C.~Lauritzen,
+  A.~Lebedev, M.~W. Lee, S.~C. Lee, C.~Leluc, H.~León~Vargas, V.~Lepareur,
+  J.~Q. Li, Q.~Li, T.~X. Li, W.~Li, Z.~H. Li, P.~Lipari, C.~H. Lin, D.~Liu,
+  H.~Liu, T.~Lomtadze, Y.~S. Lu, S.~Lucidi, K.~Lübelsmeyer, J.~Z. Luo,
+  W.~Lustermann, S.~Lv, J.~Madsen, R.~Majka, A.~Malinin, C.~Mañá, J.~Marín,
+  T.~Martin, G.~Martínez, F.~Masciocchi, N.~Masi, D.~Maurin, A.~McInturff,
+  P.~McIntyre, A.~Menchaca-Rocha, Q.~Meng, M.~Menichelli, I.~Mereu,
+  M.~Millinger, D.~C. Mo, M.~Molina, P.~Mott, A.~Mujunen, S.~Natale, P.~Nemeth,
+  J.~Q. Ni, N.~Nikonov, F.~Nozzoli, P.~Nunes, A.~Obermeier, S.~Oh, A.~Oliva,
+  F.~Palmonari, C.~Palomares, M.~Paniccia, A.~Papi, W.~H. Park, M.~Pauluzzi,
+  F.~Pauss, A.~Pauw, E.~Pedreschi, S.~Pensotti, R.~Pereira, E.~Perrin,
+  G.~Pessina, G.~Pierschel, F.~Pilo, A.~Piluso, C.~Pizzolotto, V.~Plyaskin,
+  J.~Pochon, M.~Pohl, V.~Poireau, S.~Porter, J.~Pouxe, A.~Putze, L.~Quadrani,
+  X.~N. Qi, P.~G. Rancoita, D.~Rapin, Z.~L. Ren, J.~S. Ricol, E.~Riihonen,
+  I.~Rodríguez, U.~Roeser, S.~Rosier-Lees, L.~Rossi, A.~Rozhkov, D.~Rozza,
+  A.~Sabellek, R.~Sagdeev, J.~Sandweiss, B.~Santos, P.~Saouter, M.~Sarchioni,
+  S.~Schael, D.~Schinzel, M.~Schmanau, G.~Schwering, A.~Schulz~von Dratzig,
+  G.~Scolieri, E.~S. Seo, B.~S. Shan, J.~Y. Shi, Y.~M. Shi, T.~Siedenburg,
+  R.~Siedling, D.~Son, F.~Spada, F.~Spinella, M.~Steuer, K.~Stiff, W.~Sun,
+  W.~H. Sun, X.~H. Sun, M.~Tacconi, C.~P. Tang, X.~W. Tang, Z.~C. Tang, L.~Tao,
+  J.~Tassan-Viol, Samuel C.~C. Ting, S.~M. Ting, C.~Titus, N.~Tomassetti,
+  F.~Toral, J.~Torsti, J.~R. Tsai, J.~C. Tutt, J.~Ulbricht, T.~Urban,
+  V.~Vagelli, E.~Valente, C.~Vannini, E.~Valtonen, M.~Vargas~Trevino,
+  S.~Vaurynovich, M.~Vecchi, M.~Vergain, B.~Verlaat, C.~Vescovi, J.~P. Vialle,
+  G.~Viertel, G.~Volpini, D.~Wang, N.~H. Wang, Q.~L. Wang, R.~S. Wang, X.~Wang,
+  Z.~X. Wang, W.~Wallraff, Z.~L. Weng, M.~Willenbrock, M.~Wlochal, H.~Wu, K.~Y.
+  Wu, Z.~S. Wu, W.~J. Xiao, S.~Xie, R.~Q. Xiong, G.~M. Xin, N.~S. Xu, W.~Xu,
+  Q.~Yan, J.~Yang, M.~Yang, Q.~H. Ye, H.~Yi, Y.~J. Yu, Z.~Q. Yu, S.~Zeissler,
+  J.~G. Zhang, Z.~Zhang, M.~M. Zhang, Z.~M. Zheng, H.~L. Zhuang, V.~Zhukov,
+  A.~Zichichi, P.~Zuccon, and C.~Zurbach.
+\newblock First {{Result}} from the {{Alpha Magnetic Spectrometer}} on the
+  {{International Space Station}}: {{Precision Measurement}} of the {{Positron
+  Fraction}} in {{Primary Cosmic Rays}} of 0.5-350 {{GeV}}.
+\newblock 110(14):141102.
+
+\bibitem{cholis_high_2009}
+Ilias Cholis, Lisa Goodenough, Dan Hooper, Melanie Simet, and Neal Weiner.
+\newblock High {{Energy Positrons From Annihilating Dark Matter}}.
+\newblock 80(12).
 
 \bibitem{Bergstrom:2013jra}
 Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
@@ -147,10 +330,32 @@ Lars Bergstrom, Torsten Bringmann, Ilias Cholis, Dan Hooper, and Christoph
   data}.
 \newblock {\em Phys. Rev. Lett.}, 111:171101, 2013.
 
+\bibitem{cholis_dark_2013}
+Ilias Cholis and Dan Hooper.
+\newblock Dark {{Matter}} and {{Pulsar Origins}} of the {{Rising Cosmic Ray
+  Positron Fraction}} in {{Light}} of {{New Data From AMS}}.
+\newblock 88(2).
+
+\bibitem{Yin:2013vaa}
+Peng-Fei Yin, Zhao-Huan Yu, Qiang Yuan, and Xiao-Jun Bi.
+\newblock {Pulsar interpretation for the AMS-02 result}.
+\newblock {\em Phys. Rev.}, D88(2):023001, 2013.
+
 \bibitem{blum_muon_2013}
 Thomas Blum, Achim Denig, Ivan Logashenko, Eduardo de~Rafael, B.~Lee Roberts,
   Thomas Teubner, and Graziano Venanzoni.
 \newblock The {{Muon}} (g-2) {{Theory Value}}: {{Present}} and {{Future}}.
+
+\bibitem{muon_final_2006}
+Muon, Collaboration, and G.~W. Bennett.
+\newblock Final {{Report}} of the {{Muon E821 Anomalous Magnetic Moment
+  Measurement}} at {{BNL}}.
+\newblock 73(7).
+
+\bibitem{pospelov_secluded_2009}
+Maxim Pospelov.
+\newblock Secluded {{U}}(1) below the weak scale.
+\newblock 80(9).
 
 \bibitem{beranek_theoretical_2013}
 T.~Beranek, H.~Merkel, and M.~Vanderhaeghen.
@@ -184,6 +389,21 @@ J.~Balewski, J.~Bernauer, J.~Bessuille, R.~Corliss, R.~Cowan, C.~Epstein,
   K.~Dehmelt, A.~Deshpande, N.~Feege, and B.~Surrow.
 \newblock The {{DarkLight Experiment}}: {{A Precision Search}} for {{New
   Physics}} at {{Low Energies}}.
+
+\bibitem{denig_recent_2016}
+Achim Denig.
+\newblock Recent results from the {{Mainz Microtron MAMI}} and an outlook for
+  the future.
+\newblock In {\em {{AIP Conference Proceedings}}}, volume 1735, page 020006.
+  {AIP Publishing}.
+
+\bibitem{raggi_padme_2015}
+Mauro Raggi, Venelin Kozhuharov, and P.~Valente.
+\newblock The {{PADME}} experiment at {{LNF}}.
+
+\bibitem{wojtsekhowski_searching_2012}
+B.~Wojtsekhowski, D.~Nikolenko, and I.~Rachek.
+\newblock Searching for a new force at {{VEPP}}-3.
 
 \bibitem{Batley_2015lha}
 J.~R. Batley et~al.
@@ -237,6 +457,32 @@ SHiP Collaboration, M.~Anelli, S.~Aoki, G.~Arduini, J.~J. Back, A.~Bagulya,
 \newblock A facility to {{Search}} for {{Hidden Particles}} ({{SHiP}}) at the
   {{CERN SPS}}.
 
+\bibitem{riordan_search_1987}
+E.~M. Riordan, M.~W. Krasny, K.~Lang, P.~de~Barbaro, A.~Bodek, S.~Dasu,
+  N.~Varelas, X.~Wang, R.~Arnold, D.~Benton, P.~Bosted, L.~Clogher, A.~Lung,
+  S.~Rock, Z.~Szalata, B.~W. Filippone, R.~C. Walker, J.~D. Bjorken,
+  M.~Crisler, A.~Para, J.~Lambert, J.~Button-Shafer, B.~Debebe, M.~Frodyma,
+  R.~S. Hicks, G.~A. Peterson, and R.~Gearhart.
+\newblock Search for short-lived axions in an electron-beam-dump experiment.
+\newblock 59(7):755--758.
+
+\bibitem{bjorken_search_1988}
+J.~D. Bjorken, S.~Ecklund, W.~R. Nelson, A.~Abashian, C.~Church, B.~Lu, L.~W.
+  Mo, T.~A. Nunamaker, and P.~Rassmann.
+\newblock Search for neutral metastable penetrating particles produced in the
+  {{SLAC}} beam dump.
+\newblock 38(11):3375--3386.
+
+\bibitem{bross_search_1991}
+A.~Bross, M.~Crisler, S.~Pordes, J.~Volk, S.~Errede, and J.~Wrbanek.
+\newblock Search for short-lived particles produced in an electron beam dump.
+\newblock 67(21):2942--2945.
+
+\bibitem{davier_unambiguous_1989}
+M.~Davier and H.~Nguyen~Ngoc.
+\newblock An unambiguous search for a light {{Higgs}} boson.
+\newblock 229(1):150--155.
+
 \bibitem{Blumlein:2013cua}
 Johannes Blümlein and Jürgen Brunner.
 \newblock {New Exclusion Limits on Dark Gauge Forces from Proton Bremsstrahlung
@@ -254,9 +500,213 @@ J.~P. Lees et~al.
 \newblock {Search for a Dark Photon in $e^+e^-$ Collisions at BaBar}.
 \newblock {\em Phys. Rev. Lett.}, 113(20):201801, 2014.
 
+\bibitem{soffer_constraints_2014}
+Abner Soffer.
+\newblock Constraints on dark forces from the {{B}} factories and low-energy
+  experiments.
+
+\bibitem{Inguglia:2017nxe}
+Gianluca Inguglia.
+\newblock {Studies of dark sector \& B decays involving $\tau$ at Belle and
+  Belle II}.
+\newblock {\em PoS}, ICHEP2016:131, 2016.
+
+\bibitem{collaboration_limit_2013}
+KLOE-2 Collaboration, D.~Babusci, D.~Badoni, I.~Balwierz-Pytko, G.~Bencivenni,
+  C.~Bini, C.~Bloise, F.~Bossi, P.~Branchini, A.~Budano, L.~Caldeira
+  Balkestaahl, G.~Capon, F.~Ceradini, P.~Ciambrone, E.~Czerwinski, E.~Dane,
+  E.~De~Lucia, G.~De~Robertis, A.~De~Santis, A.~Di~Domenico, C.~Di~Donato,
+  R.~Di~Salvo, D.~Domenici, O.~Erriquez, G.~Fanizzi, A.~Fantini, G.~Felici,
+  S.~Fiore, P.~Franzini, P.~Gauzzi, G.~Giardina, S.~Giovannella, F.~Gonnella,
+  E.~Graziani, F.~Happacher, L.~Heijkenskj, B.~Hoistad, L.~Iafolla,
+  M.~Jacewicz, T.~Johansson, A.~Kupsc, J.~Lee-Franzini, B.~Leverington,
+  F.~Loddo, S.~Loffredo, G.~Mandaglio, M.~Martemianov, M.~Martini, M.~Mascolo,
+  R.~Messi, S.~Miscetti, G.~Morello, D.~Moricciani, P.~Moskal, F.~Nguyen,
+  A.~Passeri, V.~Patera, I.~Prado Longhi, A.~Ranieri, C.~F. Redmer,
+  P.~Santangelo, I.~Sarra, M.~Schioppa, B.~Sciascia, M.~Silarski, C.~Taccini,
+  L.~Tortora, G.~Venanzoni, W.~Wislicki, M.~Wolke, and J.~Zdebik.
+\newblock Limit on the production of a light vector gauge boson in phi meson
+  decays with the {{KLOE}} detector.
+\newblock 720:111--115.
+
+\bibitem{babusci_search_2014}
+D.~Babusci, I.~Balwierz-Pytko, G.~Bencivenni, C.~Bloise, F.~Bossi,
+  P.~Branchini, A.~Budano, L.~Caldeira Balkeståhl, F.~Ceradini, P.~Ciambrone,
+  F.~Curciarello, E.~Czerwinski, E.~Danè, V.~De~Leo, E.~De~Lucia,
+  G.~De~Robertis, A.~De~Santis, P.~De~Simone, A.~Di~Cicco, A.~Di~Domenico,
+  R.~Di~Salvo, D.~Domenici, O.~Erriquez, G.~Fanizzi, A.~Fantini, G.~Felici,
+  S.~Fiore, P.~Franzini, A.~Gajos, P.~Gauzzi, G.~Giardina, S.~Giovannella,
+  E.~Graziani, F.~Happacher, L.~Heijkenskjold, B.~Hoistad, T.~Johansson,
+  K.~Kacprzak, D.~Kaminska, W.~Krzemien, A.~Kupsc, J.~Lee-Franzini, F.~Loddo,
+  S.~Loffredo, G.~Mandaglio, M.~Martemianov, M.~Martini, M.~Mascolo, R.~Messi,
+  S.~Miscetti, G.~Morello, D.~Moricciani, P.~Moskal, F.~Nguyen, A.~Palladino,
+  A.~Passeri, V.~Patera, I.~Prado Longhi, A.~Ranieri, P.~Santangelo, I.~Sarra,
+  M.~Schioppa, B.~Sciascia, M.~Silarski, L.~Tortora, G.~Venanzoni, W.~Wislicki,
+  M.~Wolke, and J.~Zdebik.
+\newblock Search for light vector boson production in $e^+e^-\rightarrow
+  \mu^+\mu^- \gamma$ interactions with the {{KLOE}} experiment.
+\newblock 736:459--464.
+
+\bibitem{anastasi_limit_2015}
+A.~Anastasi, D.~Babusci, G.~Bencivenni, M.~Berlowski, C.~Bloise, F.~Bossi,
+  P.~Branchini, A.~Budano, L.~Caldeira Balkeståhl, B.~Cao, F.~Ceradini,
+  P.~Ciambrone, F.~Curciarello, E.~Czerwiński, G.~D'Agostini, E.~Danè,
+  V.~De~Leo, E.~De~Lucia, A.~De~Santis, P.~De~Simone, A.~Di~Cicco,
+  A.~Di~Domenico, R.~Di~Salvo, D.~Domenici, A.~D'Uffizi, A.~Fantini, G.~Felici,
+  S.~Fiore, A.~Gajos, P.~Gauzzi, G.~Giardina, S.~Giovannella, E.~Graziani,
+  F.~Happacher, L.~Heijkenskjöld, W.~Ikegami Andersson, T.~Johansson,
+  D.~Kamińska, W.~Krzemien, A.~Kupsc, S.~Loffredo, G.~Mandaglio, M.~Martini,
+  M.~Mascolo, R.~Messi, S.~Miscetti, G.~Morello, D.~Moricciani, P.~Moskal,
+  A.~Palladino, M.~Papenbrock, A.~Passeri, V.~Patera, E.~Perez del Rio,
+  A.~Ranieri, P.~Santangelo, I.~Sarra, M.~Schioppa, M.~Silarski, F.~Sirghi,
+  L.~Tortora, G.~Venanzoni, W.~Wiślicki, and M.~Wolke.
+\newblock Limit on the production of a low-mass vector boson in
+  $e^+e^-\rightarrow \textrm{U}\gamma$, $\textrm{U}\rightarrow e^+e^-$ with the
+  {{KLOE}} experiment.
+\newblock 750:633--637.
+
+\bibitem{collaboration_limit_2016}
+KLOE-2 Collaboration, A.~Anastasi, D.~Babusci, G.~Bencivenni, M.~Berlowski,
+  C.~Bloise, F.~Bossi, P.~Branchini, A.~Budano, L.~Caldeira Balkeståhl,
+  B.~Cao, F.~Ceradini, P.~Ciambrone, F.~Curciarello, E.~Czerwinski,
+  G.~D'Agostini, E.~Danè, V.~De~Leo, E.~De~Lucia, A.~De~Santis, P.~De~Simone,
+  A.~Di~Cicco, A.~Di~Domenico, R.~Di~Salvo, D.~Domenici, A.~D'Uffizi,
+  A.~Fantini, G.~Felici, S.~Fiore, A.~Gajos, P.~Gauzzi, G.~Giardina,
+  S.~Giovannella, E.~Graziani, F.~Happacher, L.~Heijkenskjöld, W.~Ikegami
+  Andersson, T.~Johansson, D.~Kamińska, W.~Krzemien, A.~Kupsc, S.~Loffredo,
+  G.~Mandaglio, M.~Martini, M.~Mascolo, R.~Messi, S.~Miscetti, G.~Morello,
+  D.~Moricciani, P.~Moskal, A.~Palladino, M.~Papenbrock, A.~Passeri, V.~Patera,
+  E.~Perez del Rio, A.~Ranieri, P.~Santangelo, I.~Sarra, M.~Schioppa,
+  M.~Silarski, F.~Sirghi, L.~Tortora, G.~Venanzoni, W.~Wiślicki, and M.~Wolke.
+\newblock Limit on the production of a new vector boson in $e^+e^-\rightarrow
+  \textrm{U}\gamma$, $\textrm{U}\rightarrow\pi^+\pi^-$ with the kloe
+  experiment.
+\newblock 757:356--361.
+
 \bibitem{Ilten_2016tkc}
 Philip Ilten, Yotam Soreq, Jesse Thaler, Mike Williams, and Wei Xue.
 \newblock {Proposed Inclusive Dark Photon Search at LHCb}.
 \newblock {\em Phys. Rev. Lett.}, 116(25):251803, 2016.
+
+\bibitem{beamline_nim_2017}
+N.~Baltzell, H.~Egiyan, M.~Ehrhart, C.~Field, A.~Freyberger, F.~X. Girod,
+  M.~Holtrop, J.~Jaros, G.~Kalicy, T.~Maruyama, and et~al.
+\newblock The heavy photon search beamline and its performance.
+\newblock {\em Nuclear Instruments and Methods in Physics Research. Section A,
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 859(C), Apr
+  2017.
+
+\bibitem{collaboration_heavy_2013}
+HPS Collaboration.
+\newblock Heavy {{Photon Search Experiment}} at {{Jefferson Laboratory}}:
+  Proposal for 2014-2015 run.
+
+\bibitem{Balossino201789}
+I.~Balossino, N.~Baltzell, M.~Battaglieri, M.~Bondì, E.~Buchanan, D.~Calvo,
+  A.~Celentano, G.~Charles, L.~Colaneri, A.~D'Angelo, M.~De Napoli, R.~De Vita,
+  R.~Dupré, H.~Egiyan, M.~Ehrhart, A.~Filippi, M.~Garçon, N.~Gevorgyan, F.-X.
+  Girod, M.~Guidal, M.~Holtrop, V.~Iurasov, V.~Kubarovsky, K.~Livingston,
+  K.~McCarty, J.~McCormick, B.~McKinnon, M.~Osipenko, R.~Paremuzyan,
+  N.~Randazzo, E.~Rauly, B.~Raydo, E.~Rindel, A.~Rizzo, P.~Rosier, V.~Sipala,
+  S.~Stepanyan, H.~Szumila-Vance, and L.B. Weinstein.
+\newblock The \{HPS\} electromagnetic calorimeter.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 854:89 --
+  99, 2017.
+
+\bibitem{Batarin2005543}
+V.A. Batarin, J.~Butler, A.M. Davidenko, A.A. Derevschikov, Y.M. Goncharenko,
+  V.N. Grishin, V.A. Kachanov, A.S. Konstantinov, V.I. Kravtsov, Y.~Kubota,
+  V.S. Lukanin, Y.A. Matulenko, Y.M. Melnick, A.P. Meschanin, N.E. Mikhalin,
+  N.G. Minaev, V.V. Mochalov, D.A. Morozov, L.V. Nogach, A.V. Ryazantsev, P.A.
+  Semenov, V.K. Semenov, K.E. Shestermanov, L.F. Soloviev, S.~Stone, A.V.
+  Uzunian, A.N. Vasiliev, A.E. Yakutin, and J.~Yarba.
+\newblock Correlation of beam electron and \{LED\} signal losses under
+  irradiation and long-term recovery of lead tungstate crystals.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 550(3):543
+  -- 550, 2005.
+
+\bibitem{battaglieri_ft_clas12}
+MesonEx Collaboration.
+\newblock Clas12 forward tagger technical design report, 12/7/12.
+
+\bibitem{celentano_2014}
+A~Celentano, L~Colaneri, R~De Vita, S~Fegan, G~Minì, G~Nobili, G~Ottonello,
+  F~Parodi, A~Rizzo, and I~Zonta.
+\newblock Design and realization of a facility for the characterization of
+  silicon avalanche photodiodes.
+\newblock {\em Journal of Instrumentation}, 9(09):T09002, 2014.
+
+\bibitem{balossino_hps_2016}
+Ilaria Balossino, Nathan Baltzell, Marco Battaglieri, Mariangela Bondi, Emma
+  Buchanan, Daniela Calvo, Andrea Celentano, Gabriel Charles, Luca Colaneri,
+  Annalisa D'Angelo, Marzio De~Napoli, Raffaella De~Vita, Raphael Dupre,
+  Mathieu Ehrhart, Alessandra Filippi, Michel Garcon, Francois-Xavier Girod,
+  Michel Guidal, Maurik Holtrop, Volodymyr Iurasov, Valery Kubarovsky, Kyle
+  McCarty, Jeremy McCormick, Mikhail Osipenko, Rafayel Paremuzyan, Nunzio
+  Randazzo, Emmanuel Rauly, Benjamin Raydo, Emmanuel Rindel, Alessandro Rizzo,
+  Philippe Rosier, Valeria Sipala, Stepan Stepanyan, Holly Szumila-Vance, and
+  Lawrence Weinstein.
+\newblock The {{HPS}} electromagnetic calorimeter.
+
+\bibitem{uemura_search_2016}
+Sho Uemura.
+\newblock Searching for heavy photons in the hps experiment.
+
+\bibitem{blobel_fast_2011}
+Volker Blobel, Claus Kleinwort, and Frank Meier.
+\newblock Fast alignment of a complex tracking detector using advanced track
+  models.
+\newblock 182(9):1760--1763.
+
+\bibitem{kleinwort_general_2012}
+Claus Kleinwort.
+\newblock General {{Broken Lines}} as advanced track fitting method.
+\newblock 673:107--110.
+
+\bibitem{moreno_search_2016}
+Omar Moreno.
+\newblock Search for a {{Heavy Photon}} in the 2015 {{Engineering Run Data}} of
+  the {{Heavy Photon Search Experiment}}.
+
+\bibitem{szumila-vance_hps_2016}
+Holly Szumila-Vance.
+\newblock {{HPS Energy Calibration}} for the {{Spring}} 2015 {{Engineering
+  Run}}, 6/8/16.
+
+\bibitem{szumila-vance_hps_ecal_2014}
+Holly Szumila-Vance and Michel Garcon.
+\newblock {{HPS}}/{{ECal}} simulations: Energy and position reconstruction for
+  electrons, positrons and photons, 8/8/14.
+
+\bibitem{charles_2014}
+Andrea Celentano and Gabriel Charles.
+\newblock Characterization of the ecal crystal light yield and amplification
+  chain, 8/19/14.
+
+\bibitem{panda_2008}
+The~PANDA Collaboration.
+\newblock Technical design report for panda electromagnetic calorimeter (emc),
+  10/7/08.
+
+\bibitem{Agashe:2014kda}
+K.~A. Olive et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em Chin. Phys.}, C38:090001, 2014.
+
+\bibitem{baltzell_ecal_2015}
+Nathan Baltzell.
+\newblock {{ECal Pulse Fitting}}, 9/9/15.
+
+\bibitem{billoir_fast_1992}
+P.~Billoir and S.~Qian.
+\newblock Fast vertex fitting with a local parametrization of tracks.
+\newblock 311(1):139--150.
+
+\bibitem{gross_trial_2010}
+Eilam Gross and Ofer Vitells.
+\newblock Trial factors for the look elsewhere effect in high energy physics.
+\newblock 70:525--530.
 
 \end{thebibliography}

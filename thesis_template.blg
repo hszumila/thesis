@@ -3,77 +3,160 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis_template.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
+Warning--entry type for "moreno_search_2016" isn't style-file defined
+--line 409 of file biblio.bib
+Warning--entry type for "uemura_search_2016" isn't style-file defined
+--line 420 of file biblio.bib
+Warning--entry type for "szumila-vance_hps_2016" isn't style-file defined
+--line 747 of file biblio.bib
+Warning--entry type for "charles_2014" isn't style-file defined
+--line 758 of file biblio.bib
+Warning--entry type for "baltzell_ecal_2015" isn't style-file defined
+--line 769 of file biblio.bib
+Warning--entry type for "szumila-vance_hps_ecal_2014" isn't style-file defined
+--line 780 of file biblio.bib
+Warning--entry type for "battaglieri_ft_clas12" isn't style-file defined
+--line 2306 of file biblio.bib
+Warning--entry type for "panda_2008" isn't style-file defined
+--line 2317 of file biblio.bib
 Warning--empty journal in holdom_two_1986
 Warning--empty year in holdom_two_1986
+Warning--empty journal in dienes_kinetic_1997
+Warning--empty year in dienes_kinetic_1997
 Warning--empty journal in alexander_dark_2016
 Warning--empty year in alexander_dark_2016
+Warning--empty journal in goodsell_naturally_2009
+Warning--empty year in goodsell_naturally_2009
 Warning--empty journal in bjorken_new_2009
 Warning--empty year in bjorken_new_2009
+Warning--empty journal in essig_dark_2013
+Warning--empty year in essig_dark_2013
+Warning--empty journal in arkani-hamed_lhc_2008
+Warning--empty year in arkani-hamed_lhc_2008
+Warning--empty journal in baumgart_non-abelian_2009
+Warning--empty year in baumgart_non-abelian_2009
 Warning--empty journal in madhavacheril_current_2014
 Warning--empty year in madhavacheril_current_2014
 Warning--empty journal in weinberg_cold_2013
 Warning--empty year in weinberg_cold_2013
 Warning--empty journal in liu_signals_2015
 Warning--empty year in liu_signals_2015
+Warning--empty journal in hooper_dark_2012
+Warning--empty year in hooper_dark_2012
+Warning--empty journal in morrissey_abelian_2009
+Warning--empty year in morrissey_abelian_2009
 Warning--empty journal in arkani-hamed_theory_2009
 Warning--empty year in arkani-hamed_theory_2009
+Warning--empty journal in finkbeiner_consistent_2011
+Warning--empty year in finkbeiner_consistent_2011
 Warning--empty journal in finkbeiner_x-ray_2014
 Warning--empty year in finkbeiner_x-ray_2014
 Warning--empty journal in bulbul_detection_2014
 Warning--empty year in bulbul_detection_2014
+Warning--empty journal in boyarsky_unidentified_2014
+Warning--empty year in boyarsky_unidentified_2014
+Warning--empty journal in cheung_kinetic_2009
+Warning--empty year in cheung_kinetic_2009
+Warning--empty journal in andreas_dark_2013
+Warning--empty year in andreas_dark_2013
 Warning--empty journal in adriani_observation_2009
 Warning--empty year in adriani_observation_2009
+Warning--empty journal in the_fermi_lat_collaboration_measurement_2012
+Warning--empty year in the_fermi_lat_collaboration_measurement_2012
+Warning--empty journal in ams_collaboration_first_2013
+Warning--empty year in ams_collaboration_first_2013
+Warning--empty journal in cholis_high_2009
+Warning--empty year in cholis_high_2009
+Warning--empty journal in cholis_dark_2013
+Warning--empty year in cholis_dark_2013
 Warning--empty journal in blum_muon_2013
 Warning--empty year in blum_muon_2013
+Warning--empty journal in muon_final_2006
+Warning--empty year in muon_final_2006
+Warning--empty journal in pospelov_secluded_2009
+Warning--empty year in pospelov_secluded_2009
 Warning--empty journal in beranek_theoretical_2013
 Warning--empty year in beranek_theoretical_2013
 Warning--empty journal in abrahamyan_search_2011
 Warning--empty year in abrahamyan_search_2011
 Warning--empty journal in balewski_darklight_2014
 Warning--empty year in balewski_darklight_2014
+Warning--empty year in denig_recent_2016
+Warning--empty journal in raggi_padme_2015
+Warning--empty year in raggi_padme_2015
+Warning--empty journal in wojtsekhowski_searching_2012
+Warning--empty year in wojtsekhowski_searching_2012
 Warning--empty journal in ship_collaboration_facility_2015
 Warning--empty year in ship_collaboration_facility_2015
+Warning--empty journal in riordan_search_1987
+Warning--empty year in riordan_search_1987
+Warning--empty journal in bjorken_search_1988
+Warning--empty year in bjorken_search_1988
+Warning--empty journal in bross_search_1991
+Warning--empty year in bross_search_1991
+Warning--empty journal in davier_unambiguous_1989
+Warning--empty year in davier_unambiguous_1989
 Warning--empty journal in gardner_new_2016
 Warning--empty year in gardner_new_2016
-You've used 27 entries,
+Warning--empty journal in soffer_constraints_2014
+Warning--empty year in soffer_constraints_2014
+Warning--empty journal in collaboration_limit_2013
+Warning--empty year in collaboration_limit_2013
+Warning--empty journal in babusci_search_2014
+Warning--empty year in babusci_search_2014
+Warning--empty journal in anastasi_limit_2015
+Warning--empty year in anastasi_limit_2015
+Warning--empty journal in collaboration_limit_2016
+Warning--empty year in collaboration_limit_2016
+Warning--empty journal in balossino_hps_2016
+Warning--empty year in balossino_hps_2016
+Warning--empty journal in blobel_fast_2011
+Warning--empty year in blobel_fast_2011
+Warning--empty journal in kleinwort_general_2012
+Warning--empty year in kleinwort_general_2012
+Warning--empty journal in billoir_fast_1992
+Warning--empty year in billoir_fast_1992
+Warning--empty journal in gross_trial_2010
+Warning--empty year in gross_trial_2010
+You've used 78 entries,
             1791 wiz_defined-function locations,
-            596 strings with 18392 characters,
-and the built_in function-call counts, 13199 in all, are:
-= -- 428
-> -- 2047
-< -- 2
-+ -- 692
-- -- 665
-* -- 1602
-:= -- 2675
-add.period$ -- 75
-call.type$ -- 27
-change.case$ -- 27
+            844 strings with 42930 characters,
+and the built_in function-call counts, 36133 in all, are:
+= -- 1239
+> -- 5473
+< -- 4
++ -- 1855
+- -- 1777
+* -- 4319
+:= -- 7215
+add.period$ -- 215
+call.type$ -- 78
+change.case$ -- 78
 chr.to.int$ -- 0
-cite$ -- 59
-duplicate$ -- 243
-empty$ -- 533
-format.name$ -- 665
-if$ -- 2359
+cite$ -- 177
+duplicate$ -- 667
+empty$ -- 1553
+format.name$ -- 1777
+if$ -- 6478
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 27
-newline$ -- 132
-num.names$ -- 27
-pop$ -- 91
+int.to.str$ -- 78
+missing$ -- 69
+newline$ -- 373
+num.names$ -- 78
+pop$ -- 304
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 109
+skip$ -- 316
 stack$ -- 0
-substring$ -- 300
-swap$ -- 22
-text.length$ -- 2
+substring$ -- 918
+swap$ -- 55
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 32
-while$ -- 45
-width$ -- 29
-write$ -- 256
-(There were 32 warnings)
+warning$ -- 99
+while$ -- 141
+width$ -- 80
+write$ -- 712
+(There were 107 warnings)
